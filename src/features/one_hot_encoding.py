@@ -22,18 +22,3 @@ def one_hot_encode(df, categorical_features):
     final_df = pd.concat([df[numeric_cols].reset_index(drop=True), encoded_df.reset_index(drop=True)], axis=1)
     
     return final_df
-
-
-if __name__ == "__main__":
-    # Example usage
-    from features.select_features import select_features
-    from load_data import load_dataset
-
-    file_path = r"D:\ACEYOURGRACE\DATASCIENCE\DataScienceProjects\AI Customer Onboarding & Policy Intelligence Platform\bank-lead-intelligence\data\raw\bank_leads_v4.csv"
-    df = load_dataset(file_path)
-
-    X, y, numeric_features, categorical_features = select_features(df)
-    X_encoded = one_hot_encode(X, categorical_features)
-    
-    print("Shape after one-hot encoding:", X_encoded.shape)
-    print("Columns after encoding:", X_encoded.columns)
