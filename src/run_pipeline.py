@@ -1,44 +1,114 @@
 
 
+# from load_data import load_dataset
+# from features.select_features import select_features
+# from features.one_hot_encoding import one_hot_encode
+# from features.scale_features import scale_numeric_features
+# from modeling.train_test_split import split_data
+# from modeling.train_model import train_model, evaluate_model
+
+# file_path = r"D:\ACEYOURGRACE\DATASCIENCE\DataScienceProjects\AI Customer Onboarding & Policy Intelligence Platform\bank-lead-intelligence\data\raw\bank_leads_v4.csv"
+
+# # Load dataset
+# df = load_dataset(file_path)
+
+# # Select features
+# X, y, numeric_features, categorical_features = select_features(df)
+
+# # One-hot encode categorical features
+# X_encoded = one_hot_encode(X, categorical_features)
+# # print("Final Shape:", X_encoded.shape)
+
+# # Scale numeric features
+# X_scaled = scale_numeric_features(X_encoded, numeric_features)
+
+# # print("Pipeline complete. Final shape:", X_scaled.shape)
+
+# # Split into train and test sets
+# X_train, X_test, y_train, y_test = split_data(X_scaled, y, test_size=0.2)
+
+# # print("Shapes after train-test split:")
+# # print(f"X_train: {X_train.shape}, X_test: {X_test.shape}")
+# # print(f"y_train: {y_train.shape}, y_test: {y_test.shape}")
+
+# # Train model
+# model = train_model(X_train, y_train)
+
+# # Evaluate model
+# accuracy, report = evaluate_model(model, X_test, y_test)
+
+# print("\nModel Performance:")
+# print(f"Accuracy: {accuracy:.4f}")
+# print("Classification Report:")
+# print(report)
+
+
+
 from load_data import load_dataset
 from features.select_features import select_features
 from features.one_hot_encoding import one_hot_encode
 from features.scale_features import scale_numeric_features
-from modeling.train_test_split import split_data
-from modeling.train_model import train_model, evaluate_model
+from binary_modeling.train_test_split import split_data
+from binary_modeling.train_model import train_model, evaluate_model
 
 file_path = r"D:\ACEYOURGRACE\DATASCIENCE\DataScienceProjects\AI Customer Onboarding & Policy Intelligence Platform\bank-lead-intelligence\data\raw\bank_leads_v4.csv"
 
-# Load dataset
-df = load_dataset(file_path)
+def main():
+    # -------------------------
+    # 1. Load Dataset
+    # -------------------------
+    df = load_dataset(file_path)
 
-# Select features
-X, y, numeric_features, categorical_features = select_features(df)
+    # -------------------------
+    # 2. Feature Selection
+    # -------------------------
+    X, y, numeric_features, categorical_features = select_features(df)
 
-# One-hot encode categorical features
-X_encoded = one_hot_encode(X, categorical_features)
-# print("Final Shape:", X_encoded.shape)
+    # -------------------------
+    # 3. One-Hot Encoding
+    # -------------------------
+    X_encoded = one_hot_encode(X, categorical_features)
 
-# Scale numeric features
-X_scaled = scale_numeric_features(X_encoded, numeric_features)
+    # -------------------------
+    # 4. Train-Test Split (IMPORTANT: Before Scaling)
+    # -------------------------
+    X_train, X_test, y_train, y_test = split_data(
+        X_encoded,
+        y,
+        test_size=0.2
+    )
 
-# print("Pipeline complete. Final shape:", X_scaled.shape)
+    # -------------------------
+    # 5. Scaling (Fit on Train Only)
+    # -------------------------
+    X_train, scaler = scale_numeric_features(
+        X_train,
+        numeric_features,
+        fit=True
+    )
 
-# Split into train and test sets
-X_train, X_test, y_train, y_test = split_data(X_scaled, y, test_size=0.2)
+    X_test, _ = scale_numeric_features(
+        X_test,
+        numeric_features,
+        scaler=scaler,
+        fit=False
+    )
 
-# print("Shapes after train-test split:")
-# print(f"X_train: {X_train.shape}, X_test: {X_test.shape}")
-# print(f"y_train: {y_train.shape}, y_test: {y_test.shape}")
+    # -------------------------
+    # 6. Train Model
+    # -------------------------
+    model = train_model(X_train, y_train)
 
-# Train model
-model = train_model(X_train, y_train)
+    # -------------------------
+    # 7. Evaluate Model
+    # -------------------------
+    accuracy, report = evaluate_model(model, X_test, y_test)
 
-# Evaluate model
-accuracy, report = evaluate_model(model, X_test, y_test)
+    print("\nModel Performance:")
+    print(f"Accuracy: {accuracy:.4f}")
+    print("Classification Report:")
+    print(report)
 
-print("\nModel Performance:")
-print(f"Accuracy: {accuracy:.4f}")
-print("Classification Report:")
-print(report)
 
+if __name__ == "__main__":
+    main()
