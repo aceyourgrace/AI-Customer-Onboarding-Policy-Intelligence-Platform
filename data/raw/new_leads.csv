@@ -1,0 +1,501 @@
+Age,Income,WebsiteVisits_PreConversion,TimeOnWebsite_Minutes,EmailOpenedCount,DaysSinceInquiry,CallCenterInquiries,BranchVisits,CLTV,EngagementScore,AgeScore,LeadPriorityScore,Gender,EmploymentStatus,MaritalStatus,Province,InitialProductInterest,FirstContactChannel,LeadSource
+30,52441,0,5,1,0,0,0,257,1,1,0,Female,Self-employed,Married,Quebec,Mortgage,Email,Online Ad
+26,49933,1,6,0,4,0,0,223,0,1,0,Female,Unemployed,Married,Ontario,Investment,Branch,Online Ad
+34,34290,0,3,0,36,0,0,201,1,1,0,Male,Full-time,Married,Alberta,Chequing Account,Call,Branch Walk-in
+34,15195,1,7,1,9,0,0,123,1,1,1,Female,Full-time,Single,British Columbia,Mortgage,Website,Social Media
+32,64004,1,2,0,30,0,0,16,0,1,0,Male,Part-time,Single,British Columbia,Chequing Account,Email,Referral
+20,30407,0,9,1,14,0,0,38,1,1,0,Male,Part-time,Married,Quebec,Mortgage,Branch,Online Ad
+32,46873,1,4,0,0,0,0,589,1,1,0,Female,Unemployed,Single,British Columbia,Credit Card,Email,Branch Walk-in
+26,38344,1,1,2,0,0,0,229,1,1,0,Female,Full-time,Married,Ontario,Credit Card,Email,Partnership
+21,61538,1,4,1,1,0,0,482,1,1,0,Female,Student,Married,Manitoba,Credit Card,Email,Online Ad
+29,34781,0,3,1,21,0,0,454,0,1,1,Female,Part-time,Single,Manitoba,Credit Card,Website,Social Media
+18,31924,1,11,1,27,0,0,314,0,1,1,Male,Student,Single,Quebec,Chequing Account,Website,Branch Walk-in
+33,16382,1,8,0,10,0,0,268,1,1,1,Male,Full-time,Married,Unknown,Investment,Email,Partnership
+20,33259,1,4,0,13,0,0,0,0,1,1,Male,Part-time,Married,British Columbia,Chequing Account,Email,Social Media
+30,22979,1,8,2,38,0,0,351,1,1,0,Female,Full-time,Single,Quebec,Chequing Account,Email,Online Ad
+18,53326,1,6,0,22,0,0,619,0,1,0,Male,Full-time,Married,British Columbia,Chequing Account,Email,Branch Walk-in
+23,59190,1,9,0,6,0,0,507,1,1,0,Female,Unknown,Single,Quebec,Mortgage,Email,Referral
+25,36363,0,10,1,7,0,0,617,0,1,1,Male,Full-time,Married,Ontario,Mortgage,Email,Referral
+25,32192,0,2,0,32,0,0,109,1,1,1,Male,Part-time,Single,Ontario,Chequing Account,Call,Referral
+25,39907,0,11,0,27,0,0,223,1,1,0,Male,Full-time,Single,Quebec,Mortgage,Email,Online Ad
+26,42181,0,6,0,18,0,0,209,0,1,0,Male,Part-time,Married,British Columbia,Investment,Website,Branch Walk-in
+21,44429,0,3,2,0,0,0,600,0,1,1,Female,Full-time,Single,Ontario,Mortgage,Email,Online Ad
+26,54103,0,9,0,6,0,0,613,1,1,0,Female,Unknown,Married,Ontario,Chequing Account,Website,Branch Walk-in
+19,57194,1,6,0,32,0,0,35,0,1,0,Female,Full-time,Married,Manitoba,Credit Card,Website,Branch Walk-in
+19,63230,1,5,1,14,0,0,443,1,1,0,Female,Full-time,Single,Ontario,Credit Card,Branch,Referral
+22,43537,1,7,0,26,0,0,610,0,1,0,Female,Student,Single,Ontario,Investment,Email,Partnership
+33,56145,0,2,0,22,0,0,541,0,1,0,Female,Full-time,Married,Alberta,Investment,Website,Referral
+34,48891,1,5,0,7,0,0,147,1,1,0,Male,Full-time,Single,Quebec,Chequing Account,Email,Referral
+21,58694,0,0,1,3,0,0,250,0,1,0,Female,Full-time,Divorced,Alberta,Mortgage,Call,Social Media
+32,27364,1,0,0,38,0,0,241,0,1,0,Other,Full-time,Single,Ontario,Investment,Email,Online Ad
+32,28483,0,11,1,14,0,0,163,1,1,0,Other,Part-time,Single,Ontario,Investment,Email,Social Media
+32,18900,1,2,1,34,0,0,410,0,1,1,Male,Student,Married,Ontario,Mortgage,Website,Online Ad
+25,25055,1,0,1,18,0,0,586,0,1,0,Female,Full-time,Married,Manitoba,Mortgage,Email,Referral
+33,29338,0,2,0,34,0,0,603,0,1,0,Male,Full-time,Single,British Columbia,Credit Card,Call,Branch Walk-in
+21,34732,0,5,0,29,0,0,528,0,1,0,Male,Full-time,Single,Quebec,Mortgage,Website,Online Ad
+33,59377,0,4,1,24,0,0,519,0,1,0,Female,Part-time,Single,Alberta,Chequing Account,Website,Online Ad
+32,29674,0,2,1,2,0,0,463,0,1,0,Male,Full-time,Divorced,Ontario,Credit Card,Branch,Social Media
+20,62334,0,3,1,35,0,0,153,0,1,0,Male,Self-employed,Single,Ontario,Mortgage,Call,Branch Walk-in
+29,48262,0,3,1,12,0,0,565,0,1,0,Female,Full-time,Married,Ontario,Mortgage,Website,Partnership
+22,57371,1,1,2,11,0,0,411,0,1,0,Male,Student,Married,Quebec,Chequing Account,Website,Referral
+27,52127,1,9,2,16,0,0,537,0,1,0,Male,Unemployed,Single,Alberta,Chequing Account,Branch,Online Ad
+26,31566,0,4,2,34,0,0,334,0,1,0,Male,Full-time,Married,Ontario,Credit Card,Branch,Online Ad
+34,43215,0,1,2,20,0,0,220,0,1,0,Male,Unknown,Widowed,British Columbia,Credit Card,Call,Branch Walk-in
+23,30207,1,2,0,26,0,0,396,1,1,0,Male,Full-time,Single,Ontario,Mortgage,Email,Branch Walk-in
+28,22878,1,7,0,33,0,0,10,0,1,0,Female,Part-time,Divorced,Ontario,Credit Card,Website,Online Ad
+32,63717,1,9,0,8,0,0,46,1,1,0,Male,Unemployed,Divorced,Quebec,Mortgage,Website,Online Ad
+27,30895,0,11,0,2,0,0,627,1,1,1,Female,Student,Single,Alberta,Credit Card,Email,Referral
+22,20331,1,3,1,6,0,0,466,0,1,0,Female,Self-employed,Single,Ontario,Credit Card,Email,Partnership
+33,27518,0,2,1,23,0,0,625,1,1,0,Female,Unknown,Single,Ontario,Credit Card,Website,Branch Walk-in
+30,40879,0,9,0,1,0,0,237,1,1,1,Female,Part-time,Married,Ontario,Mortgage,Call,Partnership
+18,52872,0,3,2,27,0,0,466,1,1,0,Female,Self-employed,Single,Ontario,Chequing Account,Email,Online Ad
+32,50744,0,9,1,25,0,0,123,0,1,0,Male,Student,Divorced,Nova Scotia,Credit Card,Website,Branch Walk-in
+20,18172,0,2,1,23,0,0,309,0,1,0,Male,Student,Married,British Columbia,Credit Card,Call,Online Ad
+33,17933,1,0,1,9,0,0,406,0,1,0,Male,Part-time,Married,Ontario,Chequing Account,Branch,Social Media
+22,29768,1,5,1,3,0,0,78,0,1,0,Male,Part-time,Single,Ontario,Investment,Email,Social Media
+27,23793,0,6,2,3,0,0,147,0,1,0,Female,Full-time,Married,Nova Scotia,Mortgage,Email,Referral
+26,17462,1,6,2,0,0,0,308,0,1,0,Male,Unemployed,Single,Alberta,Chequing Account,Email,Partnership
+18,52958,0,2,0,37,0,0,62,1,1,0,Male,Full-time,Married,Quebec,Chequing Account,Website,Referral
+21,47797,0,6,1,18,0,0,373,0,1,1,Female,Part-time,Divorced,Alberta,Investment,Call,Online Ad
+22,46920,0,0,2,32,0,0,488,0,1,1,Female,Full-time,Married,Ontario,Chequing Account,Website,Online Ad
+22,60735,0,7,0,3,0,0,511,0,1,0,Male,Part-time,Married,Quebec,Credit Card,Email,Partnership
+28,40514,1,8,1,10,0,0,622,0,1,0,Female,Self-employed,Single,Ontario,Credit Card,Website,Partnership
+28,23758,0,4,2,0,0,0,390,0,1,0,Female,Full-time,Single,Alberta,Mortgage,Call,Online Ad
+18,38666,1,3,0,17,0,0,140,0,1,0,Other,Part-time,Divorced,Alberta,Mortgage,Email,Online Ad
+32,63212,1,4,1,33,0,0,340,0,1,0,Female,Full-time,Married,British Columbia,Mortgage,Website,Social Media
+26,49403,0,3,2,3,0,0,27,1,1,0,Male,Full-time,Divorced,Ontario,Chequing Account,Call,Branch Walk-in
+20,55753,1,3,0,1,0,0,263,1,1,0,Female,Full-time,Widowed,Manitoba,Chequing Account,Website,Referral
+25,52980,1,2,2,25,0,0,619,1,1,0,Male,Student,Single,Quebec,Chequing Account,Call,Partnership
+32,15633,1,2,2,28,0,0,306,0,1,0,Male,Student,Married,Alberta,Chequing Account,Email,Partnership
+28,50068,0,9,0,5,0,0,164,0,1,1,Female,Part-time,Married,Ontario,Chequing Account,Branch,Branch Walk-in
+27,29391,0,1,1,31,0,0,569,1,1,1,Other,Full-time,Married,Ontario,Credit Card,Website,Social Media
+34,61404,0,8,2,8,0,0,620,1,1,0,Male,Full-time,Single,Alberta,Chequing Account,Email,Partnership
+22,15729,1,6,2,28,0,0,207,0,1,0,Female,Unknown,Married,Ontario,Mortgage,Website,Online Ad
+19,45060,1,6,1,6,0,0,389,1,1,0,Female,Part-time,Single,Unknown,Investment,Website,Partnership
+26,22056,0,2,1,0,0,0,612,1,1,1,Female,Unemployed,Married,Ontario,Credit Card,Email,Online Ad
+33,55085,0,0,1,2,0,0,529,1,1,0,Female,Full-time,Married,Ontario,Chequing Account,Website,Social Media
+32,61871,1,1,0,3,0,0,476,0,1,0,Male,Unemployed,Married,Ontario,Chequing Account,Call,Social Media
+29,24409,0,5,1,32,0,0,474,0,1,0,Female,Part-time,Single,Alberta,Chequing Account,Website,Online Ad
+31,41017,0,9,2,10,0,0,497,0,1,1,Male,Part-time,Divorced,British Columbia,Credit Card,Call,Branch Walk-in
+34,41592,1,1,1,1,0,0,158,1,1,0,Female,Full-time,Married,Ontario,Chequing Account,Email,Branch Walk-in
+30,31467,1,8,0,11,0,0,179,0,1,0,Male,Full-time,Widowed,Quebec,Chequing Account,Email,Online Ad
+23,49219,1,4,2,25,0,0,506,0,1,1,Male,Self-employed,Married,Alberta,Credit Card,Email,Referral
+22,33897,0,6,0,12,0,0,170,1,1,0,Male,Full-time,Married,Nova Scotia,Investment,Call,Referral
+30,50917,0,10,2,26,0,0,90,0,1,0,Female,Full-time,Single,British Columbia,Chequing Account,Website,Online Ad
+25,38728,0,10,0,27,0,0,384,0,1,0,Female,Full-time,Single,Manitoba,Mortgage,Email,Partnership
+30,47420,1,2,1,9,0,0,204,0,1,0,Female,Full-time,Single,British Columbia,Mortgage,Website,Social Media
+18,31457,1,4,2,30,0,0,447,0,1,0,Male,Student,Single,British Columbia,Credit Card,Email,Referral
+26,46671,1,7,1,28,0,0,412,1,1,0,Female,Full-time,Married,Quebec,Mortgage,Website,Online Ad
+19,41788,0,10,2,25,0,0,20,0,1,0,Other,Full-time,Single,Ontario,Mortgage,Email,Partnership
+21,59033,0,9,1,6,0,0,188,0,1,0,Male,Full-time,Single,Ontario,Chequing Account,Email,Online Ad
+19,48191,0,3,1,12,0,0,370,0,1,0,Female,Full-time,Married,Alberta,Chequing Account,Email,Branch Walk-in
+27,21356,0,6,2,10,0,0,114,0,1,0,Female,Full-time,Married,Quebec,Credit Card,Branch,Social Media
+32,25518,1,4,0,3,0,0,107,1,1,1,Female,Full-time,Single,Quebec,Mortgage,Branch,Branch Walk-in
+33,24637,1,1,0,30,0,0,372,1,1,0,Female,Student,Married,Ontario,Credit Card,Branch,Partnership
+18,55741,0,3,0,36,0,0,195,1,1,0,Male,Full-time,Married,Ontario,Mortgage,Email,Branch Walk-in
+21,41395,1,7,1,29,0,0,623,0,1,0,Male,Student,Single,British Columbia,Investment,Call,Online Ad
+22,48641,0,5,0,2,0,0,439,1,1,0,Female,Full-time,Single,British Columbia,Chequing Account,Email,Online Ad
+18,45247,1,3,1,1,0,0,116,0,1,0,Male,Full-time,Single,Ontario,Credit Card,Email,Partnership
+24,35476,1,5,1,5,0,0,501,0,1,0,Female,Full-time,Single,Alberta,Chequing Account,Email,Online Ad
+22,48441,1,7,2,31,0,0,505,1,1,0,Male,Unknown,Married,British Columbia,Chequing Account,Call,Referral
+27,58137,0,0,2,7,0,0,30,0,1,1,Female,Part-time,Married,British Columbia,Credit Card,Website,Online Ad
+26,26978,1,6,0,13,0,0,391,1,1,1,Female,Part-time,Divorced,Ontario,Credit Card,Branch,Partnership
+32,63830,1,11,2,24,0,0,280,0,1,1,Female,Self-employed,Single,Alberta,Mortgage,Email,Branch Walk-in
+29,53706,1,9,1,3,0,0,464,1,1,1,Female,Full-time,Married,Quebec,Credit Card,Branch,Referral
+33,36748,1,0,0,8,0,0,59,0,1,0,Male,Part-time,Divorced,Ontario,Chequing Account,Website,Partnership
+18,61696,1,8,1,32,0,0,132,0,1,0,Male,Student,Single,Manitoba,Mortgage,Call,Online Ad
+32,30750,1,4,1,32,0,0,304,0,1,0,Male,Full-time,Married,Quebec,Credit Card,Website,Referral
+25,36537,1,3,2,25,0,0,226,1,1,0,Female,Full-time,Married,British Columbia,Chequing Account,Call,Referral
+31,35934,1,3,2,31,0,0,195,0,1,1,Male,Full-time,Single,Manitoba,Chequing Account,Email,Branch Walk-in
+32,28104,0,0,1,10,0,0,393,0,1,0,Male,Part-time,Divorced,Ontario,Chequing Account,Email,Online Ad
+30,62282,0,5,1,5,0,0,440,0,1,0,Male,Part-time,Single,Alberta,Chequing Account,Website,Online Ad
+20,33627,0,7,2,35,0,0,281,0,1,0,Male,Full-time,Married,Ontario,Mortgage,Email,Social Media
+24,21145,1,2,2,26,0,0,399,1,1,0,Male,Part-time,Married,Quebec,Mortgage,Email,Branch Walk-in
+30,40861,0,5,2,21,0,0,62,0,1,0,Male,Self-employed,Single,Ontario,Chequing Account,Call,Partnership
+29,51768,1,10,0,15,0,0,125,1,1,0,Male,Part-time,Married,Alberta,Investment,Email,Branch Walk-in
+25,50062,0,10,2,0,0,0,91,0,1,1,Female,Part-time,Married,Alberta,Mortgage,Email,Referral
+26,28159,0,8,1,32,0,0,526,0,1,0,Male,Self-employed,Married,Ontario,Credit Card,Website,Referral
+31,15035,0,4,1,23,0,0,214,1,1,1,Male,Full-time,Married,Ontario,Chequing Account,Branch,Online Ad
+19,55660,0,3,0,12,0,0,243,1,1,0,Female,Full-time,Single,Ontario,Credit Card,Email,Online Ad
+27,22724,0,9,1,25,0,0,365,0,1,1,Female,Unemployed,Single,Manitoba,Credit Card,Website,Social Media
+31,40682,0,11,1,28,0,0,486,0,1,0,Female,Unemployed,Single,Alberta,Credit Card,Website,Social Media
+22,34755,0,6,1,6,0,0,219,0,1,1,Female,Full-time,Married,Quebec,Chequing Account,Call,Online Ad
+26,53507,1,2,2,27,0,0,447,1,1,0,Male,Student,Single,Quebec,Chequing Account,Email,Branch Walk-in
+32,26903,1,10,0,34,0,0,347,0,1,0,Male,Full-time,Married,Manitoba,Mortgage,Website,Social Media
+21,18672,0,1,1,30,0,0,282,0,1,1,Female,Part-time,Married,Ontario,Credit Card,Email,Branch Walk-in
+30,23647,0,8,1,11,0,0,159,0,1,0,Other,Full-time,Married,Ontario,Chequing Account,Email,Referral
+28,48199,1,9,0,38,0,0,1,1,1,1,Male,Full-time,Divorced,Alberta,Chequing Account,Website,Referral
+21,41207,0,10,0,36,0,0,280,1,1,0,Male,Self-employed,Single,Quebec,Chequing Account,Call,Branch Walk-in
+27,20487,0,4,1,32,0,0,18,1,1,0,Female,Full-time,Widowed,Alberta,Chequing Account,Email,Partnership
+29,44064,1,10,0,29,0,0,589,1,1,0,Male,Full-time,Single,Ontario,Chequing Account,Website,Branch Walk-in
+25,57555,1,3,2,4,0,0,520,0,1,1,Male,Self-employed,Single,Ontario,Mortgage,Email,Branch Walk-in
+27,35383,0,5,1,31,0,0,72,1,1,0,Female,Self-employed,Single,Ontario,Chequing Account,Call,Branch Walk-in
+29,61759,0,11,1,1,0,0,557,0,1,0,Male,Full-time,Single,British Columbia,Credit Card,Website,Branch Walk-in
+24,28706,1,10,1,15,0,0,305,1,1,0,Female,Part-time,Single,Nova Scotia,Chequing Account,Email,Partnership
+22,63994,1,0,0,8,0,0,418,0,1,0,Female,Student,Single,Ontario,Mortgage,Website,Online Ad
+27,19574,0,8,0,23,0,0,300,0,1,0,Male,Self-employed,Married,Manitoba,Investment,Website,Social Media
+18,48219,1,7,1,37,0,0,509,1,1,1,Female,Full-time,Married,Nova Scotia,Mortgage,Call,Social Media
+31,32238,1,1,1,0,0,0,357,0,1,0,Male,Full-time,Married,Manitoba,Chequing Account,Email,Social Media
+18,25352,1,9,1,9,0,0,112,1,1,1,Male,Student,Single,Ontario,Investment,Email,Referral
+34,56539,1,9,2,10,0,0,396,0,1,1,Male,Self-employed,Married,Ontario,Mortgage,Website,Branch Walk-in
+25,62045,0,6,2,31,0,0,359,0,1,0,Female,Full-time,Single,Manitoba,Investment,Website,Online Ad
+25,55689,1,6,0,37,0,0,486,1,1,0,Female,Full-time,Divorced,Alberta,Mortgage,Call,Social Media
+23,25584,1,4,0,20,0,0,1,1,1,0,Female,Full-time,Single,Nova Scotia,Chequing Account,Website,Branch Walk-in
+30,61179,0,6,0,20,0,0,160,0,1,1,Female,Part-time,Single,Manitoba,Investment,Call,Online Ad
+33,48574,0,10,1,37,0,0,526,1,1,0,Male,Full-time,Married,Ontario,Mortgage,Call,Social Media
+34,18111,1,7,1,5,0,0,543,1,1,0,Female,Self-employed,Single,Alberta,Mortgage,Email,Referral
+18,51376,1,2,2,34,0,0,357,1,1,0,Male,Self-employed,Married,Alberta,Mortgage,Call,Referral
+28,21353,0,9,1,24,0,0,406,0,1,0,Female,Self-employed,Married,Ontario,Credit Card,Email,Online Ad
+22,58648,1,1,0,26,0,0,455,0,1,0,Male,Full-time,Married,Alberta,Mortgage,Website,Branch Walk-in
+28,52177,0,6,2,9,0,0,317,0,1,0,Male,Unemployed,Married,Ontario,Chequing Account,Website,Social Media
+26,36996,1,6,1,2,0,0,50,1,1,0,Female,Self-employed,Married,Ontario,Credit Card,Branch,Online Ad
+26,40989,0,6,0,15,0,0,309,0,1,1,Female,Full-time,Single,Ontario,Chequing Account,Email,Online Ad
+20,39177,0,2,2,7,0,0,455,0,1,1,Male,Part-time,Single,Ontario,Credit Card,Website,Online Ad
+32,30137,1,5,0,14,0,0,89,1,1,0,Female,Part-time,Divorced,Quebec,Chequing Account,Call,Online Ad
+31,20899,0,10,1,4,0,0,481,0,1,0,Female,Full-time,Single,Ontario,Mortgage,Website,Referral
+20,17370,0,1,0,36,0,0,298,0,1,0,Male,Full-time,Single,Quebec,Chequing Account,Email,Social Media
+22,48982,0,5,2,7,0,0,318,0,1,0,Female,Part-time,Married,Unknown,Investment,Email,Referral
+33,29182,1,1,1,1,0,0,415,0,1,0,Female,Full-time,Single,Manitoba,Credit Card,Email,Branch Walk-in
+32,59420,0,11,2,18,0,0,485,0,1,0,Male,Self-employed,Single,British Columbia,Investment,Call,Social Media
+23,26762,0,1,2,29,0,0,92,1,1,0,Male,Full-time,Married,British Columbia,Credit Card,Website,Online Ad
+18,42921,1,10,0,14,0,0,342,0,1,0,Female,Unemployed,Single,Manitoba,Credit Card,Website,Partnership
+26,45336,1,9,2,34,0,0,38,1,1,1,Female,Part-time,Married,Ontario,Chequing Account,Email,Social Media
+26,33918,1,6,0,12,0,0,370,0,1,0,Male,Part-time,Single,Ontario,Investment,Email,Branch Walk-in
+23,28785,1,4,1,5,0,0,95,0,1,0,Male,Part-time,Married,Quebec,Credit Card,Website,Social Media
+22,61408,1,8,2,18,0,0,253,0,1,0,Female,Part-time,Married,Quebec,Chequing Account,Branch,Partnership
+28,62802,0,3,0,36,0,0,322,0,1,0,Male,Full-time,Married,Nova Scotia,Investment,Website,Online Ad
+23,54116,1,7,2,2,0,0,571,0,1,0,Female,Full-time,Single,Manitoba,Mortgage,Website,Online Ad
+41,78555,2,15,4,71,0,0,2506,1,2,1,Female,Full-time,Widowed,Quebec,Investment,Email,Online Ad
+49,84196,2,13,3,61,0,0,2964,2,2,1,Female,Full-time,Single,Ontario,Credit Card,Email,Referral
+37,74098,2,13,3,59,0,0,1987,1,2,1,Female,Student,Married,Manitoba,Investment,Email,Partnership
+48,74238,2,17,3,60,0,0,2793,2,2,1,Female,Student,Single,Ontario,Mortgage,Website,Referral
+39,68970,3,17,4,65,0,0,1689,1,2,1,Female,Part-time,Married,Ontario,Credit Card,Email,Branch Walk-in
+40,81803,3,12,5,69,0,0,3512,2,2,1,Other,Full-time,Married,Ontario,Mortgage,Email,Online Ad
+41,72158,2,11,3,55,0,0,1724,2,2,1,Other,Unemployed,Married,Ontario,Investment,Email,Online Ad
+48,84040,2,15,3,63,0,0,3487,2,2,1,Male,Full-time,Single,Quebec,Investment,Email,Online Ad
+42,84126,3,18,4,69,0,0,1198,1,2,1,Other,Part-time,Married,British Columbia,Mortgage,Website,Partnership
+35,81916,3,13,3,78,0,0,3354,1,2,1,Male,Full-time,Married,Ontario,Mortgage,Website,Social Media
+42,80869,2,13,5,40,0,0,1939,1,2,1,Female,Full-time,Single,Quebec,Chequing Account,Email,Partnership
+44,69370,3,12,5,78,0,0,2897,1,2,1,Male,Full-time,Widowed,Ontario,Credit Card,Email,Partnership
+51,71992,3,14,4,53,0,0,3315,2,2,1,Female,Full-time,Single,Ontario,Investment,Email,Referral
+38,82532,3,16,4,40,0,0,1895,1,2,1,Male,Unemployed,Single,Ontario,Chequing Account,Website,Partnership
+47,67955,2,12,3,42,0,0,3646,2,2,1,Female,Full-time,Single,Ontario,Mortgage,Website,Referral
+38,80781,2,13,5,75,0,0,1027,2,2,1,Male,Student,Divorced,Ontario,Credit Card,Email,Branch Walk-in
+40,71353,2,13,4,59,0,0,3953,2,2,1,Female,Part-time,Single,Alberta,Chequing Account,Email,Online Ad
+45,84295,2,14,5,70,0,0,4058,1,2,1,Male,Full-time,Married,Manitoba,Credit Card,Email,Branch Walk-in
+50,73973,2,12,3,41,0,0,4119,2,2,1,Male,Unemployed,Single,Ontario,Chequing Account,Email,Referral
+48,83846,2,17,5,69,0,0,3443,1,2,1,Male,Full-time,Divorced,Quebec,Investment,Email,Social Media
+47,82432,2,11,3,73,0,0,3117,1,2,1,Male,Full-time,Married,Quebec,Credit Card,Email,Online Ad
+36,81068,3,15,4,55,0,0,2274,2,2,1,Other,Part-time,Divorced,Alberta,Credit Card,Email,Online Ad
+43,74138,3,12,5,55,0,0,4206,2,2,1,Male,Self-employed,Married,Ontario,Chequing Account,Website,Branch Walk-in
+46,81624,3,17,3,67,0,0,2005,2,2,1,Female,Unemployed,Single,Quebec,Mortgage,Website,Branch Walk-in
+35,82457,2,13,3,77,0,0,2452,2,2,1,Female,Self-employed,Married,Alberta,Credit Card,Email,Referral
+40,80636,3,12,5,41,0,0,3105,1,2,1,Male,Student,Married,Alberta,Chequing Account,Call,Branch Walk-in
+44,67159,3,13,4,48,0,0,950,1,2,1,Male,Full-time,Single,Ontario,Credit Card,Website,Branch Walk-in
+50,65387,3,18,3,76,0,0,649,1,2,1,Male,Part-time,Single,Ontario,Credit Card,Email,Partnership
+40,68667,2,15,3,56,0,0,4230,1,2,1,Female,Full-time,Married,Ontario,Investment,Call,Branch Walk-in
+39,84757,3,14,3,74,0,0,1540,2,2,1,Female,Full-time,Divorced,Quebec,Investment,Call,Branch Walk-in
+44,65558,2,15,3,42,0,0,4214,2,2,1,Female,Unemployed,Married,Alberta,Credit Card,Website,Partnership
+50,67837,2,11,5,44,0,0,1969,2,2,1,Male,Part-time,Married,Alberta,Credit Card,Call,Branch Walk-in
+37,70614,3,12,5,65,0,0,2660,2,2,1,Female,Full-time,Divorced,Manitoba,Credit Card,Branch,Partnership
+43,84399,2,12,5,55,0,0,4157,2,2,1,Female,Self-employed,Single,Ontario,Credit Card,Website,Referral
+43,66336,2,13,5,61,0,0,2952,2,2,1,Female,Part-time,Single,Quebec,Investment,Email,Online Ad
+37,71682,2,12,3,42,0,0,1118,2,2,1,Female,Student,Single,Ontario,Investment,Website,Partnership
+42,70651,3,17,3,43,0,0,954,1,2,1,Male,Full-time,Married,Alberta,Chequing Account,Website,Branch Walk-in
+41,65795,3,15,5,57,0,0,3324,1,2,1,Male,Full-time,Single,Quebec,Mortgage,Website,Online Ad
+47,80310,2,11,4,47,0,0,3618,2,2,1,Female,Full-time,Divorced,Quebec,Mortgage,Website,Referral
+42,74371,2,11,5,57,0,0,3559,1,2,1,Other,Full-time,Married,Ontario,Mortgage,Email,Referral
+50,73997,3,17,4,51,0,0,782,1,2,1,Female,Self-employed,Single,Alberta,Credit Card,Email,Online Ad
+38,80783,3,14,4,61,0,0,3135,2,2,1,Male,Part-time,Married,Ontario,Credit Card,Call,Branch Walk-in
+48,82464,2,17,4,45,0,0,2854,2,2,1,Female,Self-employed,Single,Alberta,Credit Card,Branch,Social Media
+45,67952,2,13,5,41,0,0,3453,2,2,1,Male,Full-time,Widowed,Quebec,Mortgage,Branch,Referral
+41,75400,3,17,3,60,0,0,3893,1,2,1,Male,Full-time,Single,Quebec,Credit Card,Email,Referral
+41,79889,3,12,5,56,0,0,2588,2,2,1,Female,Full-time,Married,Nova Scotia,Investment,Email,Social Media
+36,65006,3,15,5,68,0,0,829,1,2,1,Female,Self-employed,Married,Nova Scotia,Investment,Email,Branch Walk-in
+41,79804,2,12,5,78,0,0,3104,2,2,1,Male,Full-time,Married,British Columbia,Credit Card,Website,Referral
+49,77927,3,14,3,64,0,0,1538,2,2,1,Male,Unknown,Single,Quebec,Mortgage,Website,Online Ad
+38,67324,2,12,3,78,0,0,3243,1,2,1,Male,Unemployed,Single,Manitoba,Chequing Account,Call,Partnership
+37,67044,3,16,3,57,0,0,2960,1,2,1,Male,Self-employed,Single,Quebec,Credit Card,Email,Social Media
+45,72626,3,17,4,52,0,0,1915,1,2,1,Male,Full-time,Single,British Columbia,Chequing Account,Call,Social Media
+37,80249,2,18,5,59,0,0,2952,1,2,1,Female,Full-time,Single,Ontario,Credit Card,Email,Online Ad
+41,83028,2,17,4,46,0,0,2213,2,2,1,Female,Student,Divorced,British Columbia,Investment,Email,Branch Walk-in
+43,72566,3,16,4,61,0,0,1261,2,2,1,Female,Full-time,Married,Alberta,Credit Card,Call,Online Ad
+49,76560,3,12,4,74,0,0,1471,1,2,1,Female,Self-employed,Single,Alberta,Mortgage,Branch,Online Ad
+39,81915,3,14,3,62,0,0,3230,1,2,1,Female,Part-time,Divorced,Ontario,Chequing Account,Branch,Social Media
+35,67321,2,18,3,53,0,0,3465,1,2,1,Female,Unemployed,Married,Ontario,Chequing Account,Branch,Referral
+50,70323,2,14,4,66,0,0,2877,2,2,1,Male,Unemployed,Married,Quebec,Mortgage,Website,Online Ad
+35,73175,3,15,3,43,0,0,3224,2,2,1,Male,Self-employed,Divorced,Ontario,Chequing Account,Email,Referral
+41,80640,3,17,4,43,0,0,1762,2,2,1,Female,Full-time,Single,Manitoba,Mortgage,Email,Partnership
+37,68364,2,14,3,75,0,0,1145,1,2,1,Female,Full-time,Divorced,Ontario,Credit Card,Call,Online Ad
+51,74730,2,14,3,61,0,0,2120,1,2,1,Male,Student,Single,Ontario,Chequing Account,Call,Online Ad
+45,81315,2,13,4,49,0,0,2391,2,2,1,Male,Full-time,Married,Alberta,Mortgage,Website,Social Media
+37,71135,3,17,5,78,0,0,1278,1,2,1,Female,Part-time,Single,Quebec,Mortgage,Website,Online Ad
+46,74628,2,16,5,41,0,0,2294,1,2,1,Male,Student,Married,Quebec,Chequing Account,Branch,Online Ad
+41,71788,2,16,3,73,0,0,1078,2,2,1,Female,Student,Married,Manitoba,Chequing Account,Call,Online Ad
+43,74845,3,15,3,67,0,0,1430,1,2,1,Male,Student,Single,British Columbia,Mortgage,Email,Online Ad
+42,84088,3,16,4,55,0,0,2953,1,2,1,Male,Full-time,Married,Quebec,Investment,Branch,Online Ad
+40,77549,3,17,5,58,0,0,2886,1,2,1,Male,Self-employed,Single,Quebec,Mortgage,Email,Branch Walk-in
+51,68642,3,12,4,49,0,0,780,1,2,1,Male,Full-time,Single,Ontario,Chequing Account,Call,Referral
+46,81997,3,18,4,49,0,0,2189,1,2,1,Female,Student,Married,British Columbia,Chequing Account,Email,Branch Walk-in
+51,65557,2,13,4,50,0,0,3598,2,2,1,Female,Self-employed,Single,Manitoba,Chequing Account,Website,Branch Walk-in
+37,73354,2,16,4,40,0,0,1309,1,2,1,Female,Full-time,Married,Manitoba,Mortgage,Email,Branch Walk-in
+49,80965,3,14,3,72,0,0,3463,2,2,1,Female,Full-time,Married,Quebec,Mortgage,Call,Social Media
+36,66684,2,12,4,71,0,0,3356,1,2,1,Female,Full-time,Single,British Columbia,Chequing Account,Website,Online Ad
+46,65230,2,18,5,51,0,0,1222,2,2,1,Other,Full-time,Single,Quebec,Mortgage,Call,Online Ad
+36,66719,3,17,4,40,0,0,1283,1,2,1,Male,Student,Married,Manitoba,Chequing Account,Email,Social Media
+37,70671,3,14,5,74,0,0,2552,1,2,1,Male,Full-time,Married,Manitoba,Mortgage,Branch,Online Ad
+41,73029,2,16,3,74,0,0,2494,1,2,1,Male,Self-employed,Single,British Columbia,Chequing Account,Website,Partnership
+36,74859,2,15,4,69,0,0,4029,2,2,1,Female,Self-employed,Married,Ontario,Credit Card,Email,Branch Walk-in
+43,83320,3,17,5,76,0,0,2725,1,2,1,Female,Part-time,Married,Nova Scotia,Credit Card,Website,Branch Walk-in
+42,81015,2,17,3,42,0,0,3037,1,2,1,Female,Part-time,Single,Quebec,Credit Card,Website,Social Media
+35,72747,2,14,5,59,0,0,2592,2,2,1,Male,Full-time,Single,Ontario,Credit Card,Branch,Branch Walk-in
+44,80816,2,14,4,52,0,0,1200,2,2,1,Female,Part-time,Single,Ontario,Credit Card,Email,Online Ad
+35,77661,2,13,5,66,0,0,3383,2,2,1,Male,Unknown,Married,Quebec,Chequing Account,Website,Social Media
+49,68154,3,16,5,65,0,0,3393,1,2,1,Male,Full-time,Single,Ontario,Investment,Email,Social Media
+45,69208,2,12,5,74,0,0,3781,1,2,1,Male,Full-time,Divorced,Manitoba,Credit Card,Email,Referral
+51,77078,2,14,5,57,0,0,2426,1,2,1,Female,Full-time,Married,British Columbia,Chequing Account,Email,Online Ad
+39,84585,3,14,3,41,0,0,2867,2,2,1,Male,Self-employed,Single,Alberta,Investment,Email,Branch Walk-in
+42,65996,3,16,4,49,0,0,1611,2,2,1,Female,Unknown,Single,Alberta,Investment,Call,Social Media
+47,65444,2,17,3,54,0,0,2412,2,2,1,Male,Part-time,Divorced,Quebec,Chequing Account,Email,Branch Walk-in
+43,84307,2,18,4,40,0,0,3771,1,2,1,Male,Part-time,Single,Ontario,Investment,Call,Online Ad
+45,70250,2,14,4,68,0,0,1001,2,2,1,Male,Student,Single,British Columbia,Chequing Account,Email,Online Ad
+47,64720,2,16,5,66,0,0,3917,2,2,1,Female,Unemployed,Single,British Columbia,Mortgage,Email,Branch Walk-in
+47,80535,2,17,3,67,0,0,4208,2,2,1,Male,Full-time,Married,Ontario,Credit Card,Email,Branch Walk-in
+50,79218,2,14,5,53,0,0,1090,1,2,1,Male,Unemployed,Single,Quebec,Chequing Account,Website,Referral
+45,67691,3,16,5,53,0,0,2009,2,2,1,Male,Full-time,Single,Quebec,Mortgage,Call,Social Media
+42,74659,3,16,3,77,0,0,2732,1,2,1,Male,Part-time,Single,Alberta,Mortgage,Website,Online Ad
+50,79479,2,15,4,54,0,0,3691,1,2,1,Female,Full-time,Single,Ontario,Credit Card,Call,Social Media
+36,69188,3,15,4,66,0,0,2165,1,2,1,Female,Part-time,Married,Manitoba,Chequing Account,Email,Online Ad
+45,65766,2,16,4,41,0,0,2037,2,2,1,Female,Full-time,Married,Quebec,Investment,Email,Branch Walk-in
+39,78159,3,14,3,43,0,0,3873,1,2,1,Female,Full-time,Single,Alberta,Mortgage,Email,Referral
+47,69950,2,11,4,45,0,0,2459,1,2,1,Male,Full-time,Single,Ontario,Credit Card,Website,Online Ad
+45,73299,2,13,5,69,0,0,1429,1,2,1,Female,Full-time,Single,Ontario,Chequing Account,Email,Partnership
+44,82894,2,12,3,52,0,0,822,2,2,1,Male,Full-time,Divorced,Alberta,Chequing Account,Website,Branch Walk-in
+48,79419,3,17,5,49,0,0,1330,1,2,1,Other,Student,Single,Ontario,Mortgage,Call,Branch Walk-in
+45,78283,2,16,5,55,0,0,1276,2,2,1,Male,Part-time,Widowed,Ontario,Mortgage,Website,Partnership
+37,78505,2,16,5,67,0,0,3252,1,2,1,Female,Full-time,Single,British Columbia,Credit Card,Email,Branch Walk-in
+44,69914,3,12,5,59,0,0,1519,1,2,1,Female,Full-time,Single,British Columbia,Mortgage,Email,Branch Walk-in
+49,82973,2,15,3,74,0,0,2575,2,2,1,Male,Full-time,Married,Quebec,Credit Card,Call,Partnership
+47,73630,2,17,3,39,0,0,3536,1,2,1,Female,Part-time,Single,Ontario,Mortgage,Website,Branch Walk-in
+48,66954,3,11,4,77,0,0,3747,1,2,1,Other,Student,Single,Quebec,Mortgage,Email,Branch Walk-in
+48,84561,2,12,5,60,0,0,1932,1,2,1,Male,Full-time,Single,Quebec,Mortgage,Email,Social Media
+45,83862,3,17,5,43,0,0,3602,2,2,1,Male,Student,Married,Alberta,Mortgage,Call,Referral
+49,83058,3,16,5,72,0,0,3308,2,2,1,Male,Part-time,Single,British Columbia,Credit Card,Branch,Referral
+45,76816,2,13,5,39,0,0,1555,1,2,1,Male,Full-time,Single,Quebec,Chequing Account,Branch,Online Ad
+37,77918,3,13,3,64,0,0,3853,1,2,1,Male,Unemployed,Married,Ontario,Chequing Account,Website,Referral
+51,69595,2,14,4,74,0,0,1258,1,2,1,Male,Self-employed,Single,Quebec,Chequing Account,Email,Online Ad
+46,68263,2,15,4,53,0,0,1815,2,2,1,Female,Part-time,Single,Ontario,Credit Card,Email,Referral
+38,71580,3,11,4,53,0,0,3048,1,2,1,Male,Unemployed,Married,Ontario,Investment,Email,Online Ad
+36,71097,3,18,3,43,0,0,2977,2,2,1,Female,Part-time,Single,Ontario,Chequing Account,Email,Branch Walk-in
+36,66640,2,13,5,54,0,0,890,2,2,1,Male,Part-time,Single,British Columbia,Mortgage,Email,Referral
+47,81748,2,15,5,44,0,0,1694,2,2,1,Female,Full-time,Divorced,Alberta,Chequing Account,Branch,Partnership
+50,67140,3,13,3,62,0,0,991,1,2,1,Male,Student,Single,British Columbia,Mortgage,Email,Social Media
+45,68778,2,13,5,49,0,0,3789,1,2,1,Male,Part-time,Single,Ontario,Credit Card,Website,Partnership
+49,82859,3,16,4,46,0,0,916,1,2,1,Female,Full-time,Single,Ontario,Credit Card,Website,Branch Walk-in
+50,71047,2,13,4,57,0,0,3088,2,2,1,Female,Self-employed,Divorced,Ontario,Mortgage,Branch,Online Ad
+42,83925,2,17,5,44,0,0,3267,2,2,1,Female,Self-employed,Married,Ontario,Chequing Account,Call,Referral
+50,75834,2,15,4,74,0,0,3780,2,2,1,Male,Part-time,Single,Ontario,Mortgage,Website,Online Ad
+46,84260,2,17,4,66,0,0,717,2,2,1,Male,Student,Married,Quebec,Credit Card,Website,Branch Walk-in
+47,83125,3,13,5,70,0,0,3251,2,2,1,Female,Full-time,Married,Ontario,Investment,Branch,Referral
+37,74467,2,15,4,74,0,0,4081,1,2,1,Male,Full-time,Single,Unknown,Investment,Email,Social Media
+49,73013,3,18,5,39,0,0,1652,2,2,1,Female,Student,Single,Ontario,Credit Card,Call,Online Ad
+40,76786,3,16,5,57,0,0,2526,1,2,1,Male,Part-time,Single,Ontario,Chequing Account,Email,Online Ad
+49,82932,2,14,5,65,0,0,3803,1,2,1,Male,Full-time,Single,Quebec,Chequing Account,Website,Referral
+48,66844,2,11,4,45,0,0,794,1,2,1,Female,Full-time,Married,Quebec,Chequing Account,Email,Branch Walk-in
+45,78013,3,17,4,64,0,0,3264,2,2,1,Female,Part-time,Married,Alberta,Chequing Account,Email,Online Ad
+50,73118,2,14,5,72,0,0,677,2,2,1,Female,Part-time,Single,Unknown,Credit Card,Email,Partnership
+47,67222,2,11,4,44,0,0,2782,2,2,1,Other,Part-time,Married,Quebec,Chequing Account,Website,Online Ad
+36,72500,2,18,5,52,0,0,1109,2,2,1,Male,Part-time,Widowed,Ontario,Mortgage,Email,Online Ad
+37,83318,2,15,4,78,0,0,2257,2,2,1,Female,Full-time,Widowed,Quebec,Investment,Website,Branch Walk-in
+49,73774,2,17,5,70,0,0,3327,2,2,1,Male,Full-time,Single,British Columbia,Chequing Account,Website,Online Ad
+44,65821,3,15,4,56,0,0,1351,2,2,1,Male,Full-time,Married,Alberta,Mortgage,Branch,Referral
+47,74112,3,15,4,41,0,0,1624,2,2,1,Male,Full-time,Married,Alberta,Investment,Branch,Partnership
+42,72820,2,14,4,45,0,0,3523,1,2,1,Male,Full-time,Married,Manitoba,Credit Card,Email,Branch Walk-in
+36,68772,3,16,3,59,0,0,1246,1,2,1,Other,Full-time,Single,Quebec,Investment,Branch,Branch Walk-in
+37,64462,3,13,4,55,0,0,2642,1,2,1,Male,Unemployed,Single,Manitoba,Credit Card,Website,Online Ad
+44,80436,3,17,4,51,0,0,2616,1,2,1,Female,Student,Married,Alberta,Credit Card,Email,Online Ad
+42,80924,2,17,5,50,0,0,3337,2,2,1,Female,Part-time,Single,Ontario,Mortgage,Website,Branch Walk-in
+36,78327,3,15,3,72,0,0,2414,2,2,1,Female,Part-time,Single,Quebec,Credit Card,Call,Referral
+45,83687,2,15,4,42,0,0,4235,2,2,1,Male,Part-time,Married,Manitoba,Credit Card,Email,Referral
+40,66218,2,17,3,76,0,0,2733,1,2,1,Male,Self-employed,Single,Ontario,Mortgage,Email,Referral
+42,70998,2,14,3,44,0,0,2757,1,2,1,Female,Unemployed,Married,British Columbia,Mortgage,Email,Partnership
+36,78218,3,12,5,39,0,0,3665,1,2,1,Male,Part-time,Married,Alberta,Chequing Account,Call,Social Media
+48,70046,3,13,5,46,0,0,1630,1,2,1,Male,Self-employed,Single,Ontario,Chequing Account,Website,Social Media
+50,74556,3,12,4,48,0,0,1018,1,2,1,Male,Part-time,Married,Alberta,Credit Card,Email,Referral
+42,70331,3,12,3,39,0,0,2333,2,2,1,Female,Full-time,Married,Alberta,Credit Card,Call,Social Media
+37,78643,3,17,5,54,0,0,3812,2,2,1,Male,Full-time,Divorced,Alberta,Mortgage,Website,Branch Walk-in
+51,66834,2,15,3,77,0,0,965,1,2,1,Female,Part-time,Divorced,Ontario,Chequing Account,Email,Social Media
+38,64627,3,15,3,41,0,0,1029,2,2,1,Female,Self-employed,Single,Quebec,Credit Card,Email,Branch Walk-in
+39,71727,2,17,3,45,0,0,4044,2,2,1,Female,Unemployed,Single,Manitoba,Credit Card,Email,Online Ad
+35,84212,2,15,4,68,0,0,1666,1,2,1,Male,Part-time,Single,Ontario,Mortgage,Website,Online Ad
+51,70608,2,17,5,74,0,0,2958,1,2,1,Female,Full-time,Single,British Columbia,Mortgage,Branch,Branch Walk-in
+51,79257,2,12,4,74,0,0,2552,2,2,1,Female,Full-time,Divorced,Ontario,Chequing Account,Website,Referral
+38,80520,3,12,4,69,0,0,1353,1,2,1,Female,Full-time,Single,Ontario,Credit Card,Call,Referral
+68,786042,4,28,7,92,1,4,15479,4,3,3,Male,Part-time,Married,Alberta,Credit Card,Website,Online Ad
+68,419095,5,22,6,105,1,3,10314,4,3,2,Male,Unemployed,Single,British Columbia,Investment,Website,Social Media
+66,1064955,8,36,7,96,5,4,11518,3,3,2,Female,Self-employed,Married,Alberta,Investment,Website,Partnership
+58,340902,12,34,7,95,1,4,16600,3,3,2,Female,Full-time,Married,Manitoba,Mortgage,Website,Branch Walk-in
+54,329136,12,23,7,102,6,3,13653,4,3,3,Female,Full-time,Married,British Columbia,Chequing Account,Website,Referral
+60,286309,5,38,7,107,2,4,4952,4,3,3,Male,Full-time,Single,Ontario,Mortgage,Website,Referral
+62,411694,5,27,6,87,4,4,13001,4,3,3,Male,Full-time,Married,Manitoba,Mortgage,Website,Referral
+67,1171093,9,25,6,87,3,2,4706,3,3,2,Male,Unemployed,Single,Quebec,Investment,Email,Online Ad
+52,155106,5,41,6,86,2,4,15079,3,3,2,Male,Full-time,Married,Ontario,Chequing Account,Website,Partnership
+61,632345,9,40,6,89,2,2,10019,4,3,2,Female,Full-time,Single,Quebec,Chequing Account,Call,Branch Walk-in
+65,876362,7,28,6,118,3,1,5584,3,3,2,Male,Full-time,Married,Nova Scotia,Credit Card,Call,Social Media
+52,844430,12,23,7,102,6,2,14817,2,3,2,Male,Full-time,Single,Ontario,Credit Card,Email,Online Ad
+53,166310,7,42,7,116,3,2,4618,3,3,2,Male,Self-employed,Married,Ontario,Credit Card,Website,Social Media
+65,303265,8,19,8,115,6,1,9242,3,3,1,Female,Full-time,Single,Ontario,Investment,Email,Online Ad
+54,1142556,7,41,7,113,5,4,12864,3,3,2,Male,Part-time,Married,Ontario,Mortgage,Call,Branch Walk-in
+52,601656,5,32,8,92,1,4,9425,4,3,2,Male,Part-time,Married,Unknown,Mortgage,Email,Branch Walk-in
+52,155319,12,42,8,94,5,4,13366,3,3,3,Female,Unemployed,Widowed,Unknown,Credit Card,Email,Branch Walk-in
+66,845478,6,40,8,94,1,1,10910,3,3,3,Female,Self-employed,Widowed,Manitoba,Investment,Email,Online Ad
+68,613067,9,31,7,94,1,1,6857,2,3,1,Male,Student,Married,Nova Scotia,Mortgage,Email,Online Ad
+66,1036339,12,33,6,117,3,1,11525,4,3,3,Female,Full-time,Married,Ontario,Credit Card,Website,Referral
+55,1112420,11,23,7,110,6,4,15176,4,3,2,Male,Part-time,Single,British Columbia,Mortgage,Email,Referral
+65,1071776,12,33,6,83,6,2,14085,4,3,3,Male,Full-time,Divorced,Ontario,Mortgage,Website,Online Ad
+53,807120,12,33,8,101,2,1,14849,3,3,3,Male,Student,Widowed,Ontario,Mortgage,Email,Online Ad
+52,466278,5,25,6,118,6,3,11844,4,3,2,Female,Unemployed,Single,Ontario,Chequing Account,Call,Online Ad
+56,570949,8,33,7,82,6,3,14605,2,3,2,Male,Student,Single,Ontario,Mortgage,Branch,Online Ad
+61,575916,10,30,7,104,5,1,12312,4,3,3,Male,Unemployed,Single,Ontario,Credit Card,Call,Referral
+64,523117,11,22,8,90,6,1,8285,2,3,3,Male,Full-time,Divorced,Quebec,Credit Card,Email,Partnership
+54,612748,7,23,8,109,6,3,4693,3,3,2,Female,Full-time,Married,Alberta,Mortgage,Website,Referral
+52,942212,5,31,8,112,1,2,6053,4,3,2,Female,Self-employed,Married,Alberta,Mortgage,Email,Social Media
+60,652451,4,25,6,89,5,3,10891,4,3,2,Male,Full-time,Single,Ontario,Chequing Account,Website,Social Media
+65,610549,12,32,7,93,6,1,8165,2,3,2,Female,Self-employed,Married,Alberta,Investment,Website,Branch Walk-in
+56,165288,12,36,8,95,3,4,12835,2,3,2,Male,Student,Married,Ontario,Credit Card,Email,Social Media
+61,1181668,11,37,6,108,3,2,15706,2,3,2,Male,Full-time,Single,Nova Scotia,Investment,Website,Branch Walk-in
+64,421973,10,40,8,111,4,1,13599,4,3,3,Female,Self-employed,Single,Ontario,Mortgage,Website,Branch Walk-in
+52,873569,12,39,6,118,1,2,6650,3,3,1,Male,Full-time,Married,Ontario,Investment,Call,Partnership
+65,900072,11,26,6,92,6,2,7633,4,3,2,Female,Full-time,Married,Ontario,Mortgage,Call,Social Media
+65,487194,9,39,8,79,6,3,6807,3,3,2,Male,Full-time,Single,Alberta,Mortgage,Email,Social Media
+54,456335,12,24,8,95,1,2,9978,3,3,3,Male,Part-time,Single,Quebec,Chequing Account,Website,Branch Walk-in
+60,675345,12,23,6,105,4,3,9051,4,3,2,Male,Full-time,Single,Ontario,Investment,Website,Partnership
+53,462624,4,29,8,115,3,3,12663,3,3,2,Female,Full-time,Widowed,British Columbia,Mortgage,Email,Branch Walk-in
+62,693282,9,23,7,109,2,4,7738,2,3,2,Male,Student,Single,Ontario,Mortgage,Email,Social Media
+58,426342,10,34,7,105,1,2,5508,3,3,2,Male,Unemployed,Married,Ontario,Credit Card,Email,Referral
+52,1182844,9,42,6,85,5,3,5233,2,3,3,Female,Full-time,Married,Alberta,Investment,Email,Referral
+63,1169165,6,31,8,111,6,1,7432,3,3,2,Male,Part-time,Married,British Columbia,Investment,Email,Branch Walk-in
+66,974385,5,39,8,103,5,4,12257,4,3,2,Male,Part-time,Single,Manitoba,Credit Card,Call,Social Media
+54,1004449,8,38,8,112,4,2,10964,2,3,2,Female,Full-time,Married,Quebec,Mortgage,Email,Online Ad
+67,382939,8,20,6,118,4,1,13784,4,3,2,Male,Full-time,Married,Alberta,Chequing Account,Website,Social Media
+57,95742,8,40,6,100,6,3,8737,2,3,1,Male,Full-time,Single,Ontario,Credit Card,Call,Branch Walk-in
+58,228406,8,23,6,110,3,4,11285,3,3,2,Male,Part-time,Single,Manitoba,Mortgage,Website,Branch Walk-in
+68,871023,9,42,7,98,3,4,6693,3,3,2,Male,Full-time,Married,British Columbia,Investment,Email,Partnership
+66,1092037,7,23,6,93,6,1,15669,4,3,2,Female,Student,Single,Quebec,Chequing Account,Email,Online Ad
+53,430918,8,34,8,79,6,4,9499,2,3,2,Male,Full-time,Single,British Columbia,Chequing Account,Email,Referral
+58,246313,9,38,7,91,4,1,5885,3,3,3,Female,Part-time,Married,Quebec,Chequing Account,Email,Social Media
+61,987422,4,26,8,115,4,3,10800,2,3,2,Male,Full-time,Married,Alberta,Chequing Account,Email,Social Media
+64,505949,10,18,8,115,2,2,14273,4,3,2,Male,Unemployed,Married,Nova Scotia,Chequing Account,Website,Online Ad
+68,546102,6,26,8,81,1,1,10422,4,3,2,Female,Part-time,Married,British Columbia,Investment,Branch,Partnership
+52,771350,9,22,6,116,3,3,6585,2,3,2,Female,Part-time,Single,Ontario,Credit Card,Email,Branch Walk-in
+56,307328,8,32,7,90,4,1,6444,3,3,3,Female,Full-time,Single,Manitoba,Investment,Branch,Online Ad
+56,397112,4,29,6,104,2,2,15074,4,3,3,Female,Student,Widowed,Ontario,Mortgage,Email,Partnership
+59,433121,9,36,8,92,2,1,12073,4,3,3,Male,Self-employed,Married,Quebec,Credit Card,Website,Online Ad
+59,1059140,6,19,8,111,3,4,12228,2,3,2,Male,Unknown,Single,Quebec,Chequing Account,Email,Referral
+60,151384,7,35,7,96,5,1,17468,2,3,2,Male,Unemployed,Single,British Columbia,Credit Card,Website,Partnership
+68,1022597,9,29,7,96,5,3,11493,4,3,3,Male,Self-employed,Married,Alberta,Chequing Account,Website,Referral
+52,994835,9,35,8,86,4,4,10663,4,3,2,Male,Unknown,Married,British Columbia,Credit Card,Website,Online Ad
+66,689226,12,35,6,116,5,3,13553,2,3,2,Female,Student,Married,Ontario,Mortgage,Email,Online Ad
+57,385417,7,29,8,86,4,3,12812,4,3,1,Female,Part-time,Single,Alberta,Mortgage,Call,Branch Walk-in
+53,466722,5,32,6,109,1,1,15639,3,3,2,Female,Full-time,Married,British Columbia,Credit Card,Call,Online Ad
+66,678010,5,37,7,82,4,4,4442,4,3,3,Male,Full-time,Single,Unknown,Credit Card,Website,Branch Walk-in
+62,590773,6,29,7,116,4,4,13382,4,3,3,Female,Part-time,Divorced,British Columbia,Chequing Account,Email,Online Ad
+54,922578,10,25,7,105,6,2,17441,4,3,2,Female,Full-time,Married,Manitoba,Credit Card,Website,Online Ad
+54,661431,4,31,7,114,5,2,8868,3,3,2,Male,Full-time,Single,Nova Scotia,Mortgage,Email,Partnership
+66,1097993,10,38,8,101,2,4,7925,3,3,2,Male,Full-time,Married,Nova Scotia,Mortgage,Email,Online Ad
+57,217132,9,34,8,81,6,4,11704,2,3,2,Male,Student,Married,British Columbia,Mortgage,Email,Social Media
+53,412190,6,37,7,79,6,1,4267,3,3,2,Female,Full-time,Divorced,Ontario,Credit Card,Website,Partnership
+60,533005,5,43,6,95,3,1,11175,2,3,3,Male,Part-time,Single,Manitoba,Chequing Account,Email,Branch Walk-in
+59,304334,7,20,8,82,3,2,10743,4,3,2,Male,Full-time,Married,Quebec,Mortgage,Website,Partnership
+54,1100320,11,26,8,105,2,3,12295,4,3,1,Male,Full-time,Single,British Columbia,Credit Card,Branch,Branch Walk-in
+66,623559,11,27,8,112,5,2,4644,4,3,2,Male,Full-time,Single,Ontario,Chequing Account,Website,Branch Walk-in
+63,491907,8,34,8,102,3,2,5997,2,3,1,Female,Full-time,Married,Quebec,Chequing Account,Email,Online Ad
+64,277626,5,19,7,95,3,1,13818,3,3,2,Male,Unemployed,Married,British Columbia,Chequing Account,Website,Referral
+66,656768,4,43,7,111,5,1,13125,4,3,1,Male,Full-time,Married,Manitoba,Credit Card,Email,Branch Walk-in
+58,671368,6,33,7,82,2,4,7869,2,3,3,Female,Full-time,Married,Manitoba,Credit Card,Website,Online Ad
+57,567180,8,21,7,82,4,1,8799,3,3,3,Female,Full-time,Divorced,British Columbia,Credit Card,Email,Online Ad
+62,385182,4,28,7,103,4,4,17532,4,3,2,Female,Unemployed,Married,Quebec,Mortgage,Call,Online Ad
+58,966414,5,37,7,114,4,3,5416,4,3,3,Other,Self-employed,Married,Ontario,Investment,Website,Partnership
+62,745056,8,36,7,99,6,2,7967,4,3,1,Female,Full-time,Divorced,Alberta,Credit Card,Website,Referral
+58,823334,5,22,7,83,2,1,15219,2,3,2,Male,Full-time,Single,Nova Scotia,Investment,Email,Social Media
+60,587889,8,20,6,106,1,4,6507,2,3,1,Female,Unemployed,Single,British Columbia,Credit Card,Website,Partnership
+56,681187,12,34,6,80,2,2,17480,3,3,2,Male,Full-time,Single,Alberta,Chequing Account,Email,Partnership
+52,246021,12,40,7,113,6,4,14753,2,3,2,Female,Self-employed,Married,Manitoba,Chequing Account,Website,Referral
+65,991529,10,22,8,89,5,3,9509,2,3,3,Male,Unemployed,Married,Quebec,Investment,Call,Referral
+59,461663,4,20,6,108,3,1,5345,3,3,2,Male,Full-time,Single,Ontario,Investment,Website,Branch Walk-in
+59,97307,12,30,7,88,3,2,8296,4,3,2,Male,Unemployed,Divorced,Ontario,Chequing Account,Website,Branch Walk-in
+57,1185438,6,21,6,113,3,2,15798,4,3,2,Male,Full-time,Widowed,Quebec,Chequing Account,Call,Social Media
+55,684554,6,27,6,88,5,1,11365,3,3,1,Male,Part-time,Single,Quebec,Chequing Account,Email,Referral
+54,376408,11,26,8,115,4,4,12699,4,3,2,Male,Full-time,Single,Manitoba,Credit Card,Email,Social Media
+63,978968,5,29,8,114,1,2,9264,4,3,2,Female,Full-time,Married,Ontario,Chequing Account,Email,Online Ad
+52,976678,4,40,8,118,5,1,13620,4,3,3,Male,Self-employed,Married,Quebec,Investment,Email,Referral
+62,1123026,8,27,7,111,3,4,11607,4,3,3,Male,Unemployed,Single,Alberta,Credit Card,Website,Partnership
+55,1017534,8,44,7,111,4,3,6289,2,3,2,Female,Full-time,Divorced,Ontario,Credit Card,Website,Branch Walk-in
+65,202676,4,24,7,106,4,2,15668,3,3,3,Female,Part-time,Single,Nova Scotia,Investment,Email,Social Media
+55,697945,11,36,6,115,1,3,6574,3,3,2,Female,Full-time,Single,Ontario,Credit Card,Website,Online Ad
+66,1077749,8,40,8,115,4,2,10383,2,3,1,Female,Part-time,Married,Quebec,Chequing Account,Call,Partnership
+58,499962,6,20,6,93,3,4,13246,3,3,2,Male,Part-time,Single,Manitoba,Chequing Account,Email,Online Ad
+54,992795,6,30,8,98,3,3,8867,4,3,2,Female,Part-time,Married,Quebec,Credit Card,Call,Partnership
+55,608639,7,28,6,96,2,4,15392,3,3,2,Male,Full-time,Single,Ontario,Credit Card,Website,Referral
+62,1158151,8,38,8,109,1,2,6198,3,3,2,Male,Unknown,Married,Nova Scotia,Chequing Account,Call,Branch Walk-in
+64,723039,5,21,7,87,6,4,15843,4,3,2,Male,Part-time,Married,Quebec,Investment,Branch,Branch Walk-in
+55,779612,10,28,8,113,5,2,7709,2,3,2,Male,Student,Married,Ontario,Mortgage,Branch,Online Ad
+56,884798,7,36,7,84,1,1,4434,2,3,3,Male,Unemployed,Married,Ontario,Chequing Account,Email,Online Ad
+64,326916,4,41,6,107,2,3,14689,4,3,2,Female,Self-employed,Divorced,Ontario,Chequing Account,Website,Branch Walk-in
+67,1084366,4,36,7,108,4,4,16857,3,3,2,Male,Full-time,Married,Quebec,Credit Card,Call,Online Ad
+61,792972,11,43,7,116,3,3,10682,2,3,1,Male,Full-time,Married,Quebec,Credit Card,Website,Online Ad
+64,649093,11,32,7,96,5,4,12733,3,3,3,Male,Part-time,Single,Quebec,Credit Card,Website,Branch Walk-in
+60,163135,12,23,6,89,4,3,12950,3,3,2,Female,Unemployed,Married,Quebec,Chequing Account,Call,Online Ad
+64,952452,12,23,8,85,1,2,16257,2,3,1,Male,Part-time,Married,Quebec,Mortgage,Website,Social Media
+57,463133,5,31,7,86,2,2,15560,4,3,2,Female,Full-time,Married,British Columbia,Credit Card,Call,Social Media
+57,393502,4,43,7,94,4,1,5287,4,3,2,Female,Full-time,Single,British Columbia,Mortgage,Website,Referral
+57,437626,6,34,6,108,1,3,10350,2,3,2,Male,Full-time,Single,Alberta,Credit Card,Branch,Referral
+62,1144163,10,34,6,104,4,1,16068,2,3,2,Female,Unemployed,Married,British Columbia,Mortgage,Website,Branch Walk-in
+66,402671,5,43,7,97,6,4,7711,3,3,2,Male,Full-time,Married,Quebec,Investment,Website,Partnership
+64,240503,5,34,8,85,5,4,11024,4,3,1,Male,Self-employed,Married,Quebec,Mortgage,Website,Referral
+66,586091,8,35,7,105,6,4,12987,3,3,1,Male,Full-time,Married,Nova Scotia,Chequing Account,Email,Partnership
+57,909296,7,36,7,97,5,3,11904,2,3,3,Male,Student,Single,Manitoba,Chequing Account,Website,Branch Walk-in
+66,906322,7,22,7,83,3,4,17025,3,3,2,Male,Full-time,Married,Manitoba,Credit Card,Email,Social Media
+53,324008,12,37,8,82,5,1,13938,3,3,2,Female,Self-employed,Single,Ontario,Mortgage,Email,Online Ad
+52,1069419,10,23,8,102,4,3,14888,4,3,3,Female,Part-time,Single,Quebec,Credit Card,Email,Branch Walk-in
+66,755867,12,20,7,88,3,4,11856,3,3,3,Female,Part-time,Single,British Columbia,Mortgage,Call,Branch Walk-in
+67,1178419,6,21,7,105,4,4,13953,3,3,3,Male,Unknown,Single,Quebec,Chequing Account,Email,Social Media
+67,975554,9,21,7,92,2,1,16675,4,3,2,Female,Student,Married,Ontario,Credit Card,Website,Partnership
+58,1164097,5,31,6,96,4,4,4493,2,3,3,Male,Student,Widowed,Ontario,Credit Card,Email,Online Ad
+57,111144,10,23,7,95,1,1,16509,4,3,3,Other,Full-time,Single,British Columbia,Chequing Account,Email,Branch Walk-in
+55,451000,7,29,6,111,1,3,8392,3,3,2,Female,Part-time,Divorced,British Columbia,Chequing Account,Call,Online Ad
+58,1164069,8,31,6,102,2,4,12885,2,3,1,Male,Part-time,Single,Quebec,Investment,Website,Online Ad
+61,1134335,8,24,7,80,4,2,13576,3,3,2,Female,Full-time,Single,Ontario,Credit Card,Website,Referral
+52,313301,8,33,6,102,2,3,10027,4,3,3,Other,Full-time,Single,Nova Scotia,Mortgage,Email,Social Media
+56,539845,9,36,6,90,4,1,7225,2,3,2,Male,Full-time,Married,Ontario,Chequing Account,Email,Social Media
+56,314872,6,30,7,97,6,1,10828,3,3,2,Male,Full-time,Married,Nova Scotia,Chequing Account,Email,Branch Walk-in
+62,1172790,5,32,6,109,2,4,14931,4,3,2,Male,Full-time,Single,Manitoba,Chequing Account,Website,Online Ad
+68,889364,6,36,7,88,6,4,5211,2,3,2,Female,Part-time,Married,Quebec,Credit Card,Website,Referral
+55,766107,9,36,6,93,2,3,17391,3,3,2,Female,Unemployed,Single,Alberta,Investment,Email,Partnership
+66,96893,10,36,8,113,6,2,17288,3,3,2,Female,Student,Single,Quebec,Mortgage,Website,Social Media
+67,687454,8,20,6,115,5,2,12906,2,3,2,Male,Student,Single,Ontario,Chequing Account,Email,Branch Walk-in
+67,277959,8,23,8,117,1,2,11142,2,3,1,Male,Unemployed,Single,Quebec,Mortgage,Website,Social Media
+62,752502,9,39,8,99,3,2,17578,4,3,1,Female,Full-time,Married,Ontario,Mortgage,Call,Branch Walk-in
+58,786880,6,28,6,106,2,4,8105,3,3,2,Female,Full-time,Married,Ontario,Chequing Account,Website,Branch Walk-in
+53,1059805,5,29,7,98,1,2,17316,3,3,2,Male,Full-time,Married,Manitoba,Investment,Call,Branch Walk-in
+63,689989,4,24,7,118,2,3,8377,3,3,1,Male,Full-time,Widowed,British Columbia,Chequing Account,Website,Partnership
+54,181493,5,37,6,114,6,2,11476,2,3,2,Male,Part-time,Married,Ontario,Investment,Call,Referral
+58,415731,9,37,8,107,1,1,8821,3,3,3,Female,Full-time,Married,Quebec,Credit Card,Call,Referral
+57,526746,11,33,7,95,1,1,6026,3,3,2,Male,Unemployed,Single,Ontario,Investment,Website,Partnership
+56,521775,9,30,6,92,2,3,13217,3,3,2,Male,Full-time,Single,Ontario,Mortgage,Call,Branch Walk-in
+66,278178,4,20,8,100,4,3,14251,4,3,3,Female,Full-time,Married,Ontario,Credit Card,Website,Referral
+61,1115558,4,36,6,81,3,4,7535,3,3,2,Female,Full-time,Single,Alberta,Investment,Call,Branch Walk-in
+56,543478,12,30,7,104,3,2,15502,4,3,3,Female,Full-time,Single,Nova Scotia,Chequing Account,Email,Online Ad
+64,532790,8,27,7,90,4,1,17009,2,3,2,Female,Full-time,Married,Nova Scotia,Investment,Email,Online Ad
+60,642154,9,30,8,106,1,4,13618,3,3,1,Male,Full-time,Divorced,Alberta,Mortgage,Branch,Social Media
+53,643262,12,43,7,111,5,4,5308,2,3,3,Male,Full-time,Divorced,Nova Scotia,Mortgage,Branch,Social Media
+54,363028,8,35,6,105,5,1,16503,4,3,3,Female,Part-time,Single,Quebec,Investment,Call,Branch Walk-in
+57,663442,9,18,6,108,4,4,9293,4,3,2,Male,Part-time,Married,Manitoba,Credit Card,Email,Referral
+65,960759,12,34,6,111,3,2,5782,3,3,2,Female,Full-time,Single,Ontario,Investment,Email,Referral
+55,1173880,5,27,7,97,2,3,7805,4,3,2,Male,Full-time,Married,Ontario,Mortgage,Email,Branch Walk-in
+53,1122144,4,20,6,115,2,3,12726,2,3,2,Female,Unemployed,Married,British Columbia,Credit Card,Email,Social Media
+55,1130332,6,34,8,95,4,2,8810,2,3,2,Male,Unknown,Divorced,Quebec,Investment,Email,Branch Walk-in
+65,606075,4,28,6,106,3,1,9373,3,3,2,Male,Full-time,Divorced,Ontario,Credit Card,Branch,Branch Walk-in
+56,129853,5,25,6,109,6,2,7589,2,3,2,Male,Full-time,Married,Manitoba,Chequing Account,Email,Online Ad
+55,950734,10,42,8,110,1,1,12867,4,3,3,Male,Student,Single,Alberta,Investment,Email,Online Ad
+60,620722,8,29,8,86,2,2,16752,4,3,3,Female,Full-time,Single,Ontario,Chequing Account,Website,Social Media

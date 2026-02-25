@@ -1,7 +1,7 @@
 
 from sklearn.model_selection import train_test_split
 
-def split_data_mc(X, y, test_size=0.2, random_state=42):
+def split_data_mc(X, y, test_size=0.2, random_state=42, stratify = None):
     """
     Splits dataset into train/test sets for multi-class tasks.
     Uses stratified split to preserve class proportions.

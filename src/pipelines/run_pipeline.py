@@ -42,14 +42,31 @@
 # print("Classification Report:")
 # print(report)
 
+# -------------------------------
+# Quick Fix for Module Imports
+# -------------------------------
+import sys
+import os
 
+# Add the src folder to sys.path so imports work from pipelines/
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
+# -------------------------------
+# Standard imports for pipeline
+# -------------------------------
+import pandas as pd
+
+# Load & preprocessing
 from load_data import load_dataset
 from features.select_features import select_features
 from features.one_hot_encoding import one_hot_encode
 from features.scale_features import scale_numeric_features
+
 from binary_modeling.train_test_split import split_data
 from binary_modeling.train_model import train_model, evaluate_model
+# For evaluation
+from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
+
 
 file_path = r"D:\ACEYOURGRACE\DATASCIENCE\DataScienceProjects\AI Customer Onboarding & Policy Intelligence Platform\bank-lead-intelligence\data\raw\bank_leads_v4.csv"
 
