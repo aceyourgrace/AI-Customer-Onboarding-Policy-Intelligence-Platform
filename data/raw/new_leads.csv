@@ -1,501 +1,1000 @@
-Age,Income,WebsiteVisits_PreConversion,TimeOnWebsite_Minutes,EmailOpenedCount,DaysSinceInquiry,CallCenterInquiries,BranchVisits,CLTV,EngagementScore,AgeScore,LeadPriorityScore,Gender,EmploymentStatus,MaritalStatus,Province,InitialProductInterest,FirstContactChannel,LeadSource
-30,52441,0,5,1,0,0,0,257,1,1,0,Female,Self-employed,Married,Quebec,Mortgage,Email,Online Ad
-26,49933,1,6,0,4,0,0,223,0,1,0,Female,Unemployed,Married,Ontario,Investment,Branch,Online Ad
-34,34290,0,3,0,36,0,0,201,1,1,0,Male,Full-time,Married,Alberta,Chequing Account,Call,Branch Walk-in
-34,15195,1,7,1,9,0,0,123,1,1,1,Female,Full-time,Single,British Columbia,Mortgage,Website,Social Media
-32,64004,1,2,0,30,0,0,16,0,1,0,Male,Part-time,Single,British Columbia,Chequing Account,Email,Referral
-20,30407,0,9,1,14,0,0,38,1,1,0,Male,Part-time,Married,Quebec,Mortgage,Branch,Online Ad
-32,46873,1,4,0,0,0,0,589,1,1,0,Female,Unemployed,Single,British Columbia,Credit Card,Email,Branch Walk-in
-26,38344,1,1,2,0,0,0,229,1,1,0,Female,Full-time,Married,Ontario,Credit Card,Email,Partnership
-21,61538,1,4,1,1,0,0,482,1,1,0,Female,Student,Married,Manitoba,Credit Card,Email,Online Ad
-29,34781,0,3,1,21,0,0,454,0,1,1,Female,Part-time,Single,Manitoba,Credit Card,Website,Social Media
-18,31924,1,11,1,27,0,0,314,0,1,1,Male,Student,Single,Quebec,Chequing Account,Website,Branch Walk-in
-33,16382,1,8,0,10,0,0,268,1,1,1,Male,Full-time,Married,Unknown,Investment,Email,Partnership
-20,33259,1,4,0,13,0,0,0,0,1,1,Male,Part-time,Married,British Columbia,Chequing Account,Email,Social Media
-30,22979,1,8,2,38,0,0,351,1,1,0,Female,Full-time,Single,Quebec,Chequing Account,Email,Online Ad
-18,53326,1,6,0,22,0,0,619,0,1,0,Male,Full-time,Married,British Columbia,Chequing Account,Email,Branch Walk-in
-23,59190,1,9,0,6,0,0,507,1,1,0,Female,Unknown,Single,Quebec,Mortgage,Email,Referral
-25,36363,0,10,1,7,0,0,617,0,1,1,Male,Full-time,Married,Ontario,Mortgage,Email,Referral
-25,32192,0,2,0,32,0,0,109,1,1,1,Male,Part-time,Single,Ontario,Chequing Account,Call,Referral
-25,39907,0,11,0,27,0,0,223,1,1,0,Male,Full-time,Single,Quebec,Mortgage,Email,Online Ad
-26,42181,0,6,0,18,0,0,209,0,1,0,Male,Part-time,Married,British Columbia,Investment,Website,Branch Walk-in
-21,44429,0,3,2,0,0,0,600,0,1,1,Female,Full-time,Single,Ontario,Mortgage,Email,Online Ad
-26,54103,0,9,0,6,0,0,613,1,1,0,Female,Unknown,Married,Ontario,Chequing Account,Website,Branch Walk-in
-19,57194,1,6,0,32,0,0,35,0,1,0,Female,Full-time,Married,Manitoba,Credit Card,Website,Branch Walk-in
-19,63230,1,5,1,14,0,0,443,1,1,0,Female,Full-time,Single,Ontario,Credit Card,Branch,Referral
-22,43537,1,7,0,26,0,0,610,0,1,0,Female,Student,Single,Ontario,Investment,Email,Partnership
-33,56145,0,2,0,22,0,0,541,0,1,0,Female,Full-time,Married,Alberta,Investment,Website,Referral
-34,48891,1,5,0,7,0,0,147,1,1,0,Male,Full-time,Single,Quebec,Chequing Account,Email,Referral
-21,58694,0,0,1,3,0,0,250,0,1,0,Female,Full-time,Divorced,Alberta,Mortgage,Call,Social Media
-32,27364,1,0,0,38,0,0,241,0,1,0,Other,Full-time,Single,Ontario,Investment,Email,Online Ad
-32,28483,0,11,1,14,0,0,163,1,1,0,Other,Part-time,Single,Ontario,Investment,Email,Social Media
-32,18900,1,2,1,34,0,0,410,0,1,1,Male,Student,Married,Ontario,Mortgage,Website,Online Ad
-25,25055,1,0,1,18,0,0,586,0,1,0,Female,Full-time,Married,Manitoba,Mortgage,Email,Referral
-33,29338,0,2,0,34,0,0,603,0,1,0,Male,Full-time,Single,British Columbia,Credit Card,Call,Branch Walk-in
-21,34732,0,5,0,29,0,0,528,0,1,0,Male,Full-time,Single,Quebec,Mortgage,Website,Online Ad
-33,59377,0,4,1,24,0,0,519,0,1,0,Female,Part-time,Single,Alberta,Chequing Account,Website,Online Ad
-32,29674,0,2,1,2,0,0,463,0,1,0,Male,Full-time,Divorced,Ontario,Credit Card,Branch,Social Media
-20,62334,0,3,1,35,0,0,153,0,1,0,Male,Self-employed,Single,Ontario,Mortgage,Call,Branch Walk-in
-29,48262,0,3,1,12,0,0,565,0,1,0,Female,Full-time,Married,Ontario,Mortgage,Website,Partnership
-22,57371,1,1,2,11,0,0,411,0,1,0,Male,Student,Married,Quebec,Chequing Account,Website,Referral
-27,52127,1,9,2,16,0,0,537,0,1,0,Male,Unemployed,Single,Alberta,Chequing Account,Branch,Online Ad
-26,31566,0,4,2,34,0,0,334,0,1,0,Male,Full-time,Married,Ontario,Credit Card,Branch,Online Ad
-34,43215,0,1,2,20,0,0,220,0,1,0,Male,Unknown,Widowed,British Columbia,Credit Card,Call,Branch Walk-in
-23,30207,1,2,0,26,0,0,396,1,1,0,Male,Full-time,Single,Ontario,Mortgage,Email,Branch Walk-in
-28,22878,1,7,0,33,0,0,10,0,1,0,Female,Part-time,Divorced,Ontario,Credit Card,Website,Online Ad
-32,63717,1,9,0,8,0,0,46,1,1,0,Male,Unemployed,Divorced,Quebec,Mortgage,Website,Online Ad
-27,30895,0,11,0,2,0,0,627,1,1,1,Female,Student,Single,Alberta,Credit Card,Email,Referral
-22,20331,1,3,1,6,0,0,466,0,1,0,Female,Self-employed,Single,Ontario,Credit Card,Email,Partnership
-33,27518,0,2,1,23,0,0,625,1,1,0,Female,Unknown,Single,Ontario,Credit Card,Website,Branch Walk-in
-30,40879,0,9,0,1,0,0,237,1,1,1,Female,Part-time,Married,Ontario,Mortgage,Call,Partnership
-18,52872,0,3,2,27,0,0,466,1,1,0,Female,Self-employed,Single,Ontario,Chequing Account,Email,Online Ad
-32,50744,0,9,1,25,0,0,123,0,1,0,Male,Student,Divorced,Nova Scotia,Credit Card,Website,Branch Walk-in
-20,18172,0,2,1,23,0,0,309,0,1,0,Male,Student,Married,British Columbia,Credit Card,Call,Online Ad
-33,17933,1,0,1,9,0,0,406,0,1,0,Male,Part-time,Married,Ontario,Chequing Account,Branch,Social Media
-22,29768,1,5,1,3,0,0,78,0,1,0,Male,Part-time,Single,Ontario,Investment,Email,Social Media
-27,23793,0,6,2,3,0,0,147,0,1,0,Female,Full-time,Married,Nova Scotia,Mortgage,Email,Referral
-26,17462,1,6,2,0,0,0,308,0,1,0,Male,Unemployed,Single,Alberta,Chequing Account,Email,Partnership
-18,52958,0,2,0,37,0,0,62,1,1,0,Male,Full-time,Married,Quebec,Chequing Account,Website,Referral
-21,47797,0,6,1,18,0,0,373,0,1,1,Female,Part-time,Divorced,Alberta,Investment,Call,Online Ad
-22,46920,0,0,2,32,0,0,488,0,1,1,Female,Full-time,Married,Ontario,Chequing Account,Website,Online Ad
-22,60735,0,7,0,3,0,0,511,0,1,0,Male,Part-time,Married,Quebec,Credit Card,Email,Partnership
-28,40514,1,8,1,10,0,0,622,0,1,0,Female,Self-employed,Single,Ontario,Credit Card,Website,Partnership
-28,23758,0,4,2,0,0,0,390,0,1,0,Female,Full-time,Single,Alberta,Mortgage,Call,Online Ad
-18,38666,1,3,0,17,0,0,140,0,1,0,Other,Part-time,Divorced,Alberta,Mortgage,Email,Online Ad
-32,63212,1,4,1,33,0,0,340,0,1,0,Female,Full-time,Married,British Columbia,Mortgage,Website,Social Media
-26,49403,0,3,2,3,0,0,27,1,1,0,Male,Full-time,Divorced,Ontario,Chequing Account,Call,Branch Walk-in
-20,55753,1,3,0,1,0,0,263,1,1,0,Female,Full-time,Widowed,Manitoba,Chequing Account,Website,Referral
-25,52980,1,2,2,25,0,0,619,1,1,0,Male,Student,Single,Quebec,Chequing Account,Call,Partnership
-32,15633,1,2,2,28,0,0,306,0,1,0,Male,Student,Married,Alberta,Chequing Account,Email,Partnership
-28,50068,0,9,0,5,0,0,164,0,1,1,Female,Part-time,Married,Ontario,Chequing Account,Branch,Branch Walk-in
-27,29391,0,1,1,31,0,0,569,1,1,1,Other,Full-time,Married,Ontario,Credit Card,Website,Social Media
-34,61404,0,8,2,8,0,0,620,1,1,0,Male,Full-time,Single,Alberta,Chequing Account,Email,Partnership
-22,15729,1,6,2,28,0,0,207,0,1,0,Female,Unknown,Married,Ontario,Mortgage,Website,Online Ad
-19,45060,1,6,1,6,0,0,389,1,1,0,Female,Part-time,Single,Unknown,Investment,Website,Partnership
-26,22056,0,2,1,0,0,0,612,1,1,1,Female,Unemployed,Married,Ontario,Credit Card,Email,Online Ad
-33,55085,0,0,1,2,0,0,529,1,1,0,Female,Full-time,Married,Ontario,Chequing Account,Website,Social Media
-32,61871,1,1,0,3,0,0,476,0,1,0,Male,Unemployed,Married,Ontario,Chequing Account,Call,Social Media
-29,24409,0,5,1,32,0,0,474,0,1,0,Female,Part-time,Single,Alberta,Chequing Account,Website,Online Ad
-31,41017,0,9,2,10,0,0,497,0,1,1,Male,Part-time,Divorced,British Columbia,Credit Card,Call,Branch Walk-in
-34,41592,1,1,1,1,0,0,158,1,1,0,Female,Full-time,Married,Ontario,Chequing Account,Email,Branch Walk-in
-30,31467,1,8,0,11,0,0,179,0,1,0,Male,Full-time,Widowed,Quebec,Chequing Account,Email,Online Ad
-23,49219,1,4,2,25,0,0,506,0,1,1,Male,Self-employed,Married,Alberta,Credit Card,Email,Referral
-22,33897,0,6,0,12,0,0,170,1,1,0,Male,Full-time,Married,Nova Scotia,Investment,Call,Referral
-30,50917,0,10,2,26,0,0,90,0,1,0,Female,Full-time,Single,British Columbia,Chequing Account,Website,Online Ad
-25,38728,0,10,0,27,0,0,384,0,1,0,Female,Full-time,Single,Manitoba,Mortgage,Email,Partnership
-30,47420,1,2,1,9,0,0,204,0,1,0,Female,Full-time,Single,British Columbia,Mortgage,Website,Social Media
-18,31457,1,4,2,30,0,0,447,0,1,0,Male,Student,Single,British Columbia,Credit Card,Email,Referral
-26,46671,1,7,1,28,0,0,412,1,1,0,Female,Full-time,Married,Quebec,Mortgage,Website,Online Ad
-19,41788,0,10,2,25,0,0,20,0,1,0,Other,Full-time,Single,Ontario,Mortgage,Email,Partnership
-21,59033,0,9,1,6,0,0,188,0,1,0,Male,Full-time,Single,Ontario,Chequing Account,Email,Online Ad
-19,48191,0,3,1,12,0,0,370,0,1,0,Female,Full-time,Married,Alberta,Chequing Account,Email,Branch Walk-in
-27,21356,0,6,2,10,0,0,114,0,1,0,Female,Full-time,Married,Quebec,Credit Card,Branch,Social Media
-32,25518,1,4,0,3,0,0,107,1,1,1,Female,Full-time,Single,Quebec,Mortgage,Branch,Branch Walk-in
-33,24637,1,1,0,30,0,0,372,1,1,0,Female,Student,Married,Ontario,Credit Card,Branch,Partnership
-18,55741,0,3,0,36,0,0,195,1,1,0,Male,Full-time,Married,Ontario,Mortgage,Email,Branch Walk-in
-21,41395,1,7,1,29,0,0,623,0,1,0,Male,Student,Single,British Columbia,Investment,Call,Online Ad
-22,48641,0,5,0,2,0,0,439,1,1,0,Female,Full-time,Single,British Columbia,Chequing Account,Email,Online Ad
-18,45247,1,3,1,1,0,0,116,0,1,0,Male,Full-time,Single,Ontario,Credit Card,Email,Partnership
-24,35476,1,5,1,5,0,0,501,0,1,0,Female,Full-time,Single,Alberta,Chequing Account,Email,Online Ad
-22,48441,1,7,2,31,0,0,505,1,1,0,Male,Unknown,Married,British Columbia,Chequing Account,Call,Referral
-27,58137,0,0,2,7,0,0,30,0,1,1,Female,Part-time,Married,British Columbia,Credit Card,Website,Online Ad
-26,26978,1,6,0,13,0,0,391,1,1,1,Female,Part-time,Divorced,Ontario,Credit Card,Branch,Partnership
-32,63830,1,11,2,24,0,0,280,0,1,1,Female,Self-employed,Single,Alberta,Mortgage,Email,Branch Walk-in
-29,53706,1,9,1,3,0,0,464,1,1,1,Female,Full-time,Married,Quebec,Credit Card,Branch,Referral
-33,36748,1,0,0,8,0,0,59,0,1,0,Male,Part-time,Divorced,Ontario,Chequing Account,Website,Partnership
-18,61696,1,8,1,32,0,0,132,0,1,0,Male,Student,Single,Manitoba,Mortgage,Call,Online Ad
-32,30750,1,4,1,32,0,0,304,0,1,0,Male,Full-time,Married,Quebec,Credit Card,Website,Referral
-25,36537,1,3,2,25,0,0,226,1,1,0,Female,Full-time,Married,British Columbia,Chequing Account,Call,Referral
-31,35934,1,3,2,31,0,0,195,0,1,1,Male,Full-time,Single,Manitoba,Chequing Account,Email,Branch Walk-in
-32,28104,0,0,1,10,0,0,393,0,1,0,Male,Part-time,Divorced,Ontario,Chequing Account,Email,Online Ad
-30,62282,0,5,1,5,0,0,440,0,1,0,Male,Part-time,Single,Alberta,Chequing Account,Website,Online Ad
-20,33627,0,7,2,35,0,0,281,0,1,0,Male,Full-time,Married,Ontario,Mortgage,Email,Social Media
-24,21145,1,2,2,26,0,0,399,1,1,0,Male,Part-time,Married,Quebec,Mortgage,Email,Branch Walk-in
-30,40861,0,5,2,21,0,0,62,0,1,0,Male,Self-employed,Single,Ontario,Chequing Account,Call,Partnership
-29,51768,1,10,0,15,0,0,125,1,1,0,Male,Part-time,Married,Alberta,Investment,Email,Branch Walk-in
-25,50062,0,10,2,0,0,0,91,0,1,1,Female,Part-time,Married,Alberta,Mortgage,Email,Referral
-26,28159,0,8,1,32,0,0,526,0,1,0,Male,Self-employed,Married,Ontario,Credit Card,Website,Referral
-31,15035,0,4,1,23,0,0,214,1,1,1,Male,Full-time,Married,Ontario,Chequing Account,Branch,Online Ad
-19,55660,0,3,0,12,0,0,243,1,1,0,Female,Full-time,Single,Ontario,Credit Card,Email,Online Ad
-27,22724,0,9,1,25,0,0,365,0,1,1,Female,Unemployed,Single,Manitoba,Credit Card,Website,Social Media
-31,40682,0,11,1,28,0,0,486,0,1,0,Female,Unemployed,Single,Alberta,Credit Card,Website,Social Media
-22,34755,0,6,1,6,0,0,219,0,1,1,Female,Full-time,Married,Quebec,Chequing Account,Call,Online Ad
-26,53507,1,2,2,27,0,0,447,1,1,0,Male,Student,Single,Quebec,Chequing Account,Email,Branch Walk-in
-32,26903,1,10,0,34,0,0,347,0,1,0,Male,Full-time,Married,Manitoba,Mortgage,Website,Social Media
-21,18672,0,1,1,30,0,0,282,0,1,1,Female,Part-time,Married,Ontario,Credit Card,Email,Branch Walk-in
-30,23647,0,8,1,11,0,0,159,0,1,0,Other,Full-time,Married,Ontario,Chequing Account,Email,Referral
-28,48199,1,9,0,38,0,0,1,1,1,1,Male,Full-time,Divorced,Alberta,Chequing Account,Website,Referral
-21,41207,0,10,0,36,0,0,280,1,1,0,Male,Self-employed,Single,Quebec,Chequing Account,Call,Branch Walk-in
-27,20487,0,4,1,32,0,0,18,1,1,0,Female,Full-time,Widowed,Alberta,Chequing Account,Email,Partnership
-29,44064,1,10,0,29,0,0,589,1,1,0,Male,Full-time,Single,Ontario,Chequing Account,Website,Branch Walk-in
-25,57555,1,3,2,4,0,0,520,0,1,1,Male,Self-employed,Single,Ontario,Mortgage,Email,Branch Walk-in
-27,35383,0,5,1,31,0,0,72,1,1,0,Female,Self-employed,Single,Ontario,Chequing Account,Call,Branch Walk-in
-29,61759,0,11,1,1,0,0,557,0,1,0,Male,Full-time,Single,British Columbia,Credit Card,Website,Branch Walk-in
-24,28706,1,10,1,15,0,0,305,1,1,0,Female,Part-time,Single,Nova Scotia,Chequing Account,Email,Partnership
-22,63994,1,0,0,8,0,0,418,0,1,0,Female,Student,Single,Ontario,Mortgage,Website,Online Ad
-27,19574,0,8,0,23,0,0,300,0,1,0,Male,Self-employed,Married,Manitoba,Investment,Website,Social Media
-18,48219,1,7,1,37,0,0,509,1,1,1,Female,Full-time,Married,Nova Scotia,Mortgage,Call,Social Media
-31,32238,1,1,1,0,0,0,357,0,1,0,Male,Full-time,Married,Manitoba,Chequing Account,Email,Social Media
-18,25352,1,9,1,9,0,0,112,1,1,1,Male,Student,Single,Ontario,Investment,Email,Referral
-34,56539,1,9,2,10,0,0,396,0,1,1,Male,Self-employed,Married,Ontario,Mortgage,Website,Branch Walk-in
-25,62045,0,6,2,31,0,0,359,0,1,0,Female,Full-time,Single,Manitoba,Investment,Website,Online Ad
-25,55689,1,6,0,37,0,0,486,1,1,0,Female,Full-time,Divorced,Alberta,Mortgage,Call,Social Media
-23,25584,1,4,0,20,0,0,1,1,1,0,Female,Full-time,Single,Nova Scotia,Chequing Account,Website,Branch Walk-in
-30,61179,0,6,0,20,0,0,160,0,1,1,Female,Part-time,Single,Manitoba,Investment,Call,Online Ad
-33,48574,0,10,1,37,0,0,526,1,1,0,Male,Full-time,Married,Ontario,Mortgage,Call,Social Media
-34,18111,1,7,1,5,0,0,543,1,1,0,Female,Self-employed,Single,Alberta,Mortgage,Email,Referral
-18,51376,1,2,2,34,0,0,357,1,1,0,Male,Self-employed,Married,Alberta,Mortgage,Call,Referral
-28,21353,0,9,1,24,0,0,406,0,1,0,Female,Self-employed,Married,Ontario,Credit Card,Email,Online Ad
-22,58648,1,1,0,26,0,0,455,0,1,0,Male,Full-time,Married,Alberta,Mortgage,Website,Branch Walk-in
-28,52177,0,6,2,9,0,0,317,0,1,0,Male,Unemployed,Married,Ontario,Chequing Account,Website,Social Media
-26,36996,1,6,1,2,0,0,50,1,1,0,Female,Self-employed,Married,Ontario,Credit Card,Branch,Online Ad
-26,40989,0,6,0,15,0,0,309,0,1,1,Female,Full-time,Single,Ontario,Chequing Account,Email,Online Ad
-20,39177,0,2,2,7,0,0,455,0,1,1,Male,Part-time,Single,Ontario,Credit Card,Website,Online Ad
-32,30137,1,5,0,14,0,0,89,1,1,0,Female,Part-time,Divorced,Quebec,Chequing Account,Call,Online Ad
-31,20899,0,10,1,4,0,0,481,0,1,0,Female,Full-time,Single,Ontario,Mortgage,Website,Referral
-20,17370,0,1,0,36,0,0,298,0,1,0,Male,Full-time,Single,Quebec,Chequing Account,Email,Social Media
-22,48982,0,5,2,7,0,0,318,0,1,0,Female,Part-time,Married,Unknown,Investment,Email,Referral
-33,29182,1,1,1,1,0,0,415,0,1,0,Female,Full-time,Single,Manitoba,Credit Card,Email,Branch Walk-in
-32,59420,0,11,2,18,0,0,485,0,1,0,Male,Self-employed,Single,British Columbia,Investment,Call,Social Media
-23,26762,0,1,2,29,0,0,92,1,1,0,Male,Full-time,Married,British Columbia,Credit Card,Website,Online Ad
-18,42921,1,10,0,14,0,0,342,0,1,0,Female,Unemployed,Single,Manitoba,Credit Card,Website,Partnership
-26,45336,1,9,2,34,0,0,38,1,1,1,Female,Part-time,Married,Ontario,Chequing Account,Email,Social Media
-26,33918,1,6,0,12,0,0,370,0,1,0,Male,Part-time,Single,Ontario,Investment,Email,Branch Walk-in
-23,28785,1,4,1,5,0,0,95,0,1,0,Male,Part-time,Married,Quebec,Credit Card,Website,Social Media
-22,61408,1,8,2,18,0,0,253,0,1,0,Female,Part-time,Married,Quebec,Chequing Account,Branch,Partnership
-28,62802,0,3,0,36,0,0,322,0,1,0,Male,Full-time,Married,Nova Scotia,Investment,Website,Online Ad
-23,54116,1,7,2,2,0,0,571,0,1,0,Female,Full-time,Single,Manitoba,Mortgage,Website,Online Ad
-41,78555,2,15,4,71,0,0,2506,1,2,1,Female,Full-time,Widowed,Quebec,Investment,Email,Online Ad
-49,84196,2,13,3,61,0,0,2964,2,2,1,Female,Full-time,Single,Ontario,Credit Card,Email,Referral
-37,74098,2,13,3,59,0,0,1987,1,2,1,Female,Student,Married,Manitoba,Investment,Email,Partnership
-48,74238,2,17,3,60,0,0,2793,2,2,1,Female,Student,Single,Ontario,Mortgage,Website,Referral
-39,68970,3,17,4,65,0,0,1689,1,2,1,Female,Part-time,Married,Ontario,Credit Card,Email,Branch Walk-in
-40,81803,3,12,5,69,0,0,3512,2,2,1,Other,Full-time,Married,Ontario,Mortgage,Email,Online Ad
-41,72158,2,11,3,55,0,0,1724,2,2,1,Other,Unemployed,Married,Ontario,Investment,Email,Online Ad
-48,84040,2,15,3,63,0,0,3487,2,2,1,Male,Full-time,Single,Quebec,Investment,Email,Online Ad
-42,84126,3,18,4,69,0,0,1198,1,2,1,Other,Part-time,Married,British Columbia,Mortgage,Website,Partnership
-35,81916,3,13,3,78,0,0,3354,1,2,1,Male,Full-time,Married,Ontario,Mortgage,Website,Social Media
-42,80869,2,13,5,40,0,0,1939,1,2,1,Female,Full-time,Single,Quebec,Chequing Account,Email,Partnership
-44,69370,3,12,5,78,0,0,2897,1,2,1,Male,Full-time,Widowed,Ontario,Credit Card,Email,Partnership
-51,71992,3,14,4,53,0,0,3315,2,2,1,Female,Full-time,Single,Ontario,Investment,Email,Referral
-38,82532,3,16,4,40,0,0,1895,1,2,1,Male,Unemployed,Single,Ontario,Chequing Account,Website,Partnership
-47,67955,2,12,3,42,0,0,3646,2,2,1,Female,Full-time,Single,Ontario,Mortgage,Website,Referral
-38,80781,2,13,5,75,0,0,1027,2,2,1,Male,Student,Divorced,Ontario,Credit Card,Email,Branch Walk-in
-40,71353,2,13,4,59,0,0,3953,2,2,1,Female,Part-time,Single,Alberta,Chequing Account,Email,Online Ad
-45,84295,2,14,5,70,0,0,4058,1,2,1,Male,Full-time,Married,Manitoba,Credit Card,Email,Branch Walk-in
-50,73973,2,12,3,41,0,0,4119,2,2,1,Male,Unemployed,Single,Ontario,Chequing Account,Email,Referral
-48,83846,2,17,5,69,0,0,3443,1,2,1,Male,Full-time,Divorced,Quebec,Investment,Email,Social Media
-47,82432,2,11,3,73,0,0,3117,1,2,1,Male,Full-time,Married,Quebec,Credit Card,Email,Online Ad
-36,81068,3,15,4,55,0,0,2274,2,2,1,Other,Part-time,Divorced,Alberta,Credit Card,Email,Online Ad
-43,74138,3,12,5,55,0,0,4206,2,2,1,Male,Self-employed,Married,Ontario,Chequing Account,Website,Branch Walk-in
-46,81624,3,17,3,67,0,0,2005,2,2,1,Female,Unemployed,Single,Quebec,Mortgage,Website,Branch Walk-in
-35,82457,2,13,3,77,0,0,2452,2,2,1,Female,Self-employed,Married,Alberta,Credit Card,Email,Referral
-40,80636,3,12,5,41,0,0,3105,1,2,1,Male,Student,Married,Alberta,Chequing Account,Call,Branch Walk-in
-44,67159,3,13,4,48,0,0,950,1,2,1,Male,Full-time,Single,Ontario,Credit Card,Website,Branch Walk-in
-50,65387,3,18,3,76,0,0,649,1,2,1,Male,Part-time,Single,Ontario,Credit Card,Email,Partnership
-40,68667,2,15,3,56,0,0,4230,1,2,1,Female,Full-time,Married,Ontario,Investment,Call,Branch Walk-in
-39,84757,3,14,3,74,0,0,1540,2,2,1,Female,Full-time,Divorced,Quebec,Investment,Call,Branch Walk-in
-44,65558,2,15,3,42,0,0,4214,2,2,1,Female,Unemployed,Married,Alberta,Credit Card,Website,Partnership
-50,67837,2,11,5,44,0,0,1969,2,2,1,Male,Part-time,Married,Alberta,Credit Card,Call,Branch Walk-in
-37,70614,3,12,5,65,0,0,2660,2,2,1,Female,Full-time,Divorced,Manitoba,Credit Card,Branch,Partnership
-43,84399,2,12,5,55,0,0,4157,2,2,1,Female,Self-employed,Single,Ontario,Credit Card,Website,Referral
-43,66336,2,13,5,61,0,0,2952,2,2,1,Female,Part-time,Single,Quebec,Investment,Email,Online Ad
-37,71682,2,12,3,42,0,0,1118,2,2,1,Female,Student,Single,Ontario,Investment,Website,Partnership
-42,70651,3,17,3,43,0,0,954,1,2,1,Male,Full-time,Married,Alberta,Chequing Account,Website,Branch Walk-in
-41,65795,3,15,5,57,0,0,3324,1,2,1,Male,Full-time,Single,Quebec,Mortgage,Website,Online Ad
-47,80310,2,11,4,47,0,0,3618,2,2,1,Female,Full-time,Divorced,Quebec,Mortgage,Website,Referral
-42,74371,2,11,5,57,0,0,3559,1,2,1,Other,Full-time,Married,Ontario,Mortgage,Email,Referral
-50,73997,3,17,4,51,0,0,782,1,2,1,Female,Self-employed,Single,Alberta,Credit Card,Email,Online Ad
-38,80783,3,14,4,61,0,0,3135,2,2,1,Male,Part-time,Married,Ontario,Credit Card,Call,Branch Walk-in
-48,82464,2,17,4,45,0,0,2854,2,2,1,Female,Self-employed,Single,Alberta,Credit Card,Branch,Social Media
-45,67952,2,13,5,41,0,0,3453,2,2,1,Male,Full-time,Widowed,Quebec,Mortgage,Branch,Referral
-41,75400,3,17,3,60,0,0,3893,1,2,1,Male,Full-time,Single,Quebec,Credit Card,Email,Referral
-41,79889,3,12,5,56,0,0,2588,2,2,1,Female,Full-time,Married,Nova Scotia,Investment,Email,Social Media
-36,65006,3,15,5,68,0,0,829,1,2,1,Female,Self-employed,Married,Nova Scotia,Investment,Email,Branch Walk-in
-41,79804,2,12,5,78,0,0,3104,2,2,1,Male,Full-time,Married,British Columbia,Credit Card,Website,Referral
-49,77927,3,14,3,64,0,0,1538,2,2,1,Male,Unknown,Single,Quebec,Mortgage,Website,Online Ad
-38,67324,2,12,3,78,0,0,3243,1,2,1,Male,Unemployed,Single,Manitoba,Chequing Account,Call,Partnership
-37,67044,3,16,3,57,0,0,2960,1,2,1,Male,Self-employed,Single,Quebec,Credit Card,Email,Social Media
-45,72626,3,17,4,52,0,0,1915,1,2,1,Male,Full-time,Single,British Columbia,Chequing Account,Call,Social Media
-37,80249,2,18,5,59,0,0,2952,1,2,1,Female,Full-time,Single,Ontario,Credit Card,Email,Online Ad
-41,83028,2,17,4,46,0,0,2213,2,2,1,Female,Student,Divorced,British Columbia,Investment,Email,Branch Walk-in
-43,72566,3,16,4,61,0,0,1261,2,2,1,Female,Full-time,Married,Alberta,Credit Card,Call,Online Ad
-49,76560,3,12,4,74,0,0,1471,1,2,1,Female,Self-employed,Single,Alberta,Mortgage,Branch,Online Ad
-39,81915,3,14,3,62,0,0,3230,1,2,1,Female,Part-time,Divorced,Ontario,Chequing Account,Branch,Social Media
-35,67321,2,18,3,53,0,0,3465,1,2,1,Female,Unemployed,Married,Ontario,Chequing Account,Branch,Referral
-50,70323,2,14,4,66,0,0,2877,2,2,1,Male,Unemployed,Married,Quebec,Mortgage,Website,Online Ad
-35,73175,3,15,3,43,0,0,3224,2,2,1,Male,Self-employed,Divorced,Ontario,Chequing Account,Email,Referral
-41,80640,3,17,4,43,0,0,1762,2,2,1,Female,Full-time,Single,Manitoba,Mortgage,Email,Partnership
-37,68364,2,14,3,75,0,0,1145,1,2,1,Female,Full-time,Divorced,Ontario,Credit Card,Call,Online Ad
-51,74730,2,14,3,61,0,0,2120,1,2,1,Male,Student,Single,Ontario,Chequing Account,Call,Online Ad
-45,81315,2,13,4,49,0,0,2391,2,2,1,Male,Full-time,Married,Alberta,Mortgage,Website,Social Media
-37,71135,3,17,5,78,0,0,1278,1,2,1,Female,Part-time,Single,Quebec,Mortgage,Website,Online Ad
-46,74628,2,16,5,41,0,0,2294,1,2,1,Male,Student,Married,Quebec,Chequing Account,Branch,Online Ad
-41,71788,2,16,3,73,0,0,1078,2,2,1,Female,Student,Married,Manitoba,Chequing Account,Call,Online Ad
-43,74845,3,15,3,67,0,0,1430,1,2,1,Male,Student,Single,British Columbia,Mortgage,Email,Online Ad
-42,84088,3,16,4,55,0,0,2953,1,2,1,Male,Full-time,Married,Quebec,Investment,Branch,Online Ad
-40,77549,3,17,5,58,0,0,2886,1,2,1,Male,Self-employed,Single,Quebec,Mortgage,Email,Branch Walk-in
-51,68642,3,12,4,49,0,0,780,1,2,1,Male,Full-time,Single,Ontario,Chequing Account,Call,Referral
-46,81997,3,18,4,49,0,0,2189,1,2,1,Female,Student,Married,British Columbia,Chequing Account,Email,Branch Walk-in
-51,65557,2,13,4,50,0,0,3598,2,2,1,Female,Self-employed,Single,Manitoba,Chequing Account,Website,Branch Walk-in
-37,73354,2,16,4,40,0,0,1309,1,2,1,Female,Full-time,Married,Manitoba,Mortgage,Email,Branch Walk-in
-49,80965,3,14,3,72,0,0,3463,2,2,1,Female,Full-time,Married,Quebec,Mortgage,Call,Social Media
-36,66684,2,12,4,71,0,0,3356,1,2,1,Female,Full-time,Single,British Columbia,Chequing Account,Website,Online Ad
-46,65230,2,18,5,51,0,0,1222,2,2,1,Other,Full-time,Single,Quebec,Mortgage,Call,Online Ad
-36,66719,3,17,4,40,0,0,1283,1,2,1,Male,Student,Married,Manitoba,Chequing Account,Email,Social Media
-37,70671,3,14,5,74,0,0,2552,1,2,1,Male,Full-time,Married,Manitoba,Mortgage,Branch,Online Ad
-41,73029,2,16,3,74,0,0,2494,1,2,1,Male,Self-employed,Single,British Columbia,Chequing Account,Website,Partnership
-36,74859,2,15,4,69,0,0,4029,2,2,1,Female,Self-employed,Married,Ontario,Credit Card,Email,Branch Walk-in
-43,83320,3,17,5,76,0,0,2725,1,2,1,Female,Part-time,Married,Nova Scotia,Credit Card,Website,Branch Walk-in
-42,81015,2,17,3,42,0,0,3037,1,2,1,Female,Part-time,Single,Quebec,Credit Card,Website,Social Media
-35,72747,2,14,5,59,0,0,2592,2,2,1,Male,Full-time,Single,Ontario,Credit Card,Branch,Branch Walk-in
-44,80816,2,14,4,52,0,0,1200,2,2,1,Female,Part-time,Single,Ontario,Credit Card,Email,Online Ad
-35,77661,2,13,5,66,0,0,3383,2,2,1,Male,Unknown,Married,Quebec,Chequing Account,Website,Social Media
-49,68154,3,16,5,65,0,0,3393,1,2,1,Male,Full-time,Single,Ontario,Investment,Email,Social Media
-45,69208,2,12,5,74,0,0,3781,1,2,1,Male,Full-time,Divorced,Manitoba,Credit Card,Email,Referral
-51,77078,2,14,5,57,0,0,2426,1,2,1,Female,Full-time,Married,British Columbia,Chequing Account,Email,Online Ad
-39,84585,3,14,3,41,0,0,2867,2,2,1,Male,Self-employed,Single,Alberta,Investment,Email,Branch Walk-in
-42,65996,3,16,4,49,0,0,1611,2,2,1,Female,Unknown,Single,Alberta,Investment,Call,Social Media
-47,65444,2,17,3,54,0,0,2412,2,2,1,Male,Part-time,Divorced,Quebec,Chequing Account,Email,Branch Walk-in
-43,84307,2,18,4,40,0,0,3771,1,2,1,Male,Part-time,Single,Ontario,Investment,Call,Online Ad
-45,70250,2,14,4,68,0,0,1001,2,2,1,Male,Student,Single,British Columbia,Chequing Account,Email,Online Ad
-47,64720,2,16,5,66,0,0,3917,2,2,1,Female,Unemployed,Single,British Columbia,Mortgage,Email,Branch Walk-in
-47,80535,2,17,3,67,0,0,4208,2,2,1,Male,Full-time,Married,Ontario,Credit Card,Email,Branch Walk-in
-50,79218,2,14,5,53,0,0,1090,1,2,1,Male,Unemployed,Single,Quebec,Chequing Account,Website,Referral
-45,67691,3,16,5,53,0,0,2009,2,2,1,Male,Full-time,Single,Quebec,Mortgage,Call,Social Media
-42,74659,3,16,3,77,0,0,2732,1,2,1,Male,Part-time,Single,Alberta,Mortgage,Website,Online Ad
-50,79479,2,15,4,54,0,0,3691,1,2,1,Female,Full-time,Single,Ontario,Credit Card,Call,Social Media
-36,69188,3,15,4,66,0,0,2165,1,2,1,Female,Part-time,Married,Manitoba,Chequing Account,Email,Online Ad
-45,65766,2,16,4,41,0,0,2037,2,2,1,Female,Full-time,Married,Quebec,Investment,Email,Branch Walk-in
-39,78159,3,14,3,43,0,0,3873,1,2,1,Female,Full-time,Single,Alberta,Mortgage,Email,Referral
-47,69950,2,11,4,45,0,0,2459,1,2,1,Male,Full-time,Single,Ontario,Credit Card,Website,Online Ad
-45,73299,2,13,5,69,0,0,1429,1,2,1,Female,Full-time,Single,Ontario,Chequing Account,Email,Partnership
-44,82894,2,12,3,52,0,0,822,2,2,1,Male,Full-time,Divorced,Alberta,Chequing Account,Website,Branch Walk-in
-48,79419,3,17,5,49,0,0,1330,1,2,1,Other,Student,Single,Ontario,Mortgage,Call,Branch Walk-in
-45,78283,2,16,5,55,0,0,1276,2,2,1,Male,Part-time,Widowed,Ontario,Mortgage,Website,Partnership
-37,78505,2,16,5,67,0,0,3252,1,2,1,Female,Full-time,Single,British Columbia,Credit Card,Email,Branch Walk-in
-44,69914,3,12,5,59,0,0,1519,1,2,1,Female,Full-time,Single,British Columbia,Mortgage,Email,Branch Walk-in
-49,82973,2,15,3,74,0,0,2575,2,2,1,Male,Full-time,Married,Quebec,Credit Card,Call,Partnership
-47,73630,2,17,3,39,0,0,3536,1,2,1,Female,Part-time,Single,Ontario,Mortgage,Website,Branch Walk-in
-48,66954,3,11,4,77,0,0,3747,1,2,1,Other,Student,Single,Quebec,Mortgage,Email,Branch Walk-in
-48,84561,2,12,5,60,0,0,1932,1,2,1,Male,Full-time,Single,Quebec,Mortgage,Email,Social Media
-45,83862,3,17,5,43,0,0,3602,2,2,1,Male,Student,Married,Alberta,Mortgage,Call,Referral
-49,83058,3,16,5,72,0,0,3308,2,2,1,Male,Part-time,Single,British Columbia,Credit Card,Branch,Referral
-45,76816,2,13,5,39,0,0,1555,1,2,1,Male,Full-time,Single,Quebec,Chequing Account,Branch,Online Ad
-37,77918,3,13,3,64,0,0,3853,1,2,1,Male,Unemployed,Married,Ontario,Chequing Account,Website,Referral
-51,69595,2,14,4,74,0,0,1258,1,2,1,Male,Self-employed,Single,Quebec,Chequing Account,Email,Online Ad
-46,68263,2,15,4,53,0,0,1815,2,2,1,Female,Part-time,Single,Ontario,Credit Card,Email,Referral
-38,71580,3,11,4,53,0,0,3048,1,2,1,Male,Unemployed,Married,Ontario,Investment,Email,Online Ad
-36,71097,3,18,3,43,0,0,2977,2,2,1,Female,Part-time,Single,Ontario,Chequing Account,Email,Branch Walk-in
-36,66640,2,13,5,54,0,0,890,2,2,1,Male,Part-time,Single,British Columbia,Mortgage,Email,Referral
-47,81748,2,15,5,44,0,0,1694,2,2,1,Female,Full-time,Divorced,Alberta,Chequing Account,Branch,Partnership
-50,67140,3,13,3,62,0,0,991,1,2,1,Male,Student,Single,British Columbia,Mortgage,Email,Social Media
-45,68778,2,13,5,49,0,0,3789,1,2,1,Male,Part-time,Single,Ontario,Credit Card,Website,Partnership
-49,82859,3,16,4,46,0,0,916,1,2,1,Female,Full-time,Single,Ontario,Credit Card,Website,Branch Walk-in
-50,71047,2,13,4,57,0,0,3088,2,2,1,Female,Self-employed,Divorced,Ontario,Mortgage,Branch,Online Ad
-42,83925,2,17,5,44,0,0,3267,2,2,1,Female,Self-employed,Married,Ontario,Chequing Account,Call,Referral
-50,75834,2,15,4,74,0,0,3780,2,2,1,Male,Part-time,Single,Ontario,Mortgage,Website,Online Ad
-46,84260,2,17,4,66,0,0,717,2,2,1,Male,Student,Married,Quebec,Credit Card,Website,Branch Walk-in
-47,83125,3,13,5,70,0,0,3251,2,2,1,Female,Full-time,Married,Ontario,Investment,Branch,Referral
-37,74467,2,15,4,74,0,0,4081,1,2,1,Male,Full-time,Single,Unknown,Investment,Email,Social Media
-49,73013,3,18,5,39,0,0,1652,2,2,1,Female,Student,Single,Ontario,Credit Card,Call,Online Ad
-40,76786,3,16,5,57,0,0,2526,1,2,1,Male,Part-time,Single,Ontario,Chequing Account,Email,Online Ad
-49,82932,2,14,5,65,0,0,3803,1,2,1,Male,Full-time,Single,Quebec,Chequing Account,Website,Referral
-48,66844,2,11,4,45,0,0,794,1,2,1,Female,Full-time,Married,Quebec,Chequing Account,Email,Branch Walk-in
-45,78013,3,17,4,64,0,0,3264,2,2,1,Female,Part-time,Married,Alberta,Chequing Account,Email,Online Ad
-50,73118,2,14,5,72,0,0,677,2,2,1,Female,Part-time,Single,Unknown,Credit Card,Email,Partnership
-47,67222,2,11,4,44,0,0,2782,2,2,1,Other,Part-time,Married,Quebec,Chequing Account,Website,Online Ad
-36,72500,2,18,5,52,0,0,1109,2,2,1,Male,Part-time,Widowed,Ontario,Mortgage,Email,Online Ad
-37,83318,2,15,4,78,0,0,2257,2,2,1,Female,Full-time,Widowed,Quebec,Investment,Website,Branch Walk-in
-49,73774,2,17,5,70,0,0,3327,2,2,1,Male,Full-time,Single,British Columbia,Chequing Account,Website,Online Ad
-44,65821,3,15,4,56,0,0,1351,2,2,1,Male,Full-time,Married,Alberta,Mortgage,Branch,Referral
-47,74112,3,15,4,41,0,0,1624,2,2,1,Male,Full-time,Married,Alberta,Investment,Branch,Partnership
-42,72820,2,14,4,45,0,0,3523,1,2,1,Male,Full-time,Married,Manitoba,Credit Card,Email,Branch Walk-in
-36,68772,3,16,3,59,0,0,1246,1,2,1,Other,Full-time,Single,Quebec,Investment,Branch,Branch Walk-in
-37,64462,3,13,4,55,0,0,2642,1,2,1,Male,Unemployed,Single,Manitoba,Credit Card,Website,Online Ad
-44,80436,3,17,4,51,0,0,2616,1,2,1,Female,Student,Married,Alberta,Credit Card,Email,Online Ad
-42,80924,2,17,5,50,0,0,3337,2,2,1,Female,Part-time,Single,Ontario,Mortgage,Website,Branch Walk-in
-36,78327,3,15,3,72,0,0,2414,2,2,1,Female,Part-time,Single,Quebec,Credit Card,Call,Referral
-45,83687,2,15,4,42,0,0,4235,2,2,1,Male,Part-time,Married,Manitoba,Credit Card,Email,Referral
-40,66218,2,17,3,76,0,0,2733,1,2,1,Male,Self-employed,Single,Ontario,Mortgage,Email,Referral
-42,70998,2,14,3,44,0,0,2757,1,2,1,Female,Unemployed,Married,British Columbia,Mortgage,Email,Partnership
-36,78218,3,12,5,39,0,0,3665,1,2,1,Male,Part-time,Married,Alberta,Chequing Account,Call,Social Media
-48,70046,3,13,5,46,0,0,1630,1,2,1,Male,Self-employed,Single,Ontario,Chequing Account,Website,Social Media
-50,74556,3,12,4,48,0,0,1018,1,2,1,Male,Part-time,Married,Alberta,Credit Card,Email,Referral
-42,70331,3,12,3,39,0,0,2333,2,2,1,Female,Full-time,Married,Alberta,Credit Card,Call,Social Media
-37,78643,3,17,5,54,0,0,3812,2,2,1,Male,Full-time,Divorced,Alberta,Mortgage,Website,Branch Walk-in
-51,66834,2,15,3,77,0,0,965,1,2,1,Female,Part-time,Divorced,Ontario,Chequing Account,Email,Social Media
-38,64627,3,15,3,41,0,0,1029,2,2,1,Female,Self-employed,Single,Quebec,Credit Card,Email,Branch Walk-in
-39,71727,2,17,3,45,0,0,4044,2,2,1,Female,Unemployed,Single,Manitoba,Credit Card,Email,Online Ad
-35,84212,2,15,4,68,0,0,1666,1,2,1,Male,Part-time,Single,Ontario,Mortgage,Website,Online Ad
-51,70608,2,17,5,74,0,0,2958,1,2,1,Female,Full-time,Single,British Columbia,Mortgage,Branch,Branch Walk-in
-51,79257,2,12,4,74,0,0,2552,2,2,1,Female,Full-time,Divorced,Ontario,Chequing Account,Website,Referral
-38,80520,3,12,4,69,0,0,1353,1,2,1,Female,Full-time,Single,Ontario,Credit Card,Call,Referral
-68,786042,4,28,7,92,1,4,15479,4,3,3,Male,Part-time,Married,Alberta,Credit Card,Website,Online Ad
-68,419095,5,22,6,105,1,3,10314,4,3,2,Male,Unemployed,Single,British Columbia,Investment,Website,Social Media
-66,1064955,8,36,7,96,5,4,11518,3,3,2,Female,Self-employed,Married,Alberta,Investment,Website,Partnership
-58,340902,12,34,7,95,1,4,16600,3,3,2,Female,Full-time,Married,Manitoba,Mortgage,Website,Branch Walk-in
-54,329136,12,23,7,102,6,3,13653,4,3,3,Female,Full-time,Married,British Columbia,Chequing Account,Website,Referral
-60,286309,5,38,7,107,2,4,4952,4,3,3,Male,Full-time,Single,Ontario,Mortgage,Website,Referral
-62,411694,5,27,6,87,4,4,13001,4,3,3,Male,Full-time,Married,Manitoba,Mortgage,Website,Referral
-67,1171093,9,25,6,87,3,2,4706,3,3,2,Male,Unemployed,Single,Quebec,Investment,Email,Online Ad
-52,155106,5,41,6,86,2,4,15079,3,3,2,Male,Full-time,Married,Ontario,Chequing Account,Website,Partnership
-61,632345,9,40,6,89,2,2,10019,4,3,2,Female,Full-time,Single,Quebec,Chequing Account,Call,Branch Walk-in
-65,876362,7,28,6,118,3,1,5584,3,3,2,Male,Full-time,Married,Nova Scotia,Credit Card,Call,Social Media
-52,844430,12,23,7,102,6,2,14817,2,3,2,Male,Full-time,Single,Ontario,Credit Card,Email,Online Ad
-53,166310,7,42,7,116,3,2,4618,3,3,2,Male,Self-employed,Married,Ontario,Credit Card,Website,Social Media
-65,303265,8,19,8,115,6,1,9242,3,3,1,Female,Full-time,Single,Ontario,Investment,Email,Online Ad
-54,1142556,7,41,7,113,5,4,12864,3,3,2,Male,Part-time,Married,Ontario,Mortgage,Call,Branch Walk-in
-52,601656,5,32,8,92,1,4,9425,4,3,2,Male,Part-time,Married,Unknown,Mortgage,Email,Branch Walk-in
-52,155319,12,42,8,94,5,4,13366,3,3,3,Female,Unemployed,Widowed,Unknown,Credit Card,Email,Branch Walk-in
-66,845478,6,40,8,94,1,1,10910,3,3,3,Female,Self-employed,Widowed,Manitoba,Investment,Email,Online Ad
-68,613067,9,31,7,94,1,1,6857,2,3,1,Male,Student,Married,Nova Scotia,Mortgage,Email,Online Ad
-66,1036339,12,33,6,117,3,1,11525,4,3,3,Female,Full-time,Married,Ontario,Credit Card,Website,Referral
-55,1112420,11,23,7,110,6,4,15176,4,3,2,Male,Part-time,Single,British Columbia,Mortgage,Email,Referral
-65,1071776,12,33,6,83,6,2,14085,4,3,3,Male,Full-time,Divorced,Ontario,Mortgage,Website,Online Ad
-53,807120,12,33,8,101,2,1,14849,3,3,3,Male,Student,Widowed,Ontario,Mortgage,Email,Online Ad
-52,466278,5,25,6,118,6,3,11844,4,3,2,Female,Unemployed,Single,Ontario,Chequing Account,Call,Online Ad
-56,570949,8,33,7,82,6,3,14605,2,3,2,Male,Student,Single,Ontario,Mortgage,Branch,Online Ad
-61,575916,10,30,7,104,5,1,12312,4,3,3,Male,Unemployed,Single,Ontario,Credit Card,Call,Referral
-64,523117,11,22,8,90,6,1,8285,2,3,3,Male,Full-time,Divorced,Quebec,Credit Card,Email,Partnership
-54,612748,7,23,8,109,6,3,4693,3,3,2,Female,Full-time,Married,Alberta,Mortgage,Website,Referral
-52,942212,5,31,8,112,1,2,6053,4,3,2,Female,Self-employed,Married,Alberta,Mortgage,Email,Social Media
-60,652451,4,25,6,89,5,3,10891,4,3,2,Male,Full-time,Single,Ontario,Chequing Account,Website,Social Media
-65,610549,12,32,7,93,6,1,8165,2,3,2,Female,Self-employed,Married,Alberta,Investment,Website,Branch Walk-in
-56,165288,12,36,8,95,3,4,12835,2,3,2,Male,Student,Married,Ontario,Credit Card,Email,Social Media
-61,1181668,11,37,6,108,3,2,15706,2,3,2,Male,Full-time,Single,Nova Scotia,Investment,Website,Branch Walk-in
-64,421973,10,40,8,111,4,1,13599,4,3,3,Female,Self-employed,Single,Ontario,Mortgage,Website,Branch Walk-in
-52,873569,12,39,6,118,1,2,6650,3,3,1,Male,Full-time,Married,Ontario,Investment,Call,Partnership
-65,900072,11,26,6,92,6,2,7633,4,3,2,Female,Full-time,Married,Ontario,Mortgage,Call,Social Media
-65,487194,9,39,8,79,6,3,6807,3,3,2,Male,Full-time,Single,Alberta,Mortgage,Email,Social Media
-54,456335,12,24,8,95,1,2,9978,3,3,3,Male,Part-time,Single,Quebec,Chequing Account,Website,Branch Walk-in
-60,675345,12,23,6,105,4,3,9051,4,3,2,Male,Full-time,Single,Ontario,Investment,Website,Partnership
-53,462624,4,29,8,115,3,3,12663,3,3,2,Female,Full-time,Widowed,British Columbia,Mortgage,Email,Branch Walk-in
-62,693282,9,23,7,109,2,4,7738,2,3,2,Male,Student,Single,Ontario,Mortgage,Email,Social Media
-58,426342,10,34,7,105,1,2,5508,3,3,2,Male,Unemployed,Married,Ontario,Credit Card,Email,Referral
-52,1182844,9,42,6,85,5,3,5233,2,3,3,Female,Full-time,Married,Alberta,Investment,Email,Referral
-63,1169165,6,31,8,111,6,1,7432,3,3,2,Male,Part-time,Married,British Columbia,Investment,Email,Branch Walk-in
-66,974385,5,39,8,103,5,4,12257,4,3,2,Male,Part-time,Single,Manitoba,Credit Card,Call,Social Media
-54,1004449,8,38,8,112,4,2,10964,2,3,2,Female,Full-time,Married,Quebec,Mortgage,Email,Online Ad
-67,382939,8,20,6,118,4,1,13784,4,3,2,Male,Full-time,Married,Alberta,Chequing Account,Website,Social Media
-57,95742,8,40,6,100,6,3,8737,2,3,1,Male,Full-time,Single,Ontario,Credit Card,Call,Branch Walk-in
-58,228406,8,23,6,110,3,4,11285,3,3,2,Male,Part-time,Single,Manitoba,Mortgage,Website,Branch Walk-in
-68,871023,9,42,7,98,3,4,6693,3,3,2,Male,Full-time,Married,British Columbia,Investment,Email,Partnership
-66,1092037,7,23,6,93,6,1,15669,4,3,2,Female,Student,Single,Quebec,Chequing Account,Email,Online Ad
-53,430918,8,34,8,79,6,4,9499,2,3,2,Male,Full-time,Single,British Columbia,Chequing Account,Email,Referral
-58,246313,9,38,7,91,4,1,5885,3,3,3,Female,Part-time,Married,Quebec,Chequing Account,Email,Social Media
-61,987422,4,26,8,115,4,3,10800,2,3,2,Male,Full-time,Married,Alberta,Chequing Account,Email,Social Media
-64,505949,10,18,8,115,2,2,14273,4,3,2,Male,Unemployed,Married,Nova Scotia,Chequing Account,Website,Online Ad
-68,546102,6,26,8,81,1,1,10422,4,3,2,Female,Part-time,Married,British Columbia,Investment,Branch,Partnership
-52,771350,9,22,6,116,3,3,6585,2,3,2,Female,Part-time,Single,Ontario,Credit Card,Email,Branch Walk-in
-56,307328,8,32,7,90,4,1,6444,3,3,3,Female,Full-time,Single,Manitoba,Investment,Branch,Online Ad
-56,397112,4,29,6,104,2,2,15074,4,3,3,Female,Student,Widowed,Ontario,Mortgage,Email,Partnership
-59,433121,9,36,8,92,2,1,12073,4,3,3,Male,Self-employed,Married,Quebec,Credit Card,Website,Online Ad
-59,1059140,6,19,8,111,3,4,12228,2,3,2,Male,Unknown,Single,Quebec,Chequing Account,Email,Referral
-60,151384,7,35,7,96,5,1,17468,2,3,2,Male,Unemployed,Single,British Columbia,Credit Card,Website,Partnership
-68,1022597,9,29,7,96,5,3,11493,4,3,3,Male,Self-employed,Married,Alberta,Chequing Account,Website,Referral
-52,994835,9,35,8,86,4,4,10663,4,3,2,Male,Unknown,Married,British Columbia,Credit Card,Website,Online Ad
-66,689226,12,35,6,116,5,3,13553,2,3,2,Female,Student,Married,Ontario,Mortgage,Email,Online Ad
-57,385417,7,29,8,86,4,3,12812,4,3,1,Female,Part-time,Single,Alberta,Mortgage,Call,Branch Walk-in
-53,466722,5,32,6,109,1,1,15639,3,3,2,Female,Full-time,Married,British Columbia,Credit Card,Call,Online Ad
-66,678010,5,37,7,82,4,4,4442,4,3,3,Male,Full-time,Single,Unknown,Credit Card,Website,Branch Walk-in
-62,590773,6,29,7,116,4,4,13382,4,3,3,Female,Part-time,Divorced,British Columbia,Chequing Account,Email,Online Ad
-54,922578,10,25,7,105,6,2,17441,4,3,2,Female,Full-time,Married,Manitoba,Credit Card,Website,Online Ad
-54,661431,4,31,7,114,5,2,8868,3,3,2,Male,Full-time,Single,Nova Scotia,Mortgage,Email,Partnership
-66,1097993,10,38,8,101,2,4,7925,3,3,2,Male,Full-time,Married,Nova Scotia,Mortgage,Email,Online Ad
-57,217132,9,34,8,81,6,4,11704,2,3,2,Male,Student,Married,British Columbia,Mortgage,Email,Social Media
-53,412190,6,37,7,79,6,1,4267,3,3,2,Female,Full-time,Divorced,Ontario,Credit Card,Website,Partnership
-60,533005,5,43,6,95,3,1,11175,2,3,3,Male,Part-time,Single,Manitoba,Chequing Account,Email,Branch Walk-in
-59,304334,7,20,8,82,3,2,10743,4,3,2,Male,Full-time,Married,Quebec,Mortgage,Website,Partnership
-54,1100320,11,26,8,105,2,3,12295,4,3,1,Male,Full-time,Single,British Columbia,Credit Card,Branch,Branch Walk-in
-66,623559,11,27,8,112,5,2,4644,4,3,2,Male,Full-time,Single,Ontario,Chequing Account,Website,Branch Walk-in
-63,491907,8,34,8,102,3,2,5997,2,3,1,Female,Full-time,Married,Quebec,Chequing Account,Email,Online Ad
-64,277626,5,19,7,95,3,1,13818,3,3,2,Male,Unemployed,Married,British Columbia,Chequing Account,Website,Referral
-66,656768,4,43,7,111,5,1,13125,4,3,1,Male,Full-time,Married,Manitoba,Credit Card,Email,Branch Walk-in
-58,671368,6,33,7,82,2,4,7869,2,3,3,Female,Full-time,Married,Manitoba,Credit Card,Website,Online Ad
-57,567180,8,21,7,82,4,1,8799,3,3,3,Female,Full-time,Divorced,British Columbia,Credit Card,Email,Online Ad
-62,385182,4,28,7,103,4,4,17532,4,3,2,Female,Unemployed,Married,Quebec,Mortgage,Call,Online Ad
-58,966414,5,37,7,114,4,3,5416,4,3,3,Other,Self-employed,Married,Ontario,Investment,Website,Partnership
-62,745056,8,36,7,99,6,2,7967,4,3,1,Female,Full-time,Divorced,Alberta,Credit Card,Website,Referral
-58,823334,5,22,7,83,2,1,15219,2,3,2,Male,Full-time,Single,Nova Scotia,Investment,Email,Social Media
-60,587889,8,20,6,106,1,4,6507,2,3,1,Female,Unemployed,Single,British Columbia,Credit Card,Website,Partnership
-56,681187,12,34,6,80,2,2,17480,3,3,2,Male,Full-time,Single,Alberta,Chequing Account,Email,Partnership
-52,246021,12,40,7,113,6,4,14753,2,3,2,Female,Self-employed,Married,Manitoba,Chequing Account,Website,Referral
-65,991529,10,22,8,89,5,3,9509,2,3,3,Male,Unemployed,Married,Quebec,Investment,Call,Referral
-59,461663,4,20,6,108,3,1,5345,3,3,2,Male,Full-time,Single,Ontario,Investment,Website,Branch Walk-in
-59,97307,12,30,7,88,3,2,8296,4,3,2,Male,Unemployed,Divorced,Ontario,Chequing Account,Website,Branch Walk-in
-57,1185438,6,21,6,113,3,2,15798,4,3,2,Male,Full-time,Widowed,Quebec,Chequing Account,Call,Social Media
-55,684554,6,27,6,88,5,1,11365,3,3,1,Male,Part-time,Single,Quebec,Chequing Account,Email,Referral
-54,376408,11,26,8,115,4,4,12699,4,3,2,Male,Full-time,Single,Manitoba,Credit Card,Email,Social Media
-63,978968,5,29,8,114,1,2,9264,4,3,2,Female,Full-time,Married,Ontario,Chequing Account,Email,Online Ad
-52,976678,4,40,8,118,5,1,13620,4,3,3,Male,Self-employed,Married,Quebec,Investment,Email,Referral
-62,1123026,8,27,7,111,3,4,11607,4,3,3,Male,Unemployed,Single,Alberta,Credit Card,Website,Partnership
-55,1017534,8,44,7,111,4,3,6289,2,3,2,Female,Full-time,Divorced,Ontario,Credit Card,Website,Branch Walk-in
-65,202676,4,24,7,106,4,2,15668,3,3,3,Female,Part-time,Single,Nova Scotia,Investment,Email,Social Media
-55,697945,11,36,6,115,1,3,6574,3,3,2,Female,Full-time,Single,Ontario,Credit Card,Website,Online Ad
-66,1077749,8,40,8,115,4,2,10383,2,3,1,Female,Part-time,Married,Quebec,Chequing Account,Call,Partnership
-58,499962,6,20,6,93,3,4,13246,3,3,2,Male,Part-time,Single,Manitoba,Chequing Account,Email,Online Ad
-54,992795,6,30,8,98,3,3,8867,4,3,2,Female,Part-time,Married,Quebec,Credit Card,Call,Partnership
-55,608639,7,28,6,96,2,4,15392,3,3,2,Male,Full-time,Single,Ontario,Credit Card,Website,Referral
-62,1158151,8,38,8,109,1,2,6198,3,3,2,Male,Unknown,Married,Nova Scotia,Chequing Account,Call,Branch Walk-in
-64,723039,5,21,7,87,6,4,15843,4,3,2,Male,Part-time,Married,Quebec,Investment,Branch,Branch Walk-in
-55,779612,10,28,8,113,5,2,7709,2,3,2,Male,Student,Married,Ontario,Mortgage,Branch,Online Ad
-56,884798,7,36,7,84,1,1,4434,2,3,3,Male,Unemployed,Married,Ontario,Chequing Account,Email,Online Ad
-64,326916,4,41,6,107,2,3,14689,4,3,2,Female,Self-employed,Divorced,Ontario,Chequing Account,Website,Branch Walk-in
-67,1084366,4,36,7,108,4,4,16857,3,3,2,Male,Full-time,Married,Quebec,Credit Card,Call,Online Ad
-61,792972,11,43,7,116,3,3,10682,2,3,1,Male,Full-time,Married,Quebec,Credit Card,Website,Online Ad
-64,649093,11,32,7,96,5,4,12733,3,3,3,Male,Part-time,Single,Quebec,Credit Card,Website,Branch Walk-in
-60,163135,12,23,6,89,4,3,12950,3,3,2,Female,Unemployed,Married,Quebec,Chequing Account,Call,Online Ad
-64,952452,12,23,8,85,1,2,16257,2,3,1,Male,Part-time,Married,Quebec,Mortgage,Website,Social Media
-57,463133,5,31,7,86,2,2,15560,4,3,2,Female,Full-time,Married,British Columbia,Credit Card,Call,Social Media
-57,393502,4,43,7,94,4,1,5287,4,3,2,Female,Full-time,Single,British Columbia,Mortgage,Website,Referral
-57,437626,6,34,6,108,1,3,10350,2,3,2,Male,Full-time,Single,Alberta,Credit Card,Branch,Referral
-62,1144163,10,34,6,104,4,1,16068,2,3,2,Female,Unemployed,Married,British Columbia,Mortgage,Website,Branch Walk-in
-66,402671,5,43,7,97,6,4,7711,3,3,2,Male,Full-time,Married,Quebec,Investment,Website,Partnership
-64,240503,5,34,8,85,5,4,11024,4,3,1,Male,Self-employed,Married,Quebec,Mortgage,Website,Referral
-66,586091,8,35,7,105,6,4,12987,3,3,1,Male,Full-time,Married,Nova Scotia,Chequing Account,Email,Partnership
-57,909296,7,36,7,97,5,3,11904,2,3,3,Male,Student,Single,Manitoba,Chequing Account,Website,Branch Walk-in
-66,906322,7,22,7,83,3,4,17025,3,3,2,Male,Full-time,Married,Manitoba,Credit Card,Email,Social Media
-53,324008,12,37,8,82,5,1,13938,3,3,2,Female,Self-employed,Single,Ontario,Mortgage,Email,Online Ad
-52,1069419,10,23,8,102,4,3,14888,4,3,3,Female,Part-time,Single,Quebec,Credit Card,Email,Branch Walk-in
-66,755867,12,20,7,88,3,4,11856,3,3,3,Female,Part-time,Single,British Columbia,Mortgage,Call,Branch Walk-in
-67,1178419,6,21,7,105,4,4,13953,3,3,3,Male,Unknown,Single,Quebec,Chequing Account,Email,Social Media
-67,975554,9,21,7,92,2,1,16675,4,3,2,Female,Student,Married,Ontario,Credit Card,Website,Partnership
-58,1164097,5,31,6,96,4,4,4493,2,3,3,Male,Student,Widowed,Ontario,Credit Card,Email,Online Ad
-57,111144,10,23,7,95,1,1,16509,4,3,3,Other,Full-time,Single,British Columbia,Chequing Account,Email,Branch Walk-in
-55,451000,7,29,6,111,1,3,8392,3,3,2,Female,Part-time,Divorced,British Columbia,Chequing Account,Call,Online Ad
-58,1164069,8,31,6,102,2,4,12885,2,3,1,Male,Part-time,Single,Quebec,Investment,Website,Online Ad
-61,1134335,8,24,7,80,4,2,13576,3,3,2,Female,Full-time,Single,Ontario,Credit Card,Website,Referral
-52,313301,8,33,6,102,2,3,10027,4,3,3,Other,Full-time,Single,Nova Scotia,Mortgage,Email,Social Media
-56,539845,9,36,6,90,4,1,7225,2,3,2,Male,Full-time,Married,Ontario,Chequing Account,Email,Social Media
-56,314872,6,30,7,97,6,1,10828,3,3,2,Male,Full-time,Married,Nova Scotia,Chequing Account,Email,Branch Walk-in
-62,1172790,5,32,6,109,2,4,14931,4,3,2,Male,Full-time,Single,Manitoba,Chequing Account,Website,Online Ad
-68,889364,6,36,7,88,6,4,5211,2,3,2,Female,Part-time,Married,Quebec,Credit Card,Website,Referral
-55,766107,9,36,6,93,2,3,17391,3,3,2,Female,Unemployed,Single,Alberta,Investment,Email,Partnership
-66,96893,10,36,8,113,6,2,17288,3,3,2,Female,Student,Single,Quebec,Mortgage,Website,Social Media
-67,687454,8,20,6,115,5,2,12906,2,3,2,Male,Student,Single,Ontario,Chequing Account,Email,Branch Walk-in
-67,277959,8,23,8,117,1,2,11142,2,3,1,Male,Unemployed,Single,Quebec,Mortgage,Website,Social Media
-62,752502,9,39,8,99,3,2,17578,4,3,1,Female,Full-time,Married,Ontario,Mortgage,Call,Branch Walk-in
-58,786880,6,28,6,106,2,4,8105,3,3,2,Female,Full-time,Married,Ontario,Chequing Account,Website,Branch Walk-in
-53,1059805,5,29,7,98,1,2,17316,3,3,2,Male,Full-time,Married,Manitoba,Investment,Call,Branch Walk-in
-63,689989,4,24,7,118,2,3,8377,3,3,1,Male,Full-time,Widowed,British Columbia,Chequing Account,Website,Partnership
-54,181493,5,37,6,114,6,2,11476,2,3,2,Male,Part-time,Married,Ontario,Investment,Call,Referral
-58,415731,9,37,8,107,1,1,8821,3,3,3,Female,Full-time,Married,Quebec,Credit Card,Call,Referral
-57,526746,11,33,7,95,1,1,6026,3,3,2,Male,Unemployed,Single,Ontario,Investment,Website,Partnership
-56,521775,9,30,6,92,2,3,13217,3,3,2,Male,Full-time,Single,Ontario,Mortgage,Call,Branch Walk-in
-66,278178,4,20,8,100,4,3,14251,4,3,3,Female,Full-time,Married,Ontario,Credit Card,Website,Referral
-61,1115558,4,36,6,81,3,4,7535,3,3,2,Female,Full-time,Single,Alberta,Investment,Call,Branch Walk-in
-56,543478,12,30,7,104,3,2,15502,4,3,3,Female,Full-time,Single,Nova Scotia,Chequing Account,Email,Online Ad
-64,532790,8,27,7,90,4,1,17009,2,3,2,Female,Full-time,Married,Nova Scotia,Investment,Email,Online Ad
-60,642154,9,30,8,106,1,4,13618,3,3,1,Male,Full-time,Divorced,Alberta,Mortgage,Branch,Social Media
-53,643262,12,43,7,111,5,4,5308,2,3,3,Male,Full-time,Divorced,Nova Scotia,Mortgage,Branch,Social Media
-54,363028,8,35,6,105,5,1,16503,4,3,3,Female,Part-time,Single,Quebec,Investment,Call,Branch Walk-in
-57,663442,9,18,6,108,4,4,9293,4,3,2,Male,Part-time,Married,Manitoba,Credit Card,Email,Referral
-65,960759,12,34,6,111,3,2,5782,3,3,2,Female,Full-time,Single,Ontario,Investment,Email,Referral
-55,1173880,5,27,7,97,2,3,7805,4,3,2,Male,Full-time,Married,Ontario,Mortgage,Email,Branch Walk-in
-53,1122144,4,20,6,115,2,3,12726,2,3,2,Female,Unemployed,Married,British Columbia,Credit Card,Email,Social Media
-55,1130332,6,34,8,95,4,2,8810,2,3,2,Male,Unknown,Divorced,Quebec,Investment,Email,Branch Walk-in
-65,606075,4,28,6,106,3,1,9373,3,3,2,Male,Full-time,Divorced,Ontario,Credit Card,Branch,Branch Walk-in
-56,129853,5,25,6,109,6,2,7589,2,3,2,Male,Full-time,Married,Manitoba,Chequing Account,Email,Online Ad
-55,950734,10,42,8,110,1,1,12867,4,3,3,Male,Student,Single,Alberta,Investment,Email,Online Ad
-60,620722,8,29,8,86,2,2,16752,4,3,3,Female,Full-time,Single,Ontario,Chequing Account,Website,Social Media
+LeadID,Age,Income,WebsiteVisits_PreConversion,TimeOnWebsite_Minutes,EmailOpenedCount,DaysSinceInquiry,CallCenterInquiries,BranchVisits,CLTV,EngagementScore,AgeScore,LeadPriorityScore,Gender,EmploymentStatus,MaritalStatus,Province,InitialProductInterest,FirstContactChannel,LeadSource
+Lead_001,28,32833,1,0,1,28,0,0,433,0,1,0,Male,Full-time,Single,Ontario,Chequing Account,Email,Referral
+Lead_002,27,34864,1,0,1,34,0,0,285,1,1,0,Male,Full-time,Single,Ontario,Chequing Account,Email,Social Media
+Lead_003,34,33030,1,1,2,20,0,0,110,0,1,1,Male,Part-time,Married,Unknown,Mortgage,Website,Social Media
+Lead_004,28,59356,1,5,0,12,0,0,67,1,1,0,Male,Part-time,Single,Ontario,Chequing Account,Email,Referral
+Lead_005,33,27114,1,8,1,29,0,0,535,1,1,1,Other,Part-time,Single,Quebec,Mortgage,Branch,Online Ad
+Lead_006,21,23943,1,7,2,32,0,0,320,0,1,0,Female,Full-time,Single,Ontario,Chequing Account,Email,Referral
+Lead_007,22,17628,1,0,0,34,0,0,363,0,1,1,Male,Student,Single,Ontario,Investment,Email,Referral
+Lead_008,19,31835,1,8,0,1,0,0,473,1,1,0,Female,Self-employed,Married,Alberta,Investment,Website,Social Media
+Lead_009,27,34555,1,0,0,9,0,0,381,1,1,0,Female,Full-time,Married,Ontario,Credit Card,Email,Referral
+Lead_010,21,21599,1,5,2,15,0,0,591,0,1,1,Male,Unemployed,Single,Ontario,Credit Card,Website,Online Ad
+Lead_011,30,40271,1,1,2,35,0,0,118,0,1,0,Male,Full-time,Single,Manitoba,Investment,Email,Branch Walk-in
+Lead_012,30,49943,0,9,0,28,0,0,608,1,1,0,Male,Unemployed,Married,Alberta,Chequing Account,Website,Referral
+Lead_013,27,29009,0,3,1,20,0,0,382,0,1,0,Male,Full-time,Single,Quebec,Credit Card,Email,Online Ad
+Lead_014,28,42626,0,0,2,27,0,0,143,0,1,0,Male,Full-time,Divorced,Ontario,Chequing Account,Website,Online Ad
+Lead_015,22,20165,0,10,2,33,0,0,548,1,1,0,Male,Part-time,Married,Alberta,Chequing Account,Email,Referral
+Lead_016,30,27393,1,0,1,0,0,0,355,1,1,0,Male,Self-employed,Married,British Columbia,Chequing Account,Email,Branch Walk-in
+Lead_017,30,28375,0,0,0,29,0,0,387,0,1,0,Female,Part-time,Married,Ontario,Credit Card,Email,Social Media
+Lead_018,28,52337,1,6,1,7,0,0,243,0,1,1,Male,Unemployed,Single,Alberta,Investment,Call,Online Ad
+Lead_019,33,49244,1,9,0,34,0,0,232,1,1,0,Female,Part-time,Single,Quebec,Mortgage,Email,Online Ad
+Lead_020,24,27709,0,1,1,38,0,0,524,0,1,0,Male,Full-time,Single,Ontario,Chequing Account,Branch,Branch Walk-in
+Lead_021,28,33615,0,0,2,3,0,0,289,1,1,0,Female,Self-employed,Single,Ontario,Chequing Account,Website,Referral
+Lead_022,32,60879,0,11,2,37,0,0,552,0,1,0,Female,Part-time,Single,Quebec,Investment,Call,Referral
+Lead_023,25,58014,0,2,1,4,0,0,601,0,1,0,Male,Part-time,Divorced,Alberta,Credit Card,Call,Online Ad
+Lead_024,27,58261,1,6,1,9,0,0,129,1,1,0,Male,Full-time,Married,Ontario,Mortgage,Call,Online Ad
+Lead_025,30,40475,0,10,0,24,0,0,490,1,1,0,Male,Full-time,Widowed,Nova Scotia,Chequing Account,Website,Partnership
+Lead_026,29,37787,0,1,0,16,0,0,5,0,1,0,Female,Full-time,Single,Ontario,Mortgage,Website,Social Media
+Lead_027,20,43621,0,10,0,23,0,0,483,0,1,0,Female,Full-time,Married,Quebec,Credit Card,Email,Branch Walk-in
+Lead_028,32,32108,1,6,2,30,0,0,177,1,1,0,Male,Full-time,Married,Ontario,Investment,Email,Online Ad
+Lead_029,18,24028,0,7,2,21,0,0,363,0,1,0,Male,Full-time,Single,Nova Scotia,Investment,Email,Branch Walk-in
+Lead_030,26,55366,1,0,0,4,0,0,157,0,1,0,Male,Full-time,Married,Quebec,Chequing Account,Call,Referral
+Lead_031,26,46430,1,7,2,38,0,0,162,0,1,0,Female,Self-employed,Married,Ontario,Investment,Email,Online Ad
+Lead_032,21,34285,1,3,0,19,0,0,123,0,1,0,Male,Student,Married,Alberta,Chequing Account,Branch,Social Media
+Lead_033,18,44145,0,1,1,7,0,0,464,0,1,0,Female,Student,Married,Ontario,Mortgage,Call,Branch Walk-in
+Lead_034,23,39352,1,6,2,8,0,0,219,1,1,0,Male,Part-time,Married,Ontario,Credit Card,Call,Referral
+Lead_035,23,36630,0,6,1,28,0,0,153,0,1,0,Female,Unknown,Single,Quebec,Chequing Account,Website,Social Media
+Lead_036,22,34364,1,1,2,9,0,0,370,0,1,0,Female,Full-time,Married,Ontario,Credit Card,Website,Social Media
+Lead_037,34,18247,1,1,1,24,0,0,620,0,1,1,Male,Part-time,Single,Ontario,Chequing Account,Website,Branch Walk-in
+Lead_038,34,25109,1,4,1,37,0,0,355,1,1,0,Female,Unemployed,Single,Nova Scotia,Mortgage,Call,Social Media
+Lead_039,20,36063,0,11,0,21,0,0,223,0,1,0,Female,Unemployed,Married,Quebec,Mortgage,Email,Referral
+Lead_040,19,16989,0,3,2,3,0,0,178,0,1,0,Female,Full-time,Single,Ontario,Mortgage,Email,Social Media
+Lead_041,27,57363,0,6,0,29,0,0,440,1,1,0,Female,Student,Widowed,Nova Scotia,Credit Card,Website,Partnership
+Lead_042,31,22209,1,8,2,4,0,0,489,0,1,0,Female,Full-time,Single,Alberta,Mortgage,Branch,Online Ad
+Lead_043,18,41181,1,7,2,21,0,0,499,0,1,0,Female,Full-time,Single,Quebec,Credit Card,Email,Referral
+Lead_044,30,50594,1,1,0,23,0,0,186,0,1,0,Female,Student,Divorced,Ontario,Mortgage,Website,Social Media
+Lead_045,21,37756,1,6,1,8,0,0,94,0,1,0,Male,Unemployed,Divorced,British Columbia,Mortgage,Website,Online Ad
+Lead_046,19,21116,1,10,1,34,0,0,26,0,1,0,Male,Full-time,Married,Nova Scotia,Credit Card,Email,Referral
+Lead_047,32,21467,0,8,0,6,0,0,100,0,1,0,Male,Unemployed,Divorced,Manitoba,Chequing Account,Branch,Online Ad
+Lead_048,24,37627,0,6,2,12,0,0,232,0,1,0,Male,Full-time,Married,British Columbia,Mortgage,Email,Social Media
+Lead_049,19,46827,1,5,1,1,0,0,409,0,1,0,Female,Full-time,Married,Ontario,Chequing Account,Website,Online Ad
+Lead_050,21,61321,0,8,2,27,0,0,75,0,1,0,Female,Part-time,Single,British Columbia,Mortgage,Website,Online Ad
+Lead_051,33,43534,1,5,2,4,0,0,3,0,1,0,Female,Unemployed,Married,British Columbia,Chequing Account,Email,Social Media
+Lead_052,33,54774,0,1,2,35,0,0,552,1,1,0,Male,Full-time,Single,British Columbia,Investment,Email,Online Ad
+Lead_053,30,15898,1,8,0,6,0,0,526,0,1,0,Male,Part-time,Single,Quebec,Chequing Account,Website,Branch Walk-in
+Lead_054,25,17474,1,4,2,36,0,0,436,0,1,0,Male,Self-employed,Single,Unknown,Chequing Account,Branch,Referral
+Lead_055,29,52369,0,8,0,15,0,0,292,1,1,0,Male,Student,Married,Quebec,Chequing Account,Website,Referral
+Lead_056,33,55713,1,4,1,1,0,0,285,1,1,0,Other,Full-time,Married,British Columbia,Credit Card,Website,Partnership
+Lead_057,28,51403,1,10,0,2,0,0,128,1,1,0,Female,Unemployed,Widowed,Alberta,Credit Card,Website,Branch Walk-in
+Lead_058,26,19066,1,0,1,37,0,0,91,0,1,0,Male,Student,Married,British Columbia,Chequing Account,Call,Online Ad
+Lead_059,21,32887,0,7,1,27,0,0,464,1,1,0,Female,Student,Divorced,Ontario,Credit Card,Email,Social Media
+Lead_060,21,48285,0,10,2,19,0,0,404,0,1,0,Female,Full-time,Married,British Columbia,Chequing Account,Email,Social Media
+Lead_061,23,47678,0,0,2,6,0,0,379,0,1,1,Male,Part-time,Single,Quebec,Mortgage,Email,Partnership
+Lead_062,31,33325,1,3,1,36,0,0,138,0,1,0,Female,Full-time,Married,Quebec,Credit Card,Website,Partnership
+Lead_063,19,63204,1,1,0,9,0,0,125,1,1,0,Female,Full-time,Married,Ontario,Mortgage,Website,Social Media
+Lead_064,29,49269,1,5,2,35,0,0,538,1,1,0,Male,Full-time,Divorced,Ontario,Investment,Website,Referral
+Lead_065,31,33774,0,3,2,33,0,0,431,1,1,0,Female,Student,Single,Quebec,Credit Card,Email,Online Ad
+Lead_066,29,45137,1,7,1,1,0,0,111,0,1,0,Female,Unemployed,Married,British Columbia,Credit Card,Call,Online Ad
+Lead_067,32,59133,1,3,0,19,0,0,543,1,1,0,Male,Full-time,Divorced,British Columbia,Credit Card,Email,Partnership
+Lead_068,29,25650,1,9,1,11,0,0,262,0,1,0,Female,Self-employed,Widowed,Nova Scotia,Chequing Account,Website,Branch Walk-in
+Lead_069,25,58765,0,7,2,3,0,0,557,0,1,1,Female,Part-time,Married,Manitoba,Credit Card,Website,Referral
+Lead_070,22,26883,1,6,2,29,0,0,487,1,1,0,Male,Part-time,Married,Nova Scotia,Chequing Account,Email,Online Ad
+Lead_071,27,18798,1,7,0,19,0,0,457,0,1,0,Male,Full-time,Married,Quebec,Credit Card,Call,Referral
+Lead_072,27,57096,1,8,0,29,0,0,13,0,1,0,Male,Part-time,Married,Quebec,Mortgage,Website,Social Media
+Lead_073,23,29768,0,4,1,33,0,0,545,0,1,0,Male,Full-time,Married,Ontario,Chequing Account,Branch,Social Media
+Lead_074,22,42673,1,4,1,37,0,0,478,1,1,0,Female,Student,Married,Ontario,Chequing Account,Email,Online Ad
+Lead_075,21,46766,1,0,1,28,0,0,306,0,1,0,Female,Self-employed,Single,Ontario,Investment,Website,Referral
+Lead_076,31,54796,0,9,1,32,0,0,295,0,1,1,Female,Full-time,Single,Ontario,Investment,Email,Partnership
+Lead_077,33,48109,1,9,2,15,0,0,208,0,1,0,Other,Unemployed,Married,Manitoba,Credit Card,Email,Online Ad
+Lead_078,33,41976,1,3,0,38,0,0,534,0,1,0,Male,Student,Single,Quebec,Investment,Website,Branch Walk-in
+Lead_079,24,15783,1,3,0,20,0,0,371,0,1,0,Other,Full-time,Divorced,Unknown,Chequing Account,Email,Social Media
+Lead_080,28,22690,0,3,2,4,0,0,289,0,1,0,Male,Self-employed,Married,Ontario,Investment,Call,Online Ad
+Lead_081,24,63611,1,1,2,16,0,0,212,1,1,0,Female,Self-employed,Married,Quebec,Investment,Email,Branch Walk-in
+Lead_082,22,29870,1,1,2,4,0,0,225,1,1,1,Female,Part-time,Single,Ontario,Investment,Branch,Online Ad
+Lead_083,20,37895,0,9,0,19,0,0,423,0,1,0,Male,Unemployed,Single,Ontario,Chequing Account,Website,Branch Walk-in
+Lead_084,21,16771,1,9,1,34,0,0,607,0,1,0,Female,Student,Married,Ontario,Credit Card,Website,Branch Walk-in
+Lead_085,28,32188,0,4,1,3,0,0,415,0,1,0,Female,Part-time,Married,Alberta,Credit Card,Call,Online Ad
+Lead_086,23,53824,1,2,2,7,0,0,465,0,1,0,Female,Student,Single,Quebec,Credit Card,Email,Branch Walk-in
+Lead_087,28,44140,0,2,2,22,0,0,108,1,1,1,Male,Unemployed,Single,Alberta,Chequing Account,Call,Referral
+Lead_088,24,55551,0,7,2,24,0,0,316,0,1,0,Male,Self-employed,Married,Ontario,Mortgage,Call,Online Ad
+Lead_089,26,33488,0,7,0,11,0,0,536,0,1,0,Male,Full-time,Divorced,Manitoba,Chequing Account,Email,Partnership
+Lead_090,30,26845,1,5,1,16,0,0,167,1,1,0,Female,Student,Married,British Columbia,Chequing Account,Branch,Partnership
+Lead_091,22,35893,1,7,0,10,0,0,624,1,1,0,Male,Unknown,Single,Ontario,Investment,Email,Partnership
+Lead_092,28,22158,0,11,2,7,0,0,404,1,1,0,Female,Full-time,Divorced,British Columbia,Chequing Account,Website,Referral
+Lead_093,20,61156,0,9,2,10,0,0,109,0,1,0,Female,Part-time,Single,Alberta,Chequing Account,Website,Referral
+Lead_094,27,18634,0,8,1,14,0,0,276,0,1,0,Male,Part-time,Single,Ontario,Chequing Account,Branch,Branch Walk-in
+Lead_095,18,49563,0,8,0,26,0,0,144,0,1,0,Male,Self-employed,Single,Quebec,Credit Card,Email,Branch Walk-in
+Lead_096,27,56138,1,1,2,19,0,0,99,1,1,0,Female,Part-time,Married,British Columbia,Credit Card,Email,Online Ad
+Lead_097,34,50943,1,7,2,15,0,0,528,0,1,0,Female,Full-time,Married,Ontario,Chequing Account,Email,Social Media
+Lead_098,32,43354,0,2,1,34,0,0,145,0,1,0,Female,Full-time,Married,British Columbia,Chequing Account,Email,Social Media
+Lead_099,32,23617,1,6,2,32,0,0,431,0,1,0,Female,Unemployed,Married,Quebec,Credit Card,Website,Partnership
+Lead_100,18,51058,1,7,0,29,0,0,171,0,1,0,Female,Full-time,Single,Manitoba,Investment,Website,Online Ad
+Lead_101,26,33727,1,5,2,19,0,0,203,1,1,1,Female,Part-time,Single,Ontario,Investment,Email,Online Ad
+Lead_102,20,18502,1,9,1,31,0,0,319,1,1,0,Male,Part-time,Divorced,Manitoba,Credit Card,Email,Online Ad
+Lead_103,19,21610,0,1,0,25,0,0,485,0,1,0,Male,Part-time,Married,British Columbia,Chequing Account,Call,Branch Walk-in
+Lead_104,19,29012,1,6,2,10,0,0,228,0,1,0,Male,Full-time,Married,Alberta,Chequing Account,Email,Social Media
+Lead_105,21,44624,1,2,2,35,0,0,326,0,1,0,Male,Self-employed,Single,British Columbia,Mortgage,Branch,Partnership
+Lead_106,34,38201,1,11,1,19,0,0,73,1,1,0,Female,Student,Single,Nova Scotia,Investment,Website,Online Ad
+Lead_107,25,28665,0,4,2,28,0,0,349,0,1,0,Other,Self-employed,Married,British Columbia,Mortgage,Email,Online Ad
+Lead_108,26,61111,1,5,1,10,0,0,521,0,1,0,Female,Full-time,Married,Ontario,Chequing Account,Website,Social Media
+Lead_109,31,33952,0,2,1,7,0,0,376,0,1,0,Male,Full-time,Single,British Columbia,Investment,Branch,Online Ad
+Lead_110,22,20102,1,4,2,29,0,0,339,1,1,1,Female,Full-time,Married,Unknown,Chequing Account,Call,Online Ad
+Lead_111,21,55106,1,11,1,5,0,0,310,1,1,1,Male,Part-time,Married,Ontario,Credit Card,Call,Referral
+Lead_112,18,51099,0,8,1,9,0,0,102,1,1,1,Male,Full-time,Single,Ontario,Mortgage,Website,Online Ad
+Lead_113,30,22517,1,0,2,14,0,0,415,0,1,0,Male,Full-time,Single,British Columbia,Mortgage,Call,Referral
+Lead_114,18,33727,1,4,0,3,0,0,256,1,1,1,Male,Full-time,Single,Quebec,Chequing Account,Website,Online Ad
+Lead_115,32,26561,1,3,0,21,0,0,295,1,1,1,Female,Full-time,Single,Quebec,Chequing Account,Website,Referral
+Lead_116,32,50687,1,0,2,22,0,0,385,1,1,1,Male,Part-time,Single,British Columbia,Chequing Account,Email,Branch Walk-in
+Lead_117,19,35196,1,2,1,36,0,0,27,0,1,0,Female,Full-time,Single,Alberta,Credit Card,Email,Partnership
+Lead_118,29,21265,1,11,0,24,0,0,514,0,1,0,Female,Student,Married,Ontario,Credit Card,Email,Partnership
+Lead_119,25,34753,1,9,1,33,0,0,505,0,1,0,Male,Part-time,Single,Ontario,Chequing Account,Email,Partnership
+Lead_120,30,15756,0,6,1,29,0,0,162,1,1,0,Female,Student,Single,Quebec,Mortgage,Website,Branch Walk-in
+Lead_121,27,53557,1,6,1,38,0,0,311,1,1,0,Male,Student,Married,Quebec,Investment,Email,Social Media
+Lead_122,28,36469,1,9,0,37,0,0,284,0,1,0,Female,Unemployed,Divorced,British Columbia,Credit Card,Email,Branch Walk-in
+Lead_123,31,61980,1,8,0,32,0,0,361,1,1,0,Female,Self-employed,Single,Alberta,Chequing Account,Website,Online Ad
+Lead_124,22,29579,0,3,2,0,0,0,219,1,1,0,Female,Full-time,Married,Quebec,Credit Card,Email,Referral
+Lead_125,25,44660,0,3,1,5,0,0,2,1,1,0,Female,Full-time,Married,Quebec,Credit Card,Email,Referral
+Lead_126,31,59515,0,8,0,12,0,0,333,0,1,0,Male,Full-time,Married,Alberta,Credit Card,Branch,Online Ad
+Lead_127,21,35145,1,2,2,26,0,0,512,0,1,0,Male,Unemployed,Married,Alberta,Credit Card,Website,Social Media
+Lead_128,31,38147,0,3,2,32,0,0,409,0,1,1,Male,Student,Single,Ontario,Credit Card,Email,Branch Walk-in
+Lead_129,27,59478,1,8,0,36,0,0,238,1,1,1,Female,Full-time,Married,British Columbia,Chequing Account,Website,Online Ad
+Lead_130,24,34855,1,3,2,13,0,0,296,0,1,0,Female,Part-time,Married,Quebec,Credit Card,Branch,Online Ad
+Lead_131,26,38357,0,4,0,36,0,0,372,0,1,0,Male,Full-time,Single,Manitoba,Credit Card,Website,Referral
+Lead_132,22,48051,1,10,2,20,0,0,232,0,1,0,Female,Student,Divorced,Ontario,Investment,Website,Partnership
+Lead_133,32,20881,1,4,0,18,0,0,398,1,1,0,Female,Self-employed,Single,Quebec,Investment,Email,Social Media
+Lead_134,26,49832,0,9,0,1,0,0,162,1,1,0,Female,Unemployed,Single,Quebec,Investment,Call,Online Ad
+Lead_135,27,63172,1,10,0,16,0,0,321,0,1,0,Male,Part-time,Single,British Columbia,Investment,Email,Online Ad
+Lead_136,21,49027,0,5,0,31,0,0,486,1,1,0,Male,Self-employed,Married,Ontario,Mortgage,Website,Social Media
+Lead_137,18,27565,0,9,0,11,0,0,98,0,1,0,Male,Full-time,Married,Ontario,Credit Card,Branch,Branch Walk-in
+Lead_138,30,18361,1,1,2,31,0,0,107,1,1,0,Male,Student,Single,Ontario,Mortgage,Call,Branch Walk-in
+Lead_139,32,47559,1,2,0,1,0,0,295,0,1,0,Female,Self-employed,Divorced,Alberta,Credit Card,Email,Referral
+Lead_140,21,54157,1,8,2,18,0,0,347,1,1,1,Female,Unemployed,Single,Quebec,Chequing Account,Call,Social Media
+Lead_141,30,42777,0,0,2,4,0,0,276,1,1,0,Male,Student,Married,Manitoba,Chequing Account,Email,Social Media
+Lead_142,21,40987,0,6,2,23,0,0,444,0,1,0,Female,Full-time,Married,Quebec,Mortgage,Email,Branch Walk-in
+Lead_143,26,37489,1,1,2,28,0,0,494,0,1,0,Male,Full-time,Married,Alberta,Credit Card,Website,Branch Walk-in
+Lead_144,32,26714,0,2,0,5,0,0,623,0,1,0,Female,Student,Single,British Columbia,Investment,Website,Partnership
+Lead_145,28,20072,0,6,2,2,0,0,358,0,1,0,Female,Unknown,Single,Quebec,Mortgage,Email,Online Ad
+Lead_146,27,54860,1,6,0,18,0,0,88,0,1,0,Male,Full-time,Single,Ontario,Mortgage,Email,Branch Walk-in
+Lead_147,22,27844,1,9,0,21,0,0,582,0,1,0,Female,Self-employed,Single,British Columbia,Chequing Account,Call,Referral
+Lead_148,26,40054,1,5,1,36,0,0,387,0,1,0,Female,Unemployed,Single,Ontario,Mortgage,Branch,Branch Walk-in
+Lead_149,20,22090,0,6,1,31,0,0,297,1,1,0,Male,Full-time,Married,Nova Scotia,Chequing Account,Email,Referral
+Lead_150,20,48726,0,5,1,10,0,0,301,1,1,1,Female,Full-time,Divorced,Manitoba,Mortgage,Email,Referral
+Lead_151,19,62859,1,0,2,37,0,0,328,0,1,1,Female,Part-time,Married,Quebec,Chequing Account,Call,Social Media
+Lead_152,18,62108,1,6,0,22,0,0,317,1,1,0,Female,Unemployed,Single,Manitoba,Credit Card,Call,Branch Walk-in
+Lead_153,21,49543,0,8,2,12,0,0,180,0,1,0,Female,Part-time,Married,Ontario,Investment,Call,Branch Walk-in
+Lead_154,33,51253,1,5,0,19,0,0,66,0,1,1,Male,Full-time,Single,Manitoba,Chequing Account,Branch,Branch Walk-in
+Lead_155,33,47139,1,11,0,7,0,0,104,1,1,1,Female,Full-time,Married,Quebec,Chequing Account,Email,Social Media
+Lead_156,31,53342,1,11,1,5,0,0,276,1,1,0,Male,Part-time,Single,Alberta,Mortgage,Call,Social Media
+Lead_157,26,32646,1,9,0,16,0,0,390,1,1,0,Other,Part-time,Married,Alberta,Chequing Account,Email,Referral
+Lead_158,20,52662,0,4,0,35,0,0,143,1,1,0,Female,Full-time,Married,Manitoba,Investment,Website,Social Media
+Lead_159,31,47443,1,7,0,16,0,0,615,0,1,0,Male,Self-employed,Married,Quebec,Chequing Account,Email,Referral
+Lead_160,34,23756,0,0,1,38,0,0,416,0,1,0,Male,Self-employed,Married,Manitoba,Credit Card,Website,Partnership
+Lead_161,30,63252,1,0,1,34,0,0,489,1,1,1,Female,Full-time,Married,Quebec,Mortgage,Call,Online Ad
+Lead_162,18,60664,0,0,2,18,0,0,564,1,1,0,Female,Part-time,Married,Quebec,Mortgage,Website,Branch Walk-in
+Lead_163,21,19549,1,1,1,30,0,0,294,1,1,1,Male,Student,Married,Manitoba,Mortgage,Website,Partnership
+Lead_164,19,61799,0,9,1,0,0,0,548,0,1,0,Male,Unemployed,Divorced,Quebec,Mortgage,Email,Branch Walk-in
+Lead_165,18,50327,1,5,2,12,0,0,215,0,1,0,Male,Part-time,Married,British Columbia,Credit Card,Branch,Partnership
+Lead_166,19,23569,1,9,1,25,0,0,285,1,1,0,Female,Part-time,Divorced,Ontario,Chequing Account,Branch,Online Ad
+Lead_167,34,22133,0,9,2,21,0,0,339,0,1,0,Male,Full-time,Single,Ontario,Chequing Account,Call,Branch Walk-in
+Lead_168,19,28102,0,1,1,14,0,0,127,0,1,0,Male,Student,Single,Alberta,Mortgage,Branch,Social Media
+Lead_169,21,62061,1,10,1,5,0,0,104,0,1,0,Male,Full-time,Divorced,British Columbia,Credit Card,Email,Social Media
+Lead_170,27,45819,0,7,1,36,0,0,458,0,1,0,Female,Part-time,Married,British Columbia,Chequing Account,Email,Branch Walk-in
+Lead_171,30,58468,0,1,1,0,0,0,424,0,1,0,Female,Unemployed,Married,Ontario,Credit Card,Email,Branch Walk-in
+Lead_172,31,52865,0,3,0,18,0,0,290,1,1,0,Male,Full-time,Single,Ontario,Credit Card,Website,Partnership
+Lead_173,27,46624,1,8,1,11,0,0,313,0,1,0,Male,Unemployed,Single,Ontario,Chequing Account,Website,Online Ad
+Lead_174,26,31384,0,4,1,10,0,0,177,0,1,0,Female,Self-employed,Single,Ontario,Investment,Branch,Branch Walk-in
+Lead_175,18,46282,1,0,2,9,0,0,313,0,1,0,Male,Full-time,Married,Ontario,Mortgage,Call,Branch Walk-in
+Lead_176,24,48006,1,10,1,29,0,0,214,1,1,0,Female,Full-time,Single,British Columbia,Chequing Account,Call,Branch Walk-in
+Lead_177,33,41608,1,0,2,28,0,0,45,0,1,1,Male,Part-time,Single,Ontario,Mortgage,Email,Partnership
+Lead_178,20,56980,1,8,2,20,0,0,301,1,1,1,Male,Part-time,Married,Quebec,Chequing Account,Call,Online Ad
+Lead_179,22,62629,0,10,2,35,0,0,597,1,1,0,Male,Full-time,Married,British Columbia,Mortgage,Call,Social Media
+Lead_180,33,48486,0,1,1,38,0,0,448,1,1,1,Female,Full-time,Married,Alberta,Chequing Account,Website,Referral
+Lead_181,25,32711,0,0,1,7,0,0,177,0,1,0,Female,Full-time,Married,Manitoba,Credit Card,Email,Branch Walk-in
+Lead_182,26,62497,0,3,0,13,0,0,19,0,1,0,Female,Full-time,Single,Quebec,Chequing Account,Branch,Social Media
+Lead_183,32,56720,1,10,2,14,0,0,109,0,1,0,Male,Full-time,Married,Alberta,Mortgage,Website,Online Ad
+Lead_184,28,39652,1,8,2,36,0,0,507,1,1,0,Male,Unemployed,Married,Ontario,Credit Card,Email,Branch Walk-in
+Lead_185,32,35811,0,11,0,21,0,0,533,0,1,0,Female,Self-employed,Married,Quebec,Chequing Account,Website,Social Media
+Lead_186,19,21345,1,4,1,13,0,0,216,0,1,0,Female,Full-time,Single,Ontario,Chequing Account,Call,Partnership
+Lead_187,21,18759,0,4,2,33,0,0,399,1,1,0,Female,Self-employed,Divorced,Ontario,Mortgage,Call,Online Ad
+Lead_188,20,46762,1,2,0,26,0,0,482,0,1,0,Female,Student,Divorced,Manitoba,Investment,Website,Partnership
+Lead_189,20,18427,0,5,0,33,0,0,372,0,1,0,Female,Self-employed,Married,Unknown,Credit Card,Call,Online Ad
+Lead_190,27,50116,0,5,1,35,0,0,315,0,1,0,Male,Student,Single,Ontario,Chequing Account,Branch,Referral
+Lead_191,22,56599,0,6,2,29,0,0,98,0,1,0,Male,Full-time,Single,Quebec,Mortgage,Website,Branch Walk-in
+Lead_192,23,51429,1,3,2,36,0,0,358,1,1,0,Male,Self-employed,Single,British Columbia,Mortgage,Call,Partnership
+Lead_193,32,59802,1,9,0,37,0,0,136,0,1,1,Male,Self-employed,Married,British Columbia,Chequing Account,Email,Online Ad
+Lead_194,19,53288,0,5,2,38,0,0,375,1,1,0,Female,Student,Married,Ontario,Investment,Website,Branch Walk-in
+Lead_195,33,21866,0,1,0,13,0,0,302,0,1,1,Female,Self-employed,Single,British Columbia,Investment,Email,Partnership
+Lead_196,25,59221,0,10,2,31,0,0,348,1,1,1,Female,Student,Single,Ontario,Investment,Email,Online Ad
+Lead_197,23,32075,1,11,2,31,0,0,88,0,1,0,Male,Student,Single,Ontario,Chequing Account,Website,Online Ad
+Lead_198,26,20080,0,7,1,32,0,0,528,0,1,1,Female,Unemployed,Married,Quebec,Credit Card,Email,Social Media
+Lead_199,25,57839,0,8,0,21,0,0,37,0,1,0,Female,Self-employed,Married,Ontario,Mortgage,Email,Social Media
+Lead_200,19,45629,0,6,2,10,0,0,223,1,1,1,Male,Unknown,Single,Nova Scotia,Credit Card,Email,Online Ad
+Lead_201,30,46842,1,3,2,15,0,0,0,0,1,0,Female,Student,Single,Ontario,Credit Card,Email,Online Ad
+Lead_202,28,48251,0,8,0,14,0,0,9,0,1,1,Female,Full-time,Divorced,Ontario,Mortgage,Call,Social Media
+Lead_203,34,55091,0,4,2,34,0,0,478,0,1,0,Female,Unemployed,Married,Manitoba,Credit Card,Call,Branch Walk-in
+Lead_204,20,60640,0,7,1,4,0,0,543,0,1,0,Female,Self-employed,Single,British Columbia,Chequing Account,Email,Referral
+Lead_205,27,24042,0,0,2,19,0,0,91,0,1,1,Male,Part-time,Divorced,Unknown,Mortgage,Call,Partnership
+Lead_206,30,38495,0,6,0,10,0,0,367,0,1,1,Female,Part-time,Divorced,Ontario,Credit Card,Branch,Branch Walk-in
+Lead_207,28,36782,0,2,2,8,0,0,390,0,1,1,Male,Full-time,Married,Quebec,Chequing Account,Website,Partnership
+Lead_208,29,19247,0,5,1,28,0,0,485,0,1,0,Female,Full-time,Single,Alberta,Investment,Website,Branch Walk-in
+Lead_209,23,32083,0,7,0,32,0,0,11,1,1,1,Male,Part-time,Single,Manitoba,Mortgage,Call,Branch Walk-in
+Lead_210,22,41149,0,1,2,28,0,0,106,1,1,1,Male,Student,Married,Ontario,Investment,Call,Branch Walk-in
+Lead_211,34,27795,1,6,1,35,0,0,551,1,1,1,Female,Full-time,Married,Nova Scotia,Chequing Account,Website,Branch Walk-in
+Lead_212,18,30224,0,2,0,19,0,0,251,0,1,1,Female,Unemployed,Single,Manitoba,Credit Card,Website,Referral
+Lead_213,22,50578,0,7,1,6,0,0,128,0,1,0,Other,Unknown,Single,Quebec,Chequing Account,Email,Referral
+Lead_214,21,35637,1,6,1,17,0,0,527,0,1,0,Male,Full-time,Married,Quebec,Investment,Website,Branch Walk-in
+Lead_215,26,58953,0,5,1,34,0,0,550,0,1,0,Female,Part-time,Married,Manitoba,Mortgage,Email,Social Media
+Lead_216,28,36703,0,1,1,33,0,0,379,1,1,1,Male,Unknown,Married,Manitoba,Chequing Account,Website,Referral
+Lead_217,28,34883,1,5,1,33,0,0,572,1,1,0,Male,Unemployed,Widowed,Quebec,Chequing Account,Website,Online Ad
+Lead_218,30,16304,1,1,2,30,0,0,27,0,1,1,Female,Full-time,Married,Quebec,Mortgage,Email,Branch Walk-in
+Lead_219,21,33530,0,9,1,29,0,0,260,1,1,1,Female,Part-time,Married,Quebec,Chequing Account,Website,Online Ad
+Lead_220,19,51143,1,11,0,11,0,0,253,1,1,0,Male,Unemployed,Married,Quebec,Mortgage,Branch,Partnership
+Lead_221,33,39268,0,5,1,34,0,0,334,1,1,0,Female,Full-time,Married,British Columbia,Mortgage,Call,Online Ad
+Lead_222,29,16048,1,1,1,0,0,0,159,1,1,1,Female,Part-time,Single,Ontario,Chequing Account,Call,Partnership
+Lead_223,32,32088,1,1,0,12,0,0,343,1,1,0,Female,Part-time,Single,Ontario,Chequing Account,Call,Referral
+Lead_224,29,32915,1,2,2,15,0,0,153,0,1,0,Female,Full-time,Single,Ontario,Credit Card,Email,Referral
+Lead_225,34,25812,1,5,1,11,0,0,102,1,1,0,Male,Full-time,Single,Manitoba,Credit Card,Email,Online Ad
+Lead_226,28,17234,1,3,1,26,0,0,247,1,1,1,Female,Student,Single,Ontario,Credit Card,Email,Social Media
+Lead_227,21,43180,0,8,0,23,0,0,166,0,1,0,Male,Full-time,Married,Alberta,Chequing Account,Branch,Branch Walk-in
+Lead_228,29,19143,0,6,0,38,0,0,297,0,1,0,Female,Full-time,Married,British Columbia,Chequing Account,Email,Referral
+Lead_229,24,24436,0,5,1,4,0,0,55,0,1,0,Male,Student,Married,Ontario,Credit Card,Call,Branch Walk-in
+Lead_230,22,45584,1,8,0,4,0,0,102,0,1,0,Female,Student,Single,British Columbia,Credit Card,Website,Online Ad
+Lead_231,33,19378,0,1,0,13,0,0,266,0,1,0,Male,Full-time,Single,Alberta,Chequing Account,Website,Referral
+Lead_232,26,26148,0,2,2,17,0,0,128,0,1,0,Male,Full-time,Single,Alberta,Mortgage,Email,Branch Walk-in
+Lead_233,34,61990,1,1,2,20,0,0,88,0,1,0,Male,Full-time,Single,Nova Scotia,Investment,Email,Online Ad
+Lead_234,27,15760,0,5,0,12,0,0,388,0,1,0,Male,Full-time,Single,Ontario,Credit Card,Website,Partnership
+Lead_235,23,45393,0,9,2,13,0,0,255,0,1,0,Male,Part-time,Married,Manitoba,Chequing Account,Branch,Online Ad
+Lead_236,20,64334,0,5,0,1,0,0,276,0,1,0,Male,Unemployed,Single,Ontario,Chequing Account,Call,Referral
+Lead_237,25,42915,0,10,1,35,0,0,178,0,1,1,Male,Full-time,Single,Ontario,Credit Card,Email,Online Ad
+Lead_238,29,55949,0,8,0,8,0,0,119,0,1,0,Male,Self-employed,Single,Ontario,Chequing Account,Branch,Partnership
+Lead_239,24,24379,1,7,0,27,0,0,201,0,1,0,Female,Unknown,Single,Ontario,Chequing Account,Call,Referral
+Lead_240,34,35167,0,8,0,28,0,0,54,0,1,0,Male,Full-time,Married,Manitoba,Credit Card,Call,Branch Walk-in
+Lead_241,20,25312,0,0,0,32,0,0,91,0,1,0,Male,Student,Single,Ontario,Chequing Account,Call,Referral
+Lead_242,26,52353,0,6,1,16,0,0,118,0,1,0,Male,Unknown,Married,British Columbia,Credit Card,Email,Online Ad
+Lead_243,33,46353,0,1,0,11,0,0,479,0,1,0,Female,Full-time,Married,Alberta,Chequing Account,Email,Branch Walk-in
+Lead_244,31,15923,0,4,0,28,0,0,424,0,1,0,Male,Part-time,Married,Ontario,Chequing Account,Email,Social Media
+Lead_245,25,48857,0,5,2,29,0,0,621,0,1,0,Male,Part-time,Single,Ontario,Credit Card,Call,Online Ad
+Lead_246,20,47199,0,9,0,8,0,0,207,0,1,0,Female,Full-time,Married,British Columbia,Mortgage,Website,Branch Walk-in
+Lead_247,29,15567,1,8,0,29,0,0,378,1,1,0,Male,Part-time,Single,Ontario,Chequing Account,Email,Online Ad
+Lead_248,32,37710,0,5,1,1,0,0,538,1,1,0,Female,Student,Single,Ontario,Mortgage,Website,Branch Walk-in
+Lead_249,34,15473,0,9,1,0,0,0,303,0,1,0,Female,Full-time,Married,Ontario,Mortgage,Website,Online Ad
+Lead_250,25,53246,0,8,2,10,0,0,269,0,1,0,Male,Full-time,Single,Quebec,Mortgage,Email,Partnership
+Lead_251,19,25884,0,10,1,35,0,0,542,0,1,0,Male,Student,Single,British Columbia,Credit Card,Website,Online Ad
+Lead_252,23,29535,0,2,1,20,0,0,460,0,1,0,Male,Student,Widowed,Alberta,Chequing Account,Email,Branch Walk-in
+Lead_253,20,58817,0,10,2,0,0,0,436,1,1,0,Female,Student,Married,Ontario,Credit Card,Call,Online Ad
+Lead_254,18,17301,1,7,2,3,0,0,316,0,1,0,Male,Student,Married,Ontario,Chequing Account,Email,Partnership
+Lead_255,27,15549,1,0,2,20,0,0,385,1,1,0,Female,Full-time,Single,Ontario,Credit Card,Email,Online Ad
+Lead_256,28,38812,0,3,0,30,0,0,237,1,1,0,Male,Part-time,Single,Ontario,Investment,Website,Social Media
+Lead_257,23,41334,1,8,2,12,0,0,523,1,1,0,Male,Part-time,Married,British Columbia,Mortgage,Email,Online Ad
+Lead_258,25,24522,0,5,2,26,0,0,267,0,1,0,Male,Part-time,Married,British Columbia,Mortgage,Email,Social Media
+Lead_259,29,46834,1,4,2,13,0,0,16,0,1,0,Male,Part-time,Married,Ontario,Mortgage,Call,Branch Walk-in
+Lead_260,18,34967,1,5,2,4,0,0,231,0,1,0,Female,Full-time,Widowed,Alberta,Mortgage,Website,Partnership
+Lead_261,22,47765,0,1,2,12,0,0,155,1,1,0,Female,Unemployed,Married,Manitoba,Credit Card,Email,Partnership
+Lead_262,20,39694,0,7,0,21,0,0,39,0,1,0,Other,Unemployed,Single,Ontario,Mortgage,Email,Branch Walk-in
+Lead_263,25,47436,0,5,2,9,0,0,573,1,1,0,Female,Full-time,Married,British Columbia,Credit Card,Email,Social Media
+Lead_264,29,20942,1,5,2,30,0,0,455,0,1,0,Female,Unemployed,Single,Ontario,Credit Card,Email,Branch Walk-in
+Lead_265,28,36573,0,3,1,22,0,0,304,1,1,0,Female,Part-time,Divorced,British Columbia,Chequing Account,Call,Online Ad
+Lead_266,33,22497,1,11,2,5,0,0,432,1,1,1,Male,Full-time,Married,Ontario,Credit Card,Call,Branch Walk-in
+Lead_267,26,35514,1,4,2,31,0,0,59,0,1,0,Female,Part-time,Divorced,Alberta,Credit Card,Website,Online Ad
+Lead_268,29,53697,0,7,0,4,0,0,337,0,1,0,Male,Full-time,Married,Nova Scotia,Credit Card,Website,Branch Walk-in
+Lead_269,31,54954,1,4,1,28,0,0,119,1,1,0,Female,Self-employed,Single,Nova Scotia,Credit Card,Call,Online Ad
+Lead_270,27,23239,0,6,2,1,0,0,20,1,1,0,Female,Full-time,Single,Ontario,Investment,Email,Referral
+Lead_271,20,29370,0,1,1,8,0,0,355,0,1,0,Female,Full-time,Single,British Columbia,Credit Card,Email,Branch Walk-in
+Lead_272,23,32960,0,9,1,11,0,0,52,0,1,0,Female,Student,Widowed,Manitoba,Investment,Email,Online Ad
+Lead_273,27,37377,0,7,2,36,0,0,212,0,1,0,Male,Full-time,Married,Alberta,Mortgage,Call,Referral
+Lead_274,31,33295,1,11,0,28,0,0,371,0,1,0,Female,Full-time,Married,Ontario,Investment,Email,Referral
+Lead_275,34,30278,1,4,1,28,0,0,379,1,1,0,Male,Self-employed,Married,Quebec,Chequing Account,Call,Social Media
+Lead_276,30,58897,1,0,2,27,0,0,191,1,1,0,Male,Part-time,Married,Alberta,Mortgage,Website,Online Ad
+Lead_277,26,37305,1,0,0,36,0,0,464,0,1,0,Female,Full-time,Single,Ontario,Investment,Email,Social Media
+Lead_278,30,15498,1,5,0,18,0,0,103,1,1,0,Female,Part-time,Married,British Columbia,Credit Card,Website,Branch Walk-in
+Lead_279,21,54807,0,3,1,20,0,0,507,1,1,0,Female,Unemployed,Single,Ontario,Chequing Account,Email,Branch Walk-in
+Lead_280,28,15093,0,2,2,9,0,0,358,1,1,0,Male,Part-time,Married,Ontario,Credit Card,Website,Social Media
+Lead_281,30,51704,1,6,0,12,0,0,619,0,1,0,Female,Self-employed,Single,Manitoba,Mortgage,Call,Online Ad
+Lead_282,20,43184,0,7,2,36,0,0,239,1,1,0,Female,Full-time,Married,British Columbia,Mortgage,Email,Branch Walk-in
+Lead_283,22,27637,0,10,0,20,0,0,211,1,1,1,Female,Full-time,Married,Ontario,Chequing Account,Website,Branch Walk-in
+Lead_284,22,21386,1,10,1,22,0,0,425,0,1,0,Female,Self-employed,Single,British Columbia,Credit Card,Email,Branch Walk-in
+Lead_285,29,30821,1,8,2,19,0,0,542,1,1,0,Male,Full-time,Married,Quebec,Mortgage,Email,Partnership
+Lead_286,23,53905,1,9,2,32,0,0,169,1,1,1,Female,Full-time,Married,Nova Scotia,Mortgage,Call,Branch Walk-in
+Lead_287,26,34155,0,11,1,21,0,0,576,0,1,0,Female,Full-time,Married,British Columbia,Credit Card,Email,Partnership
+Lead_288,29,24230,0,9,2,1,0,0,136,0,1,1,Male,Full-time,Married,Ontario,Investment,Call,Branch Walk-in
+Lead_289,18,34806,1,4,0,30,0,0,271,1,1,0,Male,Full-time,Married,Nova Scotia,Mortgage,Website,Online Ad
+Lead_290,23,19597,1,9,1,22,0,0,610,1,1,1,Male,Full-time,Single,British Columbia,Chequing Account,Email,Branch Walk-in
+Lead_291,25,50282,0,6,2,37,0,0,406,0,1,0,Male,Full-time,Married,Quebec,Mortgage,Call,Online Ad
+Lead_292,32,24661,0,1,1,13,0,0,201,0,1,0,Male,Student,Single,Manitoba,Credit Card,Call,Social Media
+Lead_293,32,45301,1,4,2,32,0,0,237,0,1,0,Male,Full-time,Married,Alberta,Chequing Account,Call,Social Media
+Lead_294,19,36638,0,4,1,29,0,0,493,0,1,0,Male,Unemployed,Single,Manitoba,Credit Card,Website,Social Media
+Lead_295,31,21051,1,8,0,2,0,0,347,0,1,0,Female,Part-time,Single,Quebec,Chequing Account,Website,Online Ad
+Lead_296,29,50697,0,3,0,20,0,0,378,0,1,0,Male,Student,Single,Alberta,Credit Card,Website,Referral
+Lead_297,30,28301,0,5,0,17,0,0,600,0,1,0,Male,Student,Single,Quebec,Chequing Account,Website,Branch Walk-in
+Lead_298,33,24095,0,1,0,15,0,0,131,0,1,1,Male,Full-time,Single,Ontario,Mortgage,Website,Referral
+Lead_299,21,24149,1,7,0,13,0,0,32,0,1,0,Female,Self-employed,Married,Ontario,Credit Card,Website,Branch Walk-in
+Lead_300,30,20382,0,2,2,36,0,0,82,1,1,0,Female,Student,Married,Ontario,Credit Card,Website,Partnership
+Lead_301,21,56165,0,7,0,8,0,0,513,0,1,0,Female,Student,Single,Manitoba,Credit Card,Call,Referral
+Lead_302,26,63213,0,9,2,22,0,0,428,0,1,0,Male,Full-time,Married,Alberta,Mortgage,Call,Referral
+Lead_303,24,26266,0,4,1,35,0,0,490,1,1,0,Male,Full-time,Single,Quebec,Chequing Account,Email,Social Media
+Lead_304,29,30545,1,7,0,3,0,0,233,0,1,0,Male,Unemployed,Married,Alberta,Credit Card,Call,Social Media
+Lead_305,21,29955,0,5,1,6,0,0,189,1,1,0,Female,Full-time,Married,Ontario,Credit Card,Website,Partnership
+Lead_306,25,33358,0,8,0,19,0,0,99,1,1,0,Male,Full-time,Divorced,Ontario,Chequing Account,Email,Partnership
+Lead_307,22,32083,1,0,2,9,0,0,626,0,1,0,Male,Unemployed,Single,Ontario,Chequing Account,Website,Social Media
+Lead_308,24,58546,1,2,1,3,0,0,242,0,1,0,Female,Part-time,Married,Alberta,Mortgage,Website,Partnership
+Lead_309,30,58095,1,7,2,25,0,0,563,0,1,1,Female,Full-time,Single,Ontario,Credit Card,Branch,Online Ad
+Lead_310,32,18972,1,4,1,23,0,0,155,0,1,1,Male,Full-time,Married,Ontario,Chequing Account,Website,Partnership
+Lead_311,28,19127,1,0,1,9,0,0,496,1,1,0,Female,Full-time,Single,Alberta,Mortgage,Email,Referral
+Lead_312,22,58194,1,2,0,18,0,0,513,0,1,1,Male,Full-time,Married,Quebec,Chequing Account,Website,Referral
+Lead_313,23,34994,0,1,2,27,0,0,426,1,1,0,Male,Full-time,Single,Ontario,Investment,Call,Social Media
+Lead_314,32,49561,0,1,1,10,0,0,477,0,1,0,Male,Student,Single,Alberta,Credit Card,Call,Branch Walk-in
+Lead_315,33,37196,1,2,2,17,0,0,97,0,1,1,Male,Full-time,Single,Manitoba,Chequing Account,Email,Branch Walk-in
+Lead_316,28,56161,1,5,0,23,0,0,29,0,1,0,Female,Part-time,Married,British Columbia,Credit Card,Email,Online Ad
+Lead_317,21,27623,0,5,2,0,0,0,407,1,1,0,Female,Full-time,Single,Ontario,Chequing Account,Email,Online Ad
+Lead_318,25,29657,0,9,1,25,0,0,144,0,1,0,Male,Self-employed,Married,Ontario,Investment,Branch,Online Ad
+Lead_319,25,49414,1,4,2,14,0,0,374,1,1,0,Female,Full-time,Married,Quebec,Credit Card,Website,Online Ad
+Lead_320,28,41182,1,0,2,4,0,0,23,1,1,0,Other,Unemployed,Married,Quebec,Mortgage,Email,Partnership
+Lead_321,27,54126,0,6,2,18,0,0,44,1,1,1,Male,Part-time,Single,Alberta,Credit Card,Call,Partnership
+Lead_322,27,41580,0,0,0,3,0,0,43,1,1,0,Female,Full-time,Widowed,Nova Scotia,Chequing Account,Website,Branch Walk-in
+Lead_323,29,23063,0,0,0,31,0,0,270,1,1,0,Male,Full-time,Single,British Columbia,Mortgage,Website,Social Media
+Lead_324,18,33547,0,3,0,7,0,0,268,1,1,1,Female,Self-employed,Married,British Columbia,Credit Card,Email,Referral
+Lead_325,23,25908,0,10,2,16,0,0,218,0,1,0,Male,Full-time,Married,Ontario,Investment,Call,Referral
+Lead_326,34,21541,1,9,0,13,0,0,100,0,1,1,Male,Full-time,Married,Ontario,Investment,Email,Social Media
+Lead_327,18,54639,0,6,1,37,0,0,538,0,1,1,Male,Self-employed,Married,Unknown,Chequing Account,Email,Partnership
+Lead_328,19,59767,1,5,2,32,0,0,373,1,1,0,Male,Full-time,Single,Alberta,Investment,Branch,Branch Walk-in
+Lead_329,32,50866,0,7,2,28,0,0,217,0,1,0,Female,Part-time,Married,Alberta,Chequing Account,Branch,Referral
+Lead_330,26,58502,0,7,2,3,0,0,626,0,1,0,Male,Student,Married,Ontario,Mortgage,Email,Online Ad
+Lead_331,21,62179,1,8,0,29,0,0,102,0,1,0,Female,Full-time,Married,Ontario,Investment,Email,Branch Walk-in
+Lead_332,27,41430,0,3,2,14,0,0,357,1,1,0,Female,Self-employed,Married,Ontario,Chequing Account,Email,Branch Walk-in
+Lead_333,22,43812,0,4,0,19,0,0,180,0,1,0,Male,Full-time,Married,Quebec,Investment,Website,Partnership
+Lead_334,42,73918,3,11,4,46,0,0,2868,1,2,1,Male,Student,Single,Ontario,Credit Card,Branch,Social Media
+Lead_335,35,83416,3,17,3,65,0,0,1439,1,2,1,Male,Unemployed,Married,Alberta,Credit Card,Call,Referral
+Lead_336,49,67881,2,14,3,44,0,0,3978,1,2,1,Male,Unemployed,Single,Ontario,Investment,Call,Branch Walk-in
+Lead_337,44,75933,2,18,4,53,0,0,2382,2,2,1,Female,Full-time,Married,Manitoba,Credit Card,Email,Online Ad
+Lead_338,47,72529,3,12,5,69,0,0,2229,2,2,1,Female,Full-time,Widowed,British Columbia,Mortgage,Email,Social Media
+Lead_339,48,81003,3,11,4,71,0,0,3805,1,2,1,Female,Student,Single,Ontario,Mortgage,Email,Social Media
+Lead_340,47,82027,3,12,4,49,0,0,1395,1,2,1,Female,Full-time,Married,Alberta,Investment,Website,Referral
+Lead_341,43,77679,3,17,5,57,0,0,1957,1,2,1,Female,Full-time,Married,Alberta,Credit Card,Email,Partnership
+Lead_342,37,70202,3,12,5,52,0,0,3656,1,2,1,Male,Unemployed,Single,Ontario,Chequing Account,Email,Referral
+Lead_343,49,84223,3,15,5,49,0,0,1308,1,2,1,Male,Part-time,Single,Ontario,Mortgage,Branch,Partnership
+Lead_344,37,82476,3,12,4,67,0,0,920,1,2,1,Male,Full-time,Single,Alberta,Chequing Account,Email,Partnership
+Lead_345,44,75730,2,15,3,49,0,0,3043,1,2,1,Female,Full-time,Widowed,Quebec,Investment,Call,Referral
+Lead_346,50,67003,3,13,4,46,0,0,790,1,2,1,Female,Unemployed,Single,Ontario,Mortgage,Email,Partnership
+Lead_347,44,72602,3,13,5,57,0,0,2292,1,2,1,Male,Self-employed,Divorced,Alberta,Investment,Branch,Online Ad
+Lead_348,41,67185,3,16,5,45,0,0,3715,2,2,1,Female,Self-employed,Married,Ontario,Mortgage,Call,Social Media
+Lead_349,40,81549,2,17,5,45,0,0,1495,2,2,1,Male,Full-time,Single,Ontario,Credit Card,Website,Online Ad
+Lead_350,36,79950,2,15,3,72,0,0,3242,1,2,1,Male,Full-time,Single,Ontario,Chequing Account,Website,Referral
+Lead_351,38,65812,2,14,5,73,0,0,2368,2,2,1,Male,Full-time,Married,Unknown,Chequing Account,Call,Online Ad
+Lead_352,45,66243,2,16,5,71,0,0,2461,1,2,1,Other,Full-time,Single,Ontario,Credit Card,Call,Online Ad
+Lead_353,39,76866,2,18,5,54,0,0,2410,2,2,1,Male,Student,Married,Quebec,Investment,Call,Referral
+Lead_354,46,74322,2,13,4,73,0,0,1599,2,2,1,Female,Full-time,Single,Manitoba,Credit Card,Email,Branch Walk-in
+Lead_355,51,66707,3,13,3,47,0,0,2622,2,2,1,Male,Unknown,Married,Alberta,Chequing Account,Email,Referral
+Lead_356,39,72634,2,12,5,40,0,0,1423,2,2,1,Female,Part-time,Married,Ontario,Mortgage,Email,Referral
+Lead_357,45,78103,2,16,4,76,0,0,2679,1,2,1,Female,Part-time,Married,Ontario,Mortgage,Email,Online Ad
+Lead_358,43,74965,3,15,3,54,0,0,1880,2,2,1,Female,Self-employed,Single,Manitoba,Credit Card,Website,Social Media
+Lead_359,45,78424,3,12,4,73,0,0,3750,2,2,1,Female,Student,Single,Quebec,Investment,Website,Branch Walk-in
+Lead_360,49,81185,2,14,4,53,0,0,2291,2,2,1,Female,Part-time,Married,Ontario,Credit Card,Website,Partnership
+Lead_361,45,67143,3,14,5,49,0,0,2284,1,2,1,Female,Full-time,Single,Alberta,Credit Card,Email,Online Ad
+Lead_362,51,76532,3,17,5,52,0,0,1270,2,2,1,Male,Self-employed,Married,Unknown,Chequing Account,Email,Social Media
+Lead_363,38,79495,3,16,3,41,0,0,4104,1,2,1,Female,Full-time,Single,Quebec,Mortgage,Call,Online Ad
+Lead_364,51,69382,3,15,3,66,0,0,3978,1,2,1,Male,Unemployed,Married,Nova Scotia,Mortgage,Call,Branch Walk-in
+Lead_365,41,75194,2,16,5,57,0,0,760,1,2,1,Female,Student,Married,Quebec,Credit Card,Call,Referral
+Lead_366,44,71692,2,16,5,73,0,0,828,2,2,1,Male,Full-time,Married,British Columbia,Mortgage,Call,Branch Walk-in
+Lead_367,39,80873,2,16,4,75,0,0,3178,1,2,1,Male,Student,Widowed,Alberta,Chequing Account,Branch,Branch Walk-in
+Lead_368,35,73861,2,17,3,40,0,0,3766,2,2,1,Female,Unemployed,Married,British Columbia,Credit Card,Email,Branch Walk-in
+Lead_369,35,64425,3,15,4,54,0,0,633,2,2,1,Female,Full-time,Married,Alberta,Credit Card,Email,Partnership
+Lead_370,35,81451,2,12,3,46,0,0,2933,1,2,1,Female,Part-time,Married,Ontario,Chequing Account,Branch,Branch Walk-in
+Lead_371,48,77245,2,18,5,39,0,0,3874,2,2,1,Male,Full-time,Single,British Columbia,Credit Card,Email,Social Media
+Lead_372,40,78920,3,13,3,77,0,0,3298,2,2,1,Male,Unknown,Married,British Columbia,Credit Card,Website,Branch Walk-in
+Lead_373,44,69401,2,13,3,55,0,0,3610,2,2,1,Male,Unemployed,Married,Alberta,Investment,Email,Branch Walk-in
+Lead_374,49,65297,2,12,4,75,0,0,863,2,2,1,Female,Student,Married,Ontario,Chequing Account,Email,Social Media
+Lead_375,49,70539,2,17,4,65,0,0,1634,1,2,1,Male,Full-time,Single,Alberta,Investment,Email,Partnership
+Lead_376,38,66354,2,16,4,70,0,0,843,2,2,1,Female,Full-time,Single,Ontario,Mortgage,Website,Branch Walk-in
+Lead_377,47,80288,3,15,4,75,0,0,3366,1,2,1,Male,Part-time,Single,British Columbia,Chequing Account,Email,Referral
+Lead_378,43,65920,2,17,4,77,0,0,3306,2,2,1,Male,Full-time,Married,Quebec,Credit Card,Branch,Online Ad
+Lead_379,44,80170,3,14,4,41,0,0,2742,1,2,1,Male,Student,Single,Alberta,Mortgage,Call,Social Media
+Lead_380,43,73241,3,16,5,75,0,0,1362,2,2,1,Female,Student,Married,Manitoba,Credit Card,Call,Online Ad
+Lead_381,47,67967,3,16,5,68,0,0,3941,1,2,1,Male,Full-time,Divorced,Nova Scotia,Credit Card,Email,Referral
+Lead_382,35,73650,3,18,3,53,0,0,2228,1,2,1,Male,Full-time,Single,Unknown,Mortgage,Email,Online Ad
+Lead_383,49,84318,2,17,4,77,0,0,3606,1,2,1,Male,Full-time,Single,Ontario,Credit Card,Call,Branch Walk-in
+Lead_384,37,81694,3,14,4,49,0,0,1815,1,2,1,Female,Full-time,Married,British Columbia,Chequing Account,Email,Referral
+Lead_385,37,78942,2,13,5,62,0,0,2355,1,2,1,Male,Self-employed,Single,Ontario,Mortgage,Website,Referral
+Lead_386,47,67406,2,14,3,42,0,0,864,1,2,1,Female,Unknown,Married,Quebec,Chequing Account,Website,Partnership
+Lead_387,39,70364,3,14,5,58,0,0,3223,1,2,1,Female,Full-time,Divorced,Ontario,Credit Card,Email,Branch Walk-in
+Lead_388,41,78490,3,12,4,70,0,0,3889,1,2,1,Male,Part-time,Single,Alberta,Credit Card,Email,Branch Walk-in
+Lead_389,41,80017,3,14,4,42,0,0,1907,2,2,1,Female,Self-employed,Single,Manitoba,Credit Card,Email,Referral
+Lead_390,51,73604,3,12,5,65,0,0,2217,1,2,1,Male,Student,Single,Ontario,Credit Card,Branch,Referral
+Lead_391,48,66742,2,18,4,57,0,0,2807,2,2,1,Female,Full-time,Married,British Columbia,Chequing Account,Branch,Branch Walk-in
+Lead_392,36,84673,3,14,4,60,0,0,2767,2,2,1,Other,Full-time,Married,Ontario,Credit Card,Website,Referral
+Lead_393,45,78419,2,14,3,66,0,0,1146,1,2,1,Male,Part-time,Single,Quebec,Credit Card,Call,Referral
+Lead_394,41,82809,2,13,4,67,0,0,1661,1,2,1,Female,Full-time,Single,Ontario,Mortgage,Email,Online Ad
+Lead_395,47,68584,3,17,5,49,0,0,1072,1,2,1,Male,Part-time,Divorced,Ontario,Mortgage,Branch,Online Ad
+Lead_396,49,71814,3,17,3,64,0,0,1404,1,2,1,Female,Self-employed,Single,Ontario,Chequing Account,Call,Online Ad
+Lead_397,48,81121,2,16,3,58,0,0,2913,2,2,1,Female,Full-time,Single,British Columbia,Mortgage,Website,Referral
+Lead_398,42,72856,2,16,3,74,0,0,3365,1,2,1,Male,Part-time,Single,Quebec,Chequing Account,Branch,Referral
+Lead_399,43,69355,3,14,3,55,0,0,1874,1,2,1,Male,Full-time,Single,Ontario,Credit Card,Email,Online Ad
+Lead_400,42,71662,2,13,3,63,0,0,2032,1,2,1,Male,Unemployed,Single,Manitoba,Mortgage,Branch,Branch Walk-in
+Lead_401,51,79169,2,14,3,74,0,0,3282,1,2,1,Male,Full-time,Married,Ontario,Chequing Account,Email,Referral
+Lead_402,36,66959,3,15,3,69,0,0,1103,2,2,1,Male,Full-time,Married,Ontario,Mortgage,Website,Referral
+Lead_403,35,64998,2,12,3,58,0,0,2774,1,2,1,Female,Full-time,Single,Ontario,Mortgage,Email,Social Media
+Lead_404,42,68396,2,14,3,49,0,0,3191,2,2,1,Male,Student,Married,Manitoba,Chequing Account,Email,Branch Walk-in
+Lead_405,37,70141,3,13,3,75,0,0,1615,1,2,1,Male,Unemployed,Single,Manitoba,Mortgage,Branch,Branch Walk-in
+Lead_406,37,74211,3,15,4,56,0,0,2282,2,2,1,Male,Full-time,Single,British Columbia,Credit Card,Website,Referral
+Lead_407,48,74874,3,14,4,54,0,0,1488,1,2,1,Female,Full-time,Widowed,Ontario,Chequing Account,Branch,Branch Walk-in
+Lead_408,39,73104,2,11,5,70,0,0,1922,2,2,1,Male,Full-time,Single,Quebec,Mortgage,Call,Social Media
+Lead_409,41,82087,3,15,5,57,0,0,3195,2,2,1,Male,Full-time,Single,Nova Scotia,Chequing Account,Website,Referral
+Lead_410,36,73555,2,13,4,78,0,0,1224,2,2,1,Female,Student,Single,Quebec,Credit Card,Website,Online Ad
+Lead_411,49,81727,3,12,3,52,0,0,2839,2,2,1,Female,Unemployed,Married,Quebec,Credit Card,Website,Partnership
+Lead_412,35,79611,3,16,3,47,0,0,4158,1,2,1,Male,Full-time,Single,Ontario,Mortgage,Email,Partnership
+Lead_413,48,77642,2,12,4,61,0,0,4077,2,2,1,Male,Part-time,Married,Ontario,Chequing Account,Email,Partnership
+Lead_414,37,70925,3,14,4,69,0,0,2185,2,2,1,Male,Full-time,Married,Alberta,Mortgage,Email,Branch Walk-in
+Lead_415,35,68187,3,11,3,48,0,0,1611,2,2,1,Male,Part-time,Married,Alberta,Credit Card,Email,Online Ad
+Lead_416,37,67318,2,16,5,67,0,0,3913,2,2,1,Male,Unknown,Married,Alberta,Chequing Account,Email,Branch Walk-in
+Lead_417,37,68549,3,13,4,76,0,0,2298,1,2,1,Female,Full-time,Divorced,British Columbia,Chequing Account,Email,Online Ad
+Lead_418,44,77420,2,14,3,47,0,0,979,1,2,1,Other,Full-time,Married,Ontario,Investment,Website,Branch Walk-in
+Lead_419,51,69230,2,17,5,43,0,0,4167,2,2,1,Male,Part-time,Single,Quebec,Chequing Account,Email,Partnership
+Lead_420,47,81206,3,11,4,47,0,0,3867,2,2,1,Female,Part-time,Widowed,Manitoba,Mortgage,Website,Online Ad
+Lead_421,36,82862,2,17,3,44,0,0,2865,2,2,1,Female,Part-time,Married,Nova Scotia,Chequing Account,Call,Online Ad
+Lead_422,35,71308,2,16,4,67,0,0,1945,2,2,1,Male,Full-time,Single,Ontario,Chequing Account,Email,Branch Walk-in
+Lead_423,49,65047,2,15,3,74,0,0,4167,1,2,1,Male,Full-time,Single,Ontario,Mortgage,Website,Referral
+Lead_424,42,76877,2,11,5,44,0,0,1112,1,2,1,Male,Full-time,Single,Manitoba,Mortgage,Email,Online Ad
+Lead_425,38,71211,3,11,5,66,0,0,2748,1,2,1,Male,Full-time,Divorced,Quebec,Mortgage,Website,Online Ad
+Lead_426,43,66762,3,13,3,47,0,0,3636,2,2,1,Male,Part-time,Married,Ontario,Mortgage,Website,Social Media
+Lead_427,43,79203,2,12,4,44,0,0,2306,1,2,1,Male,Student,Divorced,Ontario,Chequing Account,Call,Branch Walk-in
+Lead_428,35,77556,3,12,3,47,0,0,2910,1,2,1,Female,Full-time,Divorced,Alberta,Mortgage,Branch,Online Ad
+Lead_429,43,82688,3,17,4,75,0,0,3905,2,2,1,Male,Unemployed,Widowed,Unknown,Credit Card,Website,Branch Walk-in
+Lead_430,46,81928,3,12,5,48,0,0,764,1,2,1,Male,Student,Single,Ontario,Investment,Call,Social Media
+Lead_431,35,73797,2,15,5,75,0,0,2922,1,2,1,Female,Part-time,Single,Quebec,Mortgage,Website,Partnership
+Lead_432,37,68759,2,13,5,52,0,0,3853,2,2,1,Female,Part-time,Single,Quebec,Investment,Email,Online Ad
+Lead_433,43,84648,3,12,5,74,0,0,3715,1,2,1,Other,Full-time,Single,Alberta,Chequing Account,Email,Branch Walk-in
+Lead_434,41,80039,2,15,3,61,0,0,733,1,2,1,Male,Full-time,Single,Quebec,Chequing Account,Website,Partnership
+Lead_435,50,68404,3,15,3,66,0,0,1906,1,2,1,Male,Full-time,Married,British Columbia,Credit Card,Website,Social Media
+Lead_436,36,72088,2,14,4,61,0,0,3981,2,2,1,Male,Unemployed,Single,Alberta,Chequing Account,Website,Referral
+Lead_437,47,83160,2,16,5,51,0,0,3874,1,2,1,Female,Full-time,Widowed,British Columbia,Mortgage,Website,Partnership
+Lead_438,43,83966,2,16,4,44,0,0,2383,1,2,1,Male,Full-time,Married,British Columbia,Chequing Account,Call,Partnership
+Lead_439,43,64817,2,16,3,43,0,0,3750,1,2,1,Female,Part-time,Married,Manitoba,Mortgage,Call,Branch Walk-in
+Lead_440,46,73488,3,12,3,76,0,0,2457,1,2,1,Male,Full-time,Married,Ontario,Credit Card,Call,Social Media
+Lead_441,40,67939,2,12,4,69,0,0,3061,2,2,1,Male,Unemployed,Married,Quebec,Credit Card,Website,Partnership
+Lead_442,48,66978,3,14,4,45,0,0,3545,2,2,1,Male,Student,Single,Alberta,Investment,Branch,Social Media
+Lead_443,50,78537,2,15,3,56,0,0,2135,1,2,1,Male,Part-time,Married,Ontario,Investment,Website,Online Ad
+Lead_444,45,75562,3,13,4,75,0,0,3263,1,2,1,Female,Full-time,Single,Manitoba,Chequing Account,Email,Referral
+Lead_445,37,75120,3,12,4,69,0,0,2994,2,2,1,Female,Full-time,Single,Ontario,Credit Card,Website,Online Ad
+Lead_446,38,69472,3,13,4,44,0,0,3003,1,2,1,Male,Student,Married,British Columbia,Chequing Account,Website,Social Media
+Lead_447,40,81479,3,12,4,75,0,0,3107,2,2,1,Female,Full-time,Single,Unknown,Mortgage,Website,Referral
+Lead_448,44,76223,2,17,5,48,0,0,2825,1,2,1,Female,Unemployed,Married,Nova Scotia,Credit Card,Website,Referral
+Lead_449,38,76464,2,17,4,47,0,0,3691,1,2,1,Male,Full-time,Married,Ontario,Investment,Email,Branch Walk-in
+Lead_450,49,75219,2,15,5,78,0,0,4173,2,2,1,Male,Self-employed,Single,Alberta,Credit Card,Website,Online Ad
+Lead_451,51,80899,2,14,5,59,0,0,3874,2,2,1,Female,Part-time,Married,Unknown,Investment,Website,Branch Walk-in
+Lead_452,42,79136,2,13,5,42,0,0,2154,1,2,1,Male,Full-time,Married,Manitoba,Credit Card,Call,Online Ad
+Lead_453,39,79905,3,12,5,69,0,0,3985,1,2,1,Male,Full-time,Single,Ontario,Credit Card,Call,Referral
+Lead_454,43,84382,3,12,3,51,0,0,3928,2,2,1,Male,Part-time,Widowed,British Columbia,Mortgage,Website,Online Ad
+Lead_455,45,75140,2,16,5,41,0,0,2413,2,2,1,Male,Full-time,Married,Ontario,Chequing Account,Call,Referral
+Lead_456,38,75796,3,17,4,74,0,0,2491,1,2,1,Female,Full-time,Single,Quebec,Investment,Website,Branch Walk-in
+Lead_457,41,71527,2,14,4,60,0,0,3569,1,2,1,Female,Full-time,Married,British Columbia,Chequing Account,Website,Partnership
+Lead_458,50,82243,2,16,5,63,0,0,905,1,2,1,Female,Full-time,Married,Ontario,Chequing Account,Email,Partnership
+Lead_459,35,82213,2,12,5,44,0,0,2776,1,2,1,Male,Part-time,Married,Ontario,Chequing Account,Email,Online Ad
+Lead_460,49,71055,3,14,4,70,0,0,1379,1,2,1,Male,Full-time,Married,Quebec,Mortgage,Email,Social Media
+Lead_461,41,65903,3,15,4,56,0,0,3060,2,2,1,Female,Full-time,Single,Alberta,Investment,Call,Branch Walk-in
+Lead_462,47,80398,3,16,4,68,0,0,3056,1,2,1,Male,Part-time,Married,Alberta,Investment,Branch,Social Media
+Lead_463,41,76847,3,15,5,47,0,0,933,1,2,1,Male,Full-time,Married,Quebec,Mortgage,Email,Online Ad
+Lead_464,44,78564,3,12,5,46,0,0,3991,2,2,1,Female,Part-time,Divorced,British Columbia,Credit Card,Email,Branch Walk-in
+Lead_465,40,67551,3,17,4,43,0,0,2918,2,2,1,Male,Unemployed,Married,Ontario,Mortgage,Branch,Partnership
+Lead_466,40,78370,2,16,3,65,0,0,1714,2,2,1,Male,Unknown,Single,Ontario,Chequing Account,Website,Branch Walk-in
+Lead_467,40,82639,3,12,5,57,0,0,720,2,2,1,Female,Full-time,Divorced,British Columbia,Investment,Branch,Branch Walk-in
+Lead_468,47,84670,2,13,3,42,0,0,829,1,2,1,Female,Part-time,Divorced,Quebec,Chequing Account,Website,Branch Walk-in
+Lead_469,41,84469,2,17,5,47,0,0,1171,1,2,1,Female,Full-time,Single,Quebec,Credit Card,Call,Branch Walk-in
+Lead_470,45,72946,2,14,3,64,0,0,1515,2,2,1,Female,Full-time,Divorced,Ontario,Credit Card,Website,Branch Walk-in
+Lead_471,51,64384,3,15,5,71,0,0,3451,1,2,1,Male,Full-time,Single,Ontario,Credit Card,Branch,Branch Walk-in
+Lead_472,35,82551,3,17,4,77,0,0,4166,2,2,1,Male,Full-time,Married,Ontario,Mortgage,Website,Referral
+Lead_473,48,69767,3,14,5,74,0,0,3878,2,2,1,Male,Unemployed,Single,Quebec,Chequing Account,Email,Online Ad
+Lead_474,40,71593,3,15,5,47,0,0,1110,1,2,1,Female,Part-time,Married,Quebec,Chequing Account,Call,Online Ad
+Lead_475,40,77521,2,16,3,40,0,0,1885,2,2,1,Male,Unemployed,Married,Quebec,Chequing Account,Website,Online Ad
+Lead_476,50,66358,3,15,5,40,0,0,1161,1,2,1,Female,Unemployed,Widowed,Alberta,Credit Card,Website,Partnership
+Lead_477,41,64785,3,15,3,78,0,0,3262,1,2,1,Female,Full-time,Divorced,Ontario,Investment,Website,Online Ad
+Lead_478,37,75920,3,16,3,60,0,0,4006,2,2,1,Male,Student,Married,Alberta,Credit Card,Call,Partnership
+Lead_479,43,68669,2,16,5,66,0,0,2854,2,2,1,Male,Student,Married,Ontario,Credit Card,Email,Social Media
+Lead_480,47,72909,3,15,3,44,0,0,4029,1,2,1,Male,Part-time,Single,Ontario,Mortgage,Call,Social Media
+Lead_481,48,68948,2,15,5,55,0,0,1703,1,2,1,Male,Self-employed,Single,Unknown,Mortgage,Website,Social Media
+Lead_482,42,75302,3,16,4,60,0,0,1154,2,2,1,Male,Full-time,Single,Manitoba,Investment,Website,Partnership
+Lead_483,40,71341,3,14,3,66,0,0,957,1,2,1,Female,Student,Married,Nova Scotia,Credit Card,Branch,Branch Walk-in
+Lead_484,44,78450,2,16,5,51,0,0,3270,2,2,1,Female,Student,Single,Ontario,Credit Card,Email,Social Media
+Lead_485,51,74202,2,15,3,66,0,0,1514,1,2,1,Male,Full-time,Married,British Columbia,Mortgage,Website,Partnership
+Lead_486,46,73919,3,13,5,74,0,0,3697,2,2,1,Male,Full-time,Single,British Columbia,Investment,Email,Social Media
+Lead_487,46,75663,2,15,4,72,0,0,3515,1,2,1,Female,Self-employed,Single,Quebec,Chequing Account,Branch,Branch Walk-in
+Lead_488,41,68354,3,13,5,49,0,0,655,1,2,1,Female,Student,Single,Alberta,Chequing Account,Website,Online Ad
+Lead_489,35,71320,3,15,5,78,0,0,3723,2,2,1,Female,Part-time,Divorced,Ontario,Mortgage,Branch,Referral
+Lead_490,48,70443,3,11,3,70,0,0,2777,2,2,1,Male,Full-time,Married,Manitoba,Mortgage,Call,Online Ad
+Lead_491,41,66475,2,13,3,58,0,0,1226,1,2,1,Female,Unknown,Divorced,Alberta,Credit Card,Website,Branch Walk-in
+Lead_492,40,81678,2,17,4,74,0,0,1913,2,2,1,Male,Student,Single,Alberta,Credit Card,Website,Partnership
+Lead_493,42,68351,3,17,3,43,0,0,3626,2,2,1,Female,Full-time,Single,Alberta,Chequing Account,Email,Branch Walk-in
+Lead_494,44,79758,2,18,4,49,0,0,2241,1,2,1,Male,Full-time,Married,Manitoba,Mortgage,Call,Branch Walk-in
+Lead_495,51,81224,2,16,5,64,0,0,3507,2,2,1,Female,Student,Divorced,Ontario,Credit Card,Website,Partnership
+Lead_496,38,68303,2,16,5,68,0,0,720,2,2,1,Female,Unemployed,Married,Ontario,Mortgage,Email,Online Ad
+Lead_497,48,84448,3,14,5,63,0,0,2874,2,2,1,Male,Part-time,Single,Ontario,Investment,Email,Branch Walk-in
+Lead_498,36,81491,3,15,5,58,0,0,1924,2,2,1,Male,Full-time,Single,Quebec,Credit Card,Email,Branch Walk-in
+Lead_499,44,72041,2,16,3,42,0,0,1170,2,2,1,Female,Unemployed,Married,Ontario,Investment,Email,Online Ad
+Lead_500,35,75489,2,15,3,51,0,0,2767,1,2,1,Female,Full-time,Single,Alberta,Chequing Account,Call,Social Media
+Lead_501,39,65704,3,15,4,46,0,0,1494,1,2,1,Female,Student,Single,Ontario,Chequing Account,Website,Online Ad
+Lead_502,41,66711,3,11,4,48,0,0,3294,1,2,1,Female,Unemployed,Married,Alberta,Chequing Account,Website,Social Media
+Lead_503,48,72446,3,17,3,46,0,0,1615,1,2,1,Female,Full-time,Married,Alberta,Credit Card,Website,Partnership
+Lead_504,51,83995,2,13,4,61,0,0,2999,2,2,1,Female,Student,Single,British Columbia,Credit Card,Call,Branch Walk-in
+Lead_505,50,78889,2,11,3,49,0,0,1209,2,2,1,Female,Full-time,Single,Quebec,Investment,Website,Branch Walk-in
+Lead_506,40,73590,3,17,3,51,0,0,4236,2,2,1,Male,Student,Married,Ontario,Investment,Call,Referral
+Lead_507,39,64534,2,13,5,53,0,0,3806,2,2,1,Other,Self-employed,Married,Quebec,Credit Card,Email,Referral
+Lead_508,36,74179,3,16,3,52,0,0,4090,1,2,1,Male,Unemployed,Married,Alberta,Credit Card,Call,Referral
+Lead_509,41,71358,2,15,4,70,0,0,1547,2,2,1,Female,Unemployed,Divorced,British Columbia,Mortgage,Email,Branch Walk-in
+Lead_510,40,74770,2,17,5,54,0,0,825,2,2,1,Female,Full-time,Married,Nova Scotia,Investment,Call,Social Media
+Lead_511,45,76148,3,11,4,50,0,0,1911,2,2,1,Female,Unemployed,Single,Quebec,Chequing Account,Email,Online Ad
+Lead_512,36,69873,3,11,4,39,0,0,2965,1,2,1,Female,Full-time,Married,Manitoba,Mortgage,Call,Online Ad
+Lead_513,43,67535,2,13,5,58,0,0,894,1,2,1,Female,Full-time,Married,Quebec,Chequing Account,Website,Partnership
+Lead_514,45,70673,2,15,5,76,0,0,1688,1,2,1,Male,Student,Single,Manitoba,Chequing Account,Email,Referral
+Lead_515,35,66962,2,12,4,58,0,0,1091,2,2,1,Female,Full-time,Divorced,British Columbia,Mortgage,Email,Referral
+Lead_516,40,75160,2,13,4,66,0,0,1249,1,2,1,Female,Unemployed,Single,Ontario,Chequing Account,Website,Referral
+Lead_517,46,80971,3,14,5,50,0,0,2977,1,2,1,Female,Unemployed,Married,Ontario,Investment,Call,Social Media
+Lead_518,41,72837,3,13,4,50,0,0,3054,1,2,1,Male,Full-time,Married,Ontario,Credit Card,Website,Partnership
+Lead_519,50,82623,3,12,5,53,0,0,1081,1,2,1,Other,Part-time,Married,British Columbia,Investment,Call,Branch Walk-in
+Lead_520,37,84120,2,15,5,78,0,0,2944,2,2,1,Male,Part-time,Single,Ontario,Chequing Account,Email,Referral
+Lead_521,41,66173,3,15,4,76,0,0,683,2,2,1,Female,Full-time,Married,Alberta,Credit Card,Call,Social Media
+Lead_522,38,81101,3,11,3,47,0,0,1161,1,2,1,Female,Full-time,Single,Quebec,Credit Card,Website,Referral
+Lead_523,39,64583,2,17,3,43,0,0,1653,1,2,1,Male,Student,Single,Ontario,Mortgage,Email,Branch Walk-in
+Lead_524,35,80662,2,13,5,55,0,0,1746,1,2,1,Male,Part-time,Married,Alberta,Credit Card,Email,Referral
+Lead_525,46,67502,2,13,5,65,0,0,3892,2,2,1,Male,Part-time,Single,Ontario,Chequing Account,Website,Social Media
+Lead_526,42,71539,2,16,5,65,0,0,3753,1,2,1,Female,Student,Married,Ontario,Investment,Website,Branch Walk-in
+Lead_527,48,74595,3,13,4,76,0,0,2451,1,2,1,Male,Student,Married,Alberta,Chequing Account,Branch,Online Ad
+Lead_528,39,72525,2,15,3,43,0,0,2157,1,2,1,Female,Self-employed,Married,Quebec,Credit Card,Website,Online Ad
+Lead_529,42,65703,2,14,5,53,0,0,3397,1,2,1,Other,Student,Married,Manitoba,Credit Card,Call,Partnership
+Lead_530,45,72366,2,14,3,76,0,0,3039,2,2,1,Male,Part-time,Single,Alberta,Chequing Account,Branch,Partnership
+Lead_531,35,76164,3,12,5,73,0,0,1420,2,2,1,Male,Self-employed,Single,Quebec,Chequing Account,Branch,Partnership
+Lead_532,45,74047,3,14,5,44,0,0,4160,2,2,1,Female,Self-employed,Single,Unknown,Mortgage,Website,Online Ad
+Lead_533,51,69781,3,15,4,72,0,0,2513,1,2,1,Female,Unemployed,Married,Ontario,Investment,Call,Referral
+Lead_534,48,79249,2,12,4,61,0,0,1508,2,2,1,Male,Unemployed,Divorced,Ontario,Mortgage,Call,Online Ad
+Lead_535,42,69757,3,15,3,39,0,0,1352,1,2,1,Male,Full-time,Married,British Columbia,Chequing Account,Email,Social Media
+Lead_536,36,68971,2,12,3,56,0,0,1440,1,2,1,Female,Full-time,Married,Alberta,Credit Card,Email,Social Media
+Lead_537,41,77182,3,15,5,48,0,0,1379,1,2,1,Male,Full-time,Married,Manitoba,Mortgage,Website,Referral
+Lead_538,41,74389,2,14,5,69,0,0,1108,1,2,1,Male,Part-time,Single,Quebec,Mortgage,Website,Branch Walk-in
+Lead_539,44,81029,3,14,3,59,0,0,921,1,2,1,Male,Full-time,Divorced,British Columbia,Chequing Account,Website,Partnership
+Lead_540,37,72488,3,17,5,51,0,0,4142,1,2,1,Female,Unemployed,Single,Alberta,Mortgage,Email,Branch Walk-in
+Lead_541,37,65962,2,18,3,47,0,0,1288,2,2,1,Male,Part-time,Single,British Columbia,Investment,Branch,Referral
+Lead_542,35,79773,3,13,4,45,0,0,638,1,2,1,Other,Unemployed,Single,Manitoba,Mortgage,Website,Branch Walk-in
+Lead_543,45,67563,2,17,3,40,0,0,1922,2,2,1,Other,Full-time,Single,Quebec,Investment,Email,Referral
+Lead_544,35,79356,2,14,3,55,0,0,3448,2,2,1,Male,Self-employed,Married,Quebec,Chequing Account,Email,Branch Walk-in
+Lead_545,50,65456,3,11,4,66,0,0,3990,1,2,1,Female,Full-time,Married,Quebec,Chequing Account,Email,Online Ad
+Lead_546,45,73179,2,14,4,40,0,0,2406,2,2,1,Male,Full-time,Married,Ontario,Investment,Call,Social Media
+Lead_547,40,77795,2,13,3,76,0,0,2608,1,2,1,Male,Full-time,Single,Alberta,Chequing Account,Email,Online Ad
+Lead_548,38,80184,2,14,5,41,0,0,889,1,2,1,Female,Full-time,Married,Quebec,Investment,Call,Online Ad
+Lead_549,44,71021,3,14,3,40,0,0,2389,1,2,1,Female,Full-time,Married,Nova Scotia,Credit Card,Call,Branch Walk-in
+Lead_550,38,75703,2,13,3,65,0,0,3791,2,2,1,Female,Self-employed,Divorced,Nova Scotia,Chequing Account,Website,Online Ad
+Lead_551,46,71863,2,14,4,68,0,0,2060,2,2,1,Male,Full-time,Married,Quebec,Chequing Account,Email,Branch Walk-in
+Lead_552,39,75507,3,15,3,45,0,0,2343,1,2,1,Male,Full-time,Married,Unknown,Chequing Account,Website,Social Media
+Lead_553,40,79498,3,13,3,50,0,0,3220,2,2,1,Female,Unemployed,Married,Manitoba,Mortgage,Website,Partnership
+Lead_554,51,64675,3,14,4,67,0,0,2976,1,2,1,Female,Part-time,Married,Quebec,Credit Card,Call,Partnership
+Lead_555,44,82489,3,14,4,52,0,0,3091,2,2,1,Female,Part-time,Single,Manitoba,Investment,Email,Online Ad
+Lead_556,41,82744,3,13,5,48,0,0,2033,1,2,1,Female,Full-time,Single,Ontario,Mortgage,Call,Branch Walk-in
+Lead_557,44,68405,3,15,3,43,0,0,1478,1,2,1,Male,Student,Married,Ontario,Investment,Website,Social Media
+Lead_558,49,76502,3,17,4,60,0,0,1123,2,2,1,Male,Full-time,Single,Quebec,Credit Card,Call,Social Media
+Lead_559,42,80143,2,14,5,55,0,0,3545,2,2,1,Female,Full-time,Widowed,Ontario,Investment,Email,Branch Walk-in
+Lead_560,49,83247,2,16,3,44,0,0,3121,2,2,1,Male,Full-time,Widowed,Ontario,Chequing Account,Email,Referral
+Lead_561,49,82611,2,16,3,71,0,0,3264,1,2,1,Male,Part-time,Divorced,Nova Scotia,Credit Card,Website,Referral
+Lead_562,39,72256,3,15,3,45,0,0,1076,1,2,1,Other,Part-time,Single,Alberta,Chequing Account,Call,Online Ad
+Lead_563,40,83280,3,15,4,73,0,0,3651,1,2,1,Male,Full-time,Married,Ontario,Investment,Website,Social Media
+Lead_564,43,78757,3,17,4,68,0,0,3874,1,2,1,Male,Full-time,Single,Alberta,Mortgage,Website,Referral
+Lead_565,35,76138,3,12,5,54,0,0,2734,2,2,1,Male,Full-time,Single,Alberta,Mortgage,Email,Online Ad
+Lead_566,35,76885,3,13,3,74,0,0,3991,1,2,1,Male,Full-time,Single,Ontario,Mortgage,Website,Branch Walk-in
+Lead_567,46,77399,3,17,5,42,0,0,4054,1,2,1,Male,Full-time,Married,Alberta,Investment,Website,Branch Walk-in
+Lead_568,39,71420,2,18,4,74,0,0,2145,2,2,1,Female,Part-time,Single,Quebec,Credit Card,Website,Branch Walk-in
+Lead_569,46,75210,3,14,5,53,0,0,3591,1,2,1,Other,Full-time,Married,Ontario,Credit Card,Call,Online Ad
+Lead_570,39,81671,2,11,5,52,0,0,4026,1,2,1,Female,Full-time,Single,Manitoba,Chequing Account,Website,Online Ad
+Lead_571,44,83487,3,18,5,48,0,0,1774,2,2,1,Male,Part-time,Married,Quebec,Chequing Account,Email,Online Ad
+Lead_572,47,64914,3,12,3,50,0,0,1600,1,2,1,Female,Full-time,Widowed,Ontario,Chequing Account,Call,Branch Walk-in
+Lead_573,43,68622,3,12,4,62,0,0,770,1,2,1,Female,Unemployed,Married,Ontario,Chequing Account,Branch,Partnership
+Lead_574,47,67155,2,13,5,52,0,0,2563,2,2,1,Female,Full-time,Divorced,Quebec,Chequing Account,Email,Partnership
+Lead_575,50,78162,3,17,3,48,0,0,1239,1,2,1,Female,Full-time,Married,Ontario,Investment,Call,Partnership
+Lead_576,46,84476,3,17,5,74,0,0,2125,1,2,1,Other,Full-time,Single,Quebec,Credit Card,Call,Referral
+Lead_577,48,77262,3,12,4,61,0,0,3201,2,2,1,Male,Full-time,Married,Ontario,Chequing Account,Email,Social Media
+Lead_578,40,73233,2,14,4,48,0,0,2593,2,2,1,Female,Student,Married,Manitoba,Investment,Website,Social Media
+Lead_579,47,67536,2,16,5,48,0,0,3703,2,2,1,Other,Full-time,Single,British Columbia,Mortgage,Website,Branch Walk-in
+Lead_580,49,82901,2,11,4,57,0,0,794,1,2,1,Female,Part-time,Married,British Columbia,Mortgage,Email,Online Ad
+Lead_581,35,78326,3,15,3,58,0,0,787,2,2,1,Male,Full-time,Married,Quebec,Investment,Call,Partnership
+Lead_582,45,74683,2,13,3,47,0,0,2604,2,2,1,Female,Student,Single,Nova Scotia,Credit Card,Website,Social Media
+Lead_583,40,69017,3,17,5,62,0,0,1008,2,2,1,Male,Full-time,Single,Ontario,Chequing Account,Branch,Branch Walk-in
+Lead_584,41,65226,2,15,5,69,0,0,3574,2,2,1,Female,Full-time,Single,Ontario,Credit Card,Call,Partnership
+Lead_585,38,70191,3,14,5,49,0,0,3301,1,2,1,Female,Student,Single,Ontario,Mortgage,Website,Referral
+Lead_586,38,66613,2,16,3,45,0,0,3172,1,2,1,Male,Full-time,Single,Ontario,Chequing Account,Call,Online Ad
+Lead_587,39,64635,2,16,3,39,0,0,4114,1,2,1,Female,Full-time,Married,Quebec,Mortgage,Call,Referral
+Lead_588,40,69933,2,16,5,50,0,0,3694,1,2,1,Male,Full-time,Married,Ontario,Investment,Email,Social Media
+Lead_589,45,77632,3,12,5,47,0,0,648,1,2,1,Female,Full-time,Married,Ontario,Credit Card,Email,Social Media
+Lead_590,42,75036,3,17,5,76,0,0,2557,1,2,1,Other,Unemployed,Married,British Columbia,Credit Card,Branch,Social Media
+Lead_591,49,72078,2,17,4,45,0,0,3140,2,2,1,Female,Full-time,Single,Alberta,Chequing Account,Email,Online Ad
+Lead_592,47,75416,3,18,3,51,0,0,1965,2,2,1,Female,Full-time,Married,Alberta,Chequing Account,Call,Online Ad
+Lead_593,48,75858,2,12,4,67,0,0,1721,2,2,1,Female,Student,Married,Manitoba,Investment,Email,Partnership
+Lead_594,37,81797,3,17,5,76,0,0,3323,1,2,1,Male,Full-time,Married,Alberta,Mortgage,Website,Partnership
+Lead_595,44,67195,2,12,3,65,0,0,3734,2,2,1,Female,Part-time,Married,Ontario,Credit Card,Email,Branch Walk-in
+Lead_596,46,71903,2,14,4,40,0,0,3485,1,2,1,Female,Self-employed,Married,Alberta,Chequing Account,Email,Referral
+Lead_597,41,75831,3,17,4,76,0,0,3205,1,2,1,Male,Self-employed,Married,Nova Scotia,Chequing Account,Website,Online Ad
+Lead_598,42,81771,3,13,3,71,0,0,2527,1,2,1,Female,Part-time,Married,Manitoba,Chequing Account,Email,Referral
+Lead_599,46,72211,2,11,4,68,0,0,2932,2,2,1,Male,Unemployed,Single,British Columbia,Credit Card,Website,Referral
+Lead_600,35,70384,2,16,5,41,0,0,820,1,2,1,Male,Part-time,Divorced,Ontario,Mortgage,Website,Referral
+Lead_601,47,77112,2,12,5,67,0,0,4134,1,2,1,Female,Full-time,Single,Alberta,Chequing Account,Call,Branch Walk-in
+Lead_602,37,80261,3,15,5,71,0,0,2094,1,2,1,Female,Full-time,Single,British Columbia,Chequing Account,Call,Online Ad
+Lead_603,43,77838,2,13,4,72,0,0,803,1,2,1,Female,Full-time,Married,Alberta,Credit Card,Website,Branch Walk-in
+Lead_604,39,69067,3,17,3,44,0,0,3751,1,2,1,Female,Full-time,Married,Ontario,Credit Card,Email,Social Media
+Lead_605,41,74775,3,11,4,72,0,0,3426,2,2,1,Male,Part-time,Single,Alberta,Mortgage,Branch,Social Media
+Lead_606,38,83901,2,17,5,74,0,0,3412,2,2,1,Male,Student,Single,Alberta,Credit Card,Call,Online Ad
+Lead_607,51,73698,2,17,5,66,0,0,1354,1,2,1,Male,Part-time,Married,Alberta,Credit Card,Website,Partnership
+Lead_608,44,72087,3,15,3,72,0,0,4203,2,2,1,Male,Full-time,Married,Quebec,Mortgage,Website,Online Ad
+Lead_609,39,71945,2,13,3,61,0,0,4086,1,2,1,Male,Unemployed,Married,Unknown,Chequing Account,Call,Online Ad
+Lead_610,39,83035,3,14,3,55,0,0,1226,1,2,1,Female,Part-time,Married,Alberta,Credit Card,Email,Social Media
+Lead_611,49,66883,3,14,5,60,0,0,847,1,2,1,Female,Full-time,Widowed,Quebec,Chequing Account,Call,Partnership
+Lead_612,45,81842,2,18,5,50,0,0,3972,1,2,1,Female,Full-time,Single,Alberta,Mortgage,Call,Referral
+Lead_613,37,83191,2,16,5,49,0,0,3489,1,2,1,Female,Self-employed,Married,Manitoba,Chequing Account,Website,Social Media
+Lead_614,49,68205,3,15,5,39,0,0,1243,2,2,1,Male,Unemployed,Married,Ontario,Credit Card,Email,Referral
+Lead_615,51,84587,2,14,3,52,0,0,1946,2,2,1,Male,Part-time,Married,Ontario,Chequing Account,Email,Branch Walk-in
+Lead_616,47,83904,3,14,4,73,0,0,2266,2,2,1,Female,Student,Married,Ontario,Chequing Account,Call,Online Ad
+Lead_617,40,74511,2,16,4,74,0,0,2182,1,2,1,Male,Part-time,Single,Ontario,Mortgage,Email,Online Ad
+Lead_618,40,79968,2,15,4,55,0,0,2880,1,2,1,Male,Student,Married,Quebec,Mortgage,Call,Referral
+Lead_619,50,72661,2,15,5,47,0,0,1472,2,2,1,Female,Full-time,Married,Quebec,Mortgage,Email,Partnership
+Lead_620,45,72201,2,14,3,64,0,0,2556,1,2,1,Male,Part-time,Single,Ontario,Mortgage,Email,Partnership
+Lead_621,39,68242,3,13,3,49,0,0,2828,1,2,1,Female,Self-employed,Widowed,Quebec,Credit Card,Email,Online Ad
+Lead_622,48,82303,2,18,5,47,0,0,3580,1,2,1,Female,Full-time,Married,Quebec,Chequing Account,Email,Referral
+Lead_623,46,72427,3,16,3,47,0,0,1738,2,2,1,Male,Full-time,Single,British Columbia,Mortgage,Website,Branch Walk-in
+Lead_624,40,73747,3,12,4,57,0,0,1162,2,2,1,Male,Student,Divorced,Ontario,Mortgage,Call,Online Ad
+Lead_625,44,65866,2,15,3,59,0,0,2215,1,2,1,Female,Full-time,Single,British Columbia,Chequing Account,Email,Online Ad
+Lead_626,38,65180,3,13,5,54,0,0,3294,2,2,1,Male,Full-time,Married,Alberta,Mortgage,Website,Referral
+Lead_627,46,74536,3,12,3,55,0,0,3859,2,2,1,Female,Full-time,Single,Ontario,Chequing Account,Email,Referral
+Lead_628,40,65921,3,12,5,58,0,0,3959,1,2,1,Male,Part-time,Single,Ontario,Investment,Website,Online Ad
+Lead_629,49,70195,3,13,3,49,0,0,2002,2,2,1,Female,Full-time,Married,Ontario,Investment,Branch,Online Ad
+Lead_630,51,82896,3,12,3,63,0,0,3037,1,2,1,Male,Part-time,Married,Unknown,Credit Card,Call,Referral
+Lead_631,41,79838,2,16,4,46,0,0,3057,2,2,1,Male,Unemployed,Married,Ontario,Mortgage,Email,Branch Walk-in
+Lead_632,40,83376,3,18,4,69,0,0,3777,1,2,1,Male,Full-time,Single,Quebec,Credit Card,Website,Online Ad
+Lead_633,47,79082,2,14,3,64,0,0,3711,2,2,1,Male,Student,Single,Manitoba,Chequing Account,Email,Branch Walk-in
+Lead_634,37,73755,3,15,3,72,0,0,3224,1,2,1,Other,Self-employed,Married,Quebec,Credit Card,Email,Referral
+Lead_635,38,81005,2,16,5,55,0,0,3837,1,2,1,Male,Full-time,Single,Unknown,Mortgage,Website,Branch Walk-in
+Lead_636,47,82864,3,15,5,50,0,0,1756,1,2,1,Male,Full-time,Single,Ontario,Credit Card,Branch,Referral
+Lead_637,41,67589,2,12,3,66,0,0,1930,2,2,1,Female,Full-time,Single,Ontario,Credit Card,Website,Social Media
+Lead_638,42,71606,2,13,4,64,0,0,3427,2,2,1,Male,Full-time,Married,Nova Scotia,Chequing Account,Website,Referral
+Lead_639,40,81945,3,13,3,51,0,0,819,1,2,1,Female,Full-time,Married,Ontario,Mortgage,Email,Branch Walk-in
+Lead_640,46,68323,2,15,4,48,0,0,2066,1,2,1,Female,Part-time,Single,British Columbia,Investment,Email,Online Ad
+Lead_641,42,67477,2,13,4,56,0,0,1087,1,2,1,Other,Self-employed,Single,Nova Scotia,Chequing Account,Call,Online Ad
+Lead_642,35,80383,3,13,4,61,0,0,3631,2,2,1,Male,Full-time,Single,British Columbia,Credit Card,Website,Referral
+Lead_643,50,64546,3,11,5,67,0,0,857,1,2,1,Female,Part-time,Married,Manitoba,Credit Card,Website,Referral
+Lead_644,38,84100,2,14,4,76,0,0,2373,2,2,1,Female,Self-employed,Married,Ontario,Credit Card,Website,Online Ad
+Lead_645,40,69647,2,14,3,44,0,0,858,1,2,1,Female,Part-time,Divorced,British Columbia,Investment,Email,Branch Walk-in
+Lead_646,43,78437,2,12,3,64,0,0,921,1,2,1,Female,Self-employed,Married,Alberta,Credit Card,Email,Branch Walk-in
+Lead_647,41,75536,3,14,3,63,0,0,2689,2,2,1,Male,Full-time,Married,Ontario,Investment,Call,Partnership
+Lead_648,51,66869,2,18,3,77,0,0,3566,2,2,1,Female,Unemployed,Married,Nova Scotia,Credit Card,Website,Online Ad
+Lead_649,40,79933,2,12,3,57,0,0,2594,2,2,1,Female,Part-time,Single,Ontario,Chequing Account,Website,Social Media
+Lead_650,51,73195,2,17,3,52,0,0,2407,2,2,1,Male,Student,Single,British Columbia,Chequing Account,Email,Referral
+Lead_651,51,78446,3,16,4,49,0,0,1806,1,2,1,Male,Full-time,Divorced,Manitoba,Investment,Website,Online Ad
+Lead_652,48,66303,2,18,3,51,0,0,1887,2,2,1,Male,Part-time,Single,Manitoba,Investment,Email,Partnership
+Lead_653,47,78530,3,15,3,56,0,0,1801,1,2,1,Female,Student,Married,Ontario,Credit Card,Email,Social Media
+Lead_654,48,73169,2,17,3,45,0,0,2523,1,2,1,Male,Full-time,Single,British Columbia,Credit Card,Branch,Branch Walk-in
+Lead_655,46,68315,3,12,5,64,0,0,3015,2,2,1,Female,Full-time,Single,Quebec,Mortgage,Website,Referral
+Lead_656,51,74862,3,15,3,70,0,0,2081,1,2,1,Female,Full-time,Married,British Columbia,Mortgage,Call,Partnership
+Lead_657,40,69214,2,12,4,63,0,0,2951,1,2,1,Male,Full-time,Single,Ontario,Investment,Call,Branch Walk-in
+Lead_658,43,71942,2,18,3,74,0,0,2859,1,2,1,Female,Student,Single,Ontario,Mortgage,Email,Social Media
+Lead_659,36,65612,2,15,5,66,0,0,1636,1,2,1,Female,Full-time,Married,Quebec,Credit Card,Call,Online Ad
+Lead_660,49,80645,3,17,3,52,0,0,1181,1,2,1,Female,Part-time,Widowed,Nova Scotia,Credit Card,Email,Branch Walk-in
+Lead_661,50,84238,2,11,4,59,0,0,2880,1,2,1,Male,Full-time,Married,Manitoba,Chequing Account,Website,Referral
+Lead_662,49,74056,3,14,4,45,0,0,2994,2,2,1,Female,Full-time,Divorced,Alberta,Mortgage,Call,Online Ad
+Lead_663,50,81894,2,15,5,65,0,0,2908,2,2,1,Female,Full-time,Married,Alberta,Credit Card,Website,Branch Walk-in
+Lead_664,39,78216,2,12,4,72,0,0,2572,1,2,1,Female,Full-time,Single,Quebec,Mortgage,Email,Referral
+Lead_665,45,64664,3,11,5,48,0,0,3940,1,2,1,Female,Full-time,Married,Manitoba,Credit Card,Call,Online Ad
+Lead_666,37,80572,2,13,4,56,0,0,1771,1,2,1,Male,Part-time,Married,British Columbia,Credit Card,Call,Branch Walk-in
+Lead_667,56,887598,12,32,6,102,5,4,13684,4,3,3,Male,Full-time,Single,Ontario,Chequing Account,Website,Referral
+Lead_668,61,686085,6,35,6,113,6,3,16387,3,3,1,Male,Full-time,Single,Quebec,Mortgage,Call,Referral
+Lead_669,66,108776,9,32,7,97,2,3,5247,2,3,2,Male,Full-time,Married,Ontario,Investment,Call,Social Media
+Lead_670,64,197459,6,36,7,84,4,1,11754,2,3,3,Female,Full-time,Married,Alberta,Credit Card,Website,Partnership
+Lead_671,65,1193640,11,26,8,83,4,4,12608,4,3,2,Female,Student,Married,Ontario,Chequing Account,Website,Partnership
+Lead_672,56,972983,5,29,7,81,3,2,16497,3,3,2,Male,Full-time,Married,Ontario,Investment,Website,Social Media
+Lead_673,52,975815,6,23,7,108,6,2,4375,4,3,3,Male,Full-time,Single,British Columbia,Chequing Account,Email,Branch Walk-in
+Lead_674,64,664982,8,28,7,111,2,3,8617,4,3,3,Female,Part-time,Married,Nova Scotia,Mortgage,Website,Referral
+Lead_675,54,1042872,8,38,8,108,2,3,8997,3,3,2,Female,Full-time,Married,British Columbia,Credit Card,Website,Partnership
+Lead_676,54,212756,10,26,7,117,6,3,4781,2,3,2,Male,Full-time,Married,Quebec,Chequing Account,Website,Referral
+Lead_677,57,774217,7,19,8,98,1,2,5194,4,3,2,Female,Full-time,Married,Alberta,Mortgage,Website,Online Ad
+Lead_678,61,184676,4,30,6,111,6,4,17482,2,3,2,Male,Student,Divorced,Ontario,Chequing Account,Call,Referral
+Lead_679,60,383109,8,34,6,110,1,1,13226,4,3,2,Male,Full-time,Single,Ontario,Credit Card,Call,Referral
+Lead_680,58,101950,9,33,7,81,2,3,10415,3,3,3,Male,Full-time,Single,Ontario,Credit Card,Branch,Branch Walk-in
+Lead_681,61,1086686,12,24,8,80,3,4,5363,2,3,2,Female,Full-time,Single,British Columbia,Chequing Account,Website,Partnership
+Lead_682,59,319685,7,41,8,86,2,3,9631,3,3,3,Female,Unemployed,Single,Ontario,Credit Card,Email,Online Ad
+Lead_683,65,1113516,7,37,8,93,5,4,11997,4,3,2,Male,Full-time,Divorced,Ontario,Mortgage,Email,Partnership
+Lead_684,54,1090487,4,23,6,82,4,3,10379,4,3,3,Female,Part-time,Single,Ontario,Mortgage,Call,Online Ad
+Lead_685,66,1038884,6,33,7,86,2,4,16043,3,3,2,Female,Full-time,Single,Nova Scotia,Mortgage,Call,Referral
+Lead_686,62,1062217,8,39,8,111,1,2,14877,4,3,3,Male,Unemployed,Married,Ontario,Credit Card,Email,Branch Walk-in
+Lead_687,55,856298,8,36,6,107,4,1,17176,4,3,2,Female,Student,Married,Ontario,Credit Card,Call,Referral
+Lead_688,67,1143791,9,22,6,109,1,3,13773,3,3,1,Male,Self-employed,Single,Quebec,Mortgage,Email,Partnership
+Lead_689,67,934331,9,41,6,84,4,2,7949,3,3,3,Female,Part-time,Single,Manitoba,Credit Card,Call,Social Media
+Lead_690,54,972806,10,29,6,103,6,3,14381,4,3,2,Female,Part-time,Single,Ontario,Investment,Branch,Online Ad
+Lead_691,63,695495,4,27,8,81,4,4,17533,3,3,2,Female,Part-time,Married,Alberta,Credit Card,Email,Online Ad
+Lead_692,62,289799,12,25,6,88,5,4,10515,3,3,3,Female,Full-time,Divorced,Ontario,Chequing Account,Branch,Partnership
+Lead_693,65,977043,12,31,7,89,6,2,15968,3,3,2,Male,Full-time,Married,Alberta,Credit Card,Website,Social Media
+Lead_694,55,751839,12,42,6,114,5,1,7916,4,3,2,Female,Self-employed,Widowed,Quebec,Mortgage,Email,Referral
+Lead_695,68,275571,7,39,8,97,3,3,11285,2,3,2,Female,Full-time,Single,Ontario,Mortgage,Email,Branch Walk-in
+Lead_696,53,1148011,8,22,7,88,5,4,8140,2,3,2,Female,Full-time,Single,Quebec,Mortgage,Branch,Branch Walk-in
+Lead_697,53,1122234,11,27,8,84,2,1,16757,4,3,2,Male,Full-time,Single,Ontario,Credit Card,Call,Referral
+Lead_698,67,212266,8,21,8,118,4,3,15607,3,3,2,Female,Self-employed,Single,Quebec,Mortgage,Website,Social Media
+Lead_699,64,432854,6,28,8,115,4,3,6904,2,3,3,Female,Self-employed,Married,Ontario,Mortgage,Branch,Branch Walk-in
+Lead_700,68,536659,12,31,7,110,3,4,11023,2,3,2,Male,Full-time,Married,British Columbia,Chequing Account,Branch,Referral
+Lead_701,66,398317,11,42,6,92,2,4,11102,2,3,3,Male,Part-time,Married,Alberta,Mortgage,Website,Online Ad
+Lead_702,52,906706,5,23,7,113,5,3,9879,3,3,1,Male,Unemployed,Married,Ontario,Investment,Branch,Branch Walk-in
+Lead_703,60,778397,11,38,6,103,4,2,5073,4,3,1,Female,Self-employed,Single,British Columbia,Investment,Call,Online Ad
+Lead_704,58,898937,11,20,6,95,6,2,5984,3,3,2,Male,Unemployed,Single,Quebec,Credit Card,Branch,Referral
+Lead_705,60,1156045,4,22,6,106,6,4,13760,4,3,2,Female,Full-time,Single,Ontario,Credit Card,Email,Referral
+Lead_706,68,536280,5,39,8,112,3,1,6001,2,3,3,Other,Part-time,Married,Alberta,Mortgage,Email,Referral
+Lead_707,59,405697,6,27,7,92,1,1,9708,4,3,2,Male,Full-time,Single,Manitoba,Chequing Account,Website,Referral
+Lead_708,62,618919,4,31,8,80,2,1,9394,3,3,2,Female,Part-time,Single,Manitoba,Chequing Account,Email,Referral
+Lead_709,53,1177292,7,40,8,107,3,3,4630,3,3,1,Male,Full-time,Married,Ontario,Credit Card,Website,Branch Walk-in
+Lead_710,57,1046728,5,28,7,104,2,3,14089,2,3,3,Male,Student,Married,Alberta,Mortgage,Branch,Partnership
+Lead_711,54,754483,10,21,6,107,5,4,10351,3,3,2,Male,Student,Married,British Columbia,Chequing Account,Website,Partnership
+Lead_712,58,738093,11,31,7,97,2,4,5668,4,3,2,Male,Full-time,Single,Quebec,Chequing Account,Website,Branch Walk-in
+Lead_713,62,970051,6,19,6,100,1,4,16821,4,3,2,Male,Part-time,Married,Quebec,Investment,Branch,Branch Walk-in
+Lead_714,65,538996,10,31,7,88,1,3,12623,2,3,2,Male,Full-time,Divorced,British Columbia,Mortgage,Branch,Online Ad
+Lead_715,57,96654,12,20,8,96,3,4,4673,4,3,3,Male,Self-employed,Single,Nova Scotia,Investment,Website,Referral
+Lead_716,61,949198,11,22,7,97,2,1,5111,4,3,2,Female,Part-time,Single,Ontario,Credit Card,Email,Referral
+Lead_717,58,97940,12,24,7,87,6,3,9695,2,3,2,Female,Unemployed,Married,Quebec,Credit Card,Email,Branch Walk-in
+Lead_718,58,665783,10,40,8,92,2,3,5848,3,3,3,Male,Full-time,Divorced,Ontario,Chequing Account,Email,Referral
+Lead_719,64,568581,12,25,7,97,4,4,15650,4,3,3,Male,Full-time,Single,British Columbia,Credit Card,Website,Referral
+Lead_720,53,352848,6,19,7,94,1,1,8752,4,3,1,Female,Part-time,Divorced,British Columbia,Chequing Account,Email,Partnership
+Lead_721,56,1023129,12,18,7,115,3,1,10681,3,3,2,Female,Full-time,Single,Quebec,Credit Card,Email,Referral
+Lead_722,52,1193748,8,24,8,115,5,2,5556,2,3,2,Male,Full-time,Married,Quebec,Credit Card,Email,Online Ad
+Lead_723,67,429166,11,24,7,93,1,1,4545,4,3,3,Male,Unemployed,Married,Manitoba,Mortgage,Website,Branch Walk-in
+Lead_724,59,767152,6,27,8,106,2,4,4988,4,3,3,Male,Full-time,Divorced,British Columbia,Investment,Email,Referral
+Lead_725,60,422344,11,37,8,92,2,4,12353,3,3,3,Male,Self-employed,Single,Ontario,Credit Card,Email,Online Ad
+Lead_726,68,874248,9,34,7,87,2,1,9635,2,3,2,Other,Full-time,Single,Ontario,Chequing Account,Website,Referral
+Lead_727,66,666164,11,25,6,88,4,3,5272,3,3,3,Other,Full-time,Divorced,Nova Scotia,Mortgage,Email,Referral
+Lead_728,54,766279,8,39,7,80,2,2,8002,4,3,3,Female,Full-time,Married,Ontario,Credit Card,Email,Online Ad
+Lead_729,66,630386,4,42,6,102,4,3,8566,3,3,2,Male,Student,Single,Ontario,Mortgage,Email,Online Ad
+Lead_730,63,1188574,9,37,8,112,3,4,17083,4,3,2,Male,Student,Married,British Columbia,Chequing Account,Website,Partnership
+Lead_731,53,827437,7,19,6,110,6,4,17121,4,3,3,Female,Unemployed,Married,Quebec,Chequing Account,Branch,Partnership
+Lead_732,67,275951,11,33,8,115,4,3,8683,3,3,3,Female,Full-time,Single,Ontario,Mortgage,Call,Online Ad
+Lead_733,57,243614,12,43,7,100,4,1,14990,2,3,2,Female,Part-time,Single,Manitoba,Credit Card,Email,Branch Walk-in
+Lead_734,62,1101345,11,38,8,95,1,1,6809,3,3,3,Male,Full-time,Married,British Columbia,Mortgage,Website,Online Ad
+Lead_735,56,837505,7,36,7,96,4,2,10251,2,3,2,Other,Unemployed,Single,Alberta,Chequing Account,Email,Partnership
+Lead_736,56,540347,8,41,6,87,1,4,17598,4,3,1,Male,Full-time,Divorced,Quebec,Chequing Account,Email,Online Ad
+Lead_737,60,747651,6,30,8,84,4,2,9410,3,3,2,Male,Full-time,Married,Manitoba,Mortgage,Website,Partnership
+Lead_738,56,291265,10,37,7,100,3,4,14784,2,3,3,Male,Part-time,Single,Ontario,Credit Card,Email,Partnership
+Lead_739,66,403235,7,24,6,102,3,4,13828,3,3,2,Male,Student,Married,Ontario,Mortgage,Website,Online Ad
+Lead_740,56,1101692,10,35,6,117,2,3,9620,3,3,2,Male,Full-time,Married,Quebec,Mortgage,Email,Social Media
+Lead_741,55,363251,6,26,8,82,3,3,13963,4,3,2,Male,Self-employed,Married,Manitoba,Investment,Email,Social Media
+Lead_742,55,555712,11,19,7,109,2,4,5226,4,3,2,Female,Student,Married,Ontario,Investment,Email,Social Media
+Lead_743,64,971290,11,32,6,103,2,2,5831,4,3,2,Female,Full-time,Married,Ontario,Credit Card,Website,Branch Walk-in
+Lead_744,59,269325,5,42,8,99,6,2,14968,3,3,3,Male,Part-time,Single,Ontario,Investment,Website,Branch Walk-in
+Lead_745,61,651251,7,43,6,98,2,1,13187,2,3,2,Male,Unemployed,Single,Alberta,Chequing Account,Branch,Partnership
+Lead_746,61,994301,7,40,6,105,6,1,14038,4,3,2,Male,Part-time,Married,Quebec,Chequing Account,Call,Referral
+Lead_747,52,1153199,10,41,6,109,6,2,10538,3,3,3,Male,Full-time,Single,Quebec,Chequing Account,Branch,Referral
+Lead_748,67,846707,12,43,7,105,1,2,7148,3,3,2,Male,Full-time,Married,Ontario,Chequing Account,Website,Branch Walk-in
+Lead_749,55,1090361,10,20,6,94,3,4,11869,3,3,3,Male,Part-time,Divorced,Ontario,Chequing Account,Website,Branch Walk-in
+Lead_750,59,739768,10,41,6,82,1,1,10892,3,3,3,Female,Self-employed,Married,Alberta,Chequing Account,Email,Online Ad
+Lead_751,62,1092207,9,19,6,111,2,1,4404,4,3,2,Male,Student,Married,British Columbia,Mortgage,Email,Referral
+Lead_752,56,888821,7,23,8,99,6,4,16594,3,3,2,Female,Student,Married,British Columbia,Mortgage,Website,Online Ad
+Lead_753,62,101567,9,24,7,83,1,1,10350,3,3,3,Female,Self-employed,Married,Quebec,Investment,Website,Branch Walk-in
+Lead_754,56,848127,9,41,8,95,3,4,9284,4,3,3,Male,Part-time,Married,Quebec,Mortgage,Website,Online Ad
+Lead_755,58,396487,10,37,6,112,6,3,11183,3,3,2,Male,Self-employed,Single,Ontario,Credit Card,Email,Online Ad
+Lead_756,54,279132,12,42,8,97,3,1,5610,2,3,3,Female,Full-time,Single,Ontario,Credit Card,Call,Branch Walk-in
+Lead_757,64,533595,7,35,8,114,5,1,9568,3,3,3,Male,Full-time,Married,Manitoba,Chequing Account,Email,Online Ad
+Lead_758,56,507608,11,22,7,105,6,4,8902,3,3,1,Female,Full-time,Married,Ontario,Mortgage,Branch,Social Media
+Lead_759,63,685573,7,34,7,93,5,2,13640,3,3,3,Female,Full-time,Married,Quebec,Chequing Account,Website,Referral
+Lead_760,64,698905,11,35,7,113,5,2,17068,3,3,3,Male,Unemployed,Single,British Columbia,Investment,Email,Referral
+Lead_761,53,289063,11,21,8,109,3,3,8281,3,3,3,Female,Unemployed,Married,Quebec,Chequing Account,Website,Online Ad
+Lead_762,65,705808,7,27,8,90,5,1,17134,3,3,2,Female,Full-time,Single,British Columbia,Mortgage,Email,Online Ad
+Lead_763,68,449517,10,27,8,118,1,3,13542,2,3,3,Male,Self-employed,Married,British Columbia,Investment,Email,Referral
+Lead_764,57,664883,12,33,6,102,6,1,6245,4,3,3,Male,Self-employed,Widowed,Ontario,Chequing Account,Email,Partnership
+Lead_765,53,868504,11,36,8,98,5,1,13029,3,3,3,Female,Unknown,Married,Alberta,Mortgage,Branch,Branch Walk-in
+Lead_766,60,1089474,9,44,8,116,3,4,4434,4,3,2,Female,Part-time,Divorced,Quebec,Mortgage,Email,Branch Walk-in
+Lead_767,68,281525,10,40,8,104,4,4,5471,4,3,2,Male,Self-employed,Single,Ontario,Credit Card,Website,Partnership
+Lead_768,54,803660,11,30,7,97,4,3,8752,3,3,2,Female,Part-time,Single,British Columbia,Mortgage,Email,Branch Walk-in
+Lead_769,56,500391,6,33,6,83,6,2,6868,3,3,2,Female,Self-employed,Married,Quebec,Chequing Account,Email,Branch Walk-in
+Lead_770,57,508475,11,40,6,84,5,4,11566,3,3,1,Female,Full-time,Single,British Columbia,Chequing Account,Website,Social Media
+Lead_771,55,505699,7,29,8,108,6,3,15250,2,3,1,Female,Full-time,Single,Quebec,Mortgage,Email,Partnership
+Lead_772,67,1183699,11,23,7,85,2,2,11419,3,3,2,Male,Full-time,Single,British Columbia,Mortgage,Email,Branch Walk-in
+Lead_773,56,965239,9,19,8,95,5,3,7033,3,3,2,Male,Full-time,Widowed,British Columbia,Mortgage,Call,Branch Walk-in
+Lead_774,57,459679,5,40,8,88,2,3,12829,2,3,2,Female,Full-time,Single,British Columbia,Chequing Account,Website,Online Ad
+Lead_775,55,614161,7,34,8,89,5,4,6460,3,3,3,Female,Student,Single,Ontario,Mortgage,Email,Online Ad
+Lead_776,55,482756,5,39,8,87,3,3,14065,3,3,3,Female,Student,Married,Ontario,Chequing Account,Website,Branch Walk-in
+Lead_777,52,547843,12,31,6,83,5,3,6881,4,3,2,Female,Part-time,Married,Manitoba,Mortgage,Email,Referral
+Lead_778,54,877250,5,38,6,96,6,4,14167,2,3,2,Female,Part-time,Married,Quebec,Chequing Account,Website,Social Media
+Lead_779,56,582440,12,39,8,90,5,3,9556,4,3,2,Female,Full-time,Single,Quebec,Credit Card,Email,Social Media
+Lead_780,68,898421,10,38,6,85,4,4,9672,3,3,2,Male,Unknown,Married,Ontario,Credit Card,Email,Social Media
+Lead_781,53,244545,11,38,7,79,3,3,12952,3,3,3,Male,Unemployed,Married,Ontario,Chequing Account,Website,Branch Walk-in
+Lead_782,62,544053,5,23,8,118,2,2,13694,3,3,2,Female,Full-time,Single,Manitoba,Mortgage,Call,Referral
+Lead_783,58,312377,6,19,6,97,4,1,9675,2,3,1,Female,Self-employed,Single,Ontario,Investment,Call,Branch Walk-in
+Lead_784,65,175469,4,28,7,118,4,4,6029,4,3,3,Male,Unemployed,Married,Ontario,Chequing Account,Branch,Branch Walk-in
+Lead_785,65,656279,9,31,6,100,4,1,8422,2,3,2,Male,Full-time,Married,Quebec,Chequing Account,Website,Branch Walk-in
+Lead_786,66,513522,12,41,7,104,2,3,8239,2,3,2,Female,Full-time,Single,Ontario,Mortgage,Email,Social Media
+Lead_787,52,729334,6,32,8,89,4,2,7061,4,3,1,Female,Unemployed,Single,Quebec,Credit Card,Website,Referral
+Lead_788,58,724311,11,26,8,98,2,2,7605,2,3,2,Male,Full-time,Married,Ontario,Investment,Email,Branch Walk-in
+Lead_789,61,405899,9,28,8,109,4,3,14841,3,3,2,Male,Full-time,Married,Manitoba,Mortgage,Email,Branch Walk-in
+Lead_790,56,138885,5,39,8,109,4,1,11288,3,3,2,Other,Part-time,Widowed,Nova Scotia,Mortgage,Call,Online Ad
+Lead_791,63,1143581,8,30,7,109,5,4,6395,3,3,3,Male,Student,Single,Quebec,Chequing Account,Email,Branch Walk-in
+Lead_792,52,813741,6,44,6,106,4,2,6640,3,3,3,Female,Part-time,Married,Ontario,Chequing Account,Call,Branch Walk-in
+Lead_793,62,103160,12,36,7,80,2,4,10149,2,3,2,Other,Full-time,Single,Alberta,Chequing Account,Email,Social Media
+Lead_794,64,631400,7,38,8,82,1,2,15454,3,3,2,Female,Part-time,Divorced,Quebec,Chequing Account,Email,Online Ad
+Lead_795,61,1148430,9,24,6,97,1,1,17527,4,3,2,Male,Part-time,Divorced,Quebec,Credit Card,Call,Social Media
+Lead_796,67,928903,8,34,7,108,1,3,16223,4,3,1,Female,Full-time,Divorced,Quebec,Chequing Account,Website,Branch Walk-in
+Lead_797,66,246290,12,19,7,118,5,4,6589,4,3,2,Female,Full-time,Single,Nova Scotia,Credit Card,Website,Branch Walk-in
+Lead_798,56,828081,7,29,6,115,4,3,10833,4,3,1,Female,Unemployed,Married,Quebec,Investment,Website,Referral
+Lead_799,55,621733,8,39,8,85,3,2,15865,4,3,3,Male,Part-time,Married,Quebec,Mortgage,Email,Social Media
+Lead_800,52,606037,12,40,6,93,2,4,7006,2,3,2,Female,Full-time,Single,British Columbia,Chequing Account,Branch,Partnership
+Lead_801,67,312483,4,25,8,104,5,3,8817,3,3,1,Male,Full-time,Single,Alberta,Chequing Account,Email,Branch Walk-in
+Lead_802,54,916026,12,28,8,80,5,4,14019,3,3,3,Female,Full-time,Widowed,British Columbia,Chequing Account,Email,Online Ad
+Lead_803,53,306374,5,38,7,109,6,2,16696,3,3,3,Male,Student,Single,Alberta,Investment,Branch,Partnership
+Lead_804,68,1183113,12,34,7,103,6,1,10445,2,3,3,Male,Student,Divorced,Quebec,Mortgage,Email,Partnership
+Lead_805,54,768338,12,41,8,111,1,1,10514,3,3,2,Other,Full-time,Married,Quebec,Investment,Branch,Branch Walk-in
+Lead_806,58,867547,8,27,7,94,1,4,9197,4,3,3,Male,Full-time,Married,British Columbia,Credit Card,Call,Branch Walk-in
+Lead_807,53,443601,7,19,6,113,2,4,17393,4,3,2,Male,Full-time,Married,Nova Scotia,Credit Card,Website,Online Ad
+Lead_808,68,639182,5,24,7,85,1,2,4390,4,3,2,Male,Full-time,Married,Manitoba,Chequing Account,Website,Branch Walk-in
+Lead_809,58,506084,4,33,8,95,3,3,11036,2,3,2,Male,Full-time,Single,British Columbia,Mortgage,Website,Referral
+Lead_810,52,998237,10,38,6,112,4,3,13440,4,3,2,Male,Full-time,Married,Manitoba,Credit Card,Email,Referral
+Lead_811,53,1001696,5,21,6,109,2,4,4773,3,3,2,Male,Full-time,Married,Ontario,Chequing Account,Website,Online Ad
+Lead_812,53,719950,4,38,6,83,6,2,7040,4,3,2,Other,Full-time,Single,Ontario,Chequing Account,Website,Online Ad
+Lead_813,63,219888,6,31,6,113,6,2,12282,3,3,2,Female,Full-time,Married,Nova Scotia,Chequing Account,Branch,Online Ad
+Lead_814,62,456359,8,25,7,116,5,1,15613,3,3,2,Female,Part-time,Divorced,Unknown,Mortgage,Website,Social Media
+Lead_815,58,314042,8,42,7,85,5,1,4785,4,3,1,Male,Full-time,Single,Ontario,Credit Card,Call,Online Ad
+Lead_816,55,340357,12,43,6,93,3,1,5532,3,3,2,Female,Self-employed,Divorced,Quebec,Credit Card,Email,Online Ad
+Lead_817,59,681683,6,19,8,91,5,4,9061,3,3,2,Male,Full-time,Single,Ontario,Chequing Account,Website,Social Media
+Lead_818,67,429309,7,25,7,79,6,3,10650,4,3,1,Male,Full-time,Divorced,Manitoba,Credit Card,Branch,Social Media
+Lead_819,54,372623,6,19,8,82,2,4,5819,4,3,2,Female,Full-time,Single,Quebec,Mortgage,Email,Branch Walk-in
+Lead_820,60,732794,6,28,7,80,1,3,9346,4,3,2,Female,Full-time,Single,Ontario,Chequing Account,Website,Referral
+Lead_821,52,362320,10,38,6,95,6,3,13410,3,3,3,Male,Full-time,Single,Quebec,Chequing Account,Email,Online Ad
+Lead_822,59,342650,10,27,8,93,2,3,8141,2,3,2,Female,Part-time,Single,Unknown,Mortgage,Email,Online Ad
+Lead_823,56,86752,9,25,7,87,3,4,16547,3,3,2,Female,Full-time,Divorced,Ontario,Credit Card,Call,Branch Walk-in
+Lead_824,58,823300,12,28,8,109,5,1,16829,2,3,2,Male,Full-time,Married,Ontario,Mortgage,Email,Social Media
+Lead_825,66,595036,12,42,6,91,6,4,11251,3,3,3,Male,Part-time,Married,British Columbia,Investment,Email,Branch Walk-in
+Lead_826,63,165930,10,44,6,111,5,4,9672,4,3,2,Female,Self-employed,Married,British Columbia,Credit Card,Website,Branch Walk-in
+Lead_827,62,899388,4,18,8,79,3,2,7844,2,3,2,Female,Part-time,Single,Manitoba,Chequing Account,Email,Online Ad
+Lead_828,68,440123,7,27,7,105,3,4,16133,4,3,2,Female,Full-time,Married,British Columbia,Mortgage,Website,Partnership
+Lead_829,61,1097010,5,25,6,97,1,4,5834,4,3,2,Male,Part-time,Single,Ontario,Credit Card,Website,Partnership
+Lead_830,54,803461,6,39,7,94,3,4,6885,4,3,2,Male,Full-time,Single,Quebec,Chequing Account,Call,Online Ad
+Lead_831,60,904766,8,34,6,116,3,3,15523,2,3,2,Male,Full-time,Single,Ontario,Credit Card,Website,Branch Walk-in
+Lead_832,52,844069,8,31,8,83,6,3,6007,4,3,2,Female,Full-time,Single,Ontario,Mortgage,Website,Online Ad
+Lead_833,65,820734,10,39,8,112,5,4,6478,4,3,1,Male,Full-time,Married,Ontario,Chequing Account,Email,Online Ad
+Lead_834,61,727959,11,23,8,102,2,1,12952,2,3,3,Male,Full-time,Married,Ontario,Chequing Account,Email,Referral
+Lead_835,52,104758,11,27,7,112,2,2,15306,3,3,2,Male,Unemployed,Married,Alberta,Chequing Account,Website,Referral
+Lead_836,54,943926,8,41,8,80,3,2,11777,2,3,3,Male,Self-employed,Single,British Columbia,Mortgage,Email,Referral
+Lead_837,58,135331,7,43,8,105,1,4,6644,3,3,2,Female,Unemployed,Married,Quebec,Investment,Call,Partnership
+Lead_838,66,1012661,4,19,6,89,4,2,6683,2,3,2,Male,Self-employed,Married,Unknown,Credit Card,Email,Branch Walk-in
+Lead_839,63,1047709,12,20,6,85,3,3,11628,3,3,3,Male,Self-employed,Married,British Columbia,Mortgage,Email,Referral
+Lead_840,68,1115194,10,20,6,93,2,1,13908,4,3,3,Female,Full-time,Married,Ontario,Credit Card,Email,Branch Walk-in
+Lead_841,53,942024,6,30,6,110,6,1,6059,3,3,2,Male,Student,Single,British Columbia,Chequing Account,Website,Referral
+Lead_842,62,447717,9,27,6,88,5,2,4721,2,3,2,Female,Full-time,Divorced,Ontario,Credit Card,Email,Branch Walk-in
+Lead_843,61,1038506,11,43,7,82,3,4,11183,3,3,2,Female,Unemployed,Single,British Columbia,Investment,Call,Partnership
+Lead_844,56,340986,6,43,6,113,2,4,6795,3,3,2,Male,Part-time,Single,Quebec,Chequing Account,Email,Referral
+Lead_845,66,788753,9,36,6,104,6,2,5621,2,3,1,Male,Student,Single,Manitoba,Investment,Call,Social Media
+Lead_846,61,268426,5,35,6,82,6,1,8388,3,3,2,Female,Part-time,Married,Quebec,Chequing Account,Email,Branch Walk-in
+Lead_847,53,536223,12,33,6,84,4,2,9904,3,3,2,Female,Student,Married,Manitoba,Mortgage,Call,Online Ad
+Lead_848,58,915452,7,42,7,111,2,3,10972,4,3,2,Female,Student,Married,British Columbia,Credit Card,Website,Branch Walk-in
+Lead_849,63,1088239,8,42,7,106,3,1,6364,4,3,2,Female,Full-time,Married,Ontario,Credit Card,Website,Referral
+Lead_850,60,125726,4,32,7,98,5,3,14416,4,3,2,Female,Student,Married,Ontario,Credit Card,Website,Branch Walk-in
+Lead_851,54,561219,6,32,8,93,2,4,17327,4,3,2,Female,Student,Single,Ontario,Chequing Account,Email,Online Ad
+Lead_852,52,267644,4,30,7,93,1,3,16923,4,3,2,Male,Part-time,Married,Alberta,Chequing Account,Email,Partnership
+Lead_853,67,845469,6,33,7,80,1,3,17087,3,3,3,Other,Part-time,Married,Manitoba,Mortgage,Call,Referral
+Lead_854,62,765946,5,36,8,82,6,1,15210,3,3,3,Female,Student,Married,Quebec,Mortgage,Website,Partnership
+Lead_855,56,1076142,11,42,8,93,6,3,10876,3,3,2,Male,Self-employed,Single,Nova Scotia,Chequing Account,Branch,Partnership
+Lead_856,65,287145,12,44,7,113,4,2,6906,4,3,3,Female,Student,Married,Ontario,Credit Card,Call,Online Ad
+Lead_857,66,261860,12,19,7,117,3,4,16627,3,3,3,Male,Self-employed,Single,Manitoba,Credit Card,Call,Referral
+Lead_858,52,772015,9,39,7,103,3,1,5260,3,3,2,Male,Part-time,Married,Quebec,Credit Card,Branch,Online Ad
+Lead_859,61,729700,4,20,7,112,1,2,10961,2,3,1,Female,Unknown,Widowed,Nova Scotia,Chequing Account,Website,Branch Walk-in
+Lead_860,52,573392,8,36,6,84,4,4,16757,3,3,3,Male,Self-employed,Divorced,British Columbia,Mortgage,Website,Partnership
+Lead_861,58,867326,12,27,6,92,6,2,12194,4,3,2,Male,Full-time,Single,Ontario,Chequing Account,Call,Referral
+Lead_862,56,1164845,7,29,7,107,3,2,10439,4,3,2,Female,Full-time,Married,Quebec,Credit Card,Email,Referral
+Lead_863,58,1179234,9,37,7,87,5,3,10862,2,3,2,Male,Student,Widowed,Ontario,Mortgage,Call,Referral
+Lead_864,59,268002,11,18,8,117,6,4,12340,4,3,3,Male,Self-employed,Single,Quebec,Investment,Branch,Branch Walk-in
+Lead_865,52,538340,11,25,7,87,6,4,16153,3,3,2,Male,Full-time,Divorced,Quebec,Chequing Account,Call,Referral
+Lead_866,60,453316,10,24,7,105,6,4,7072,3,3,2,Male,Self-employed,Divorced,British Columbia,Chequing Account,Email,Branch Walk-in
+Lead_867,57,299973,12,28,7,105,1,2,12265,3,3,3,Female,Full-time,Divorced,Ontario,Credit Card,Email,Referral
+Lead_868,52,1179013,10,22,8,85,1,1,7751,2,3,3,Female,Student,Single,Alberta,Chequing Account,Call,Branch Walk-in
+Lead_869,56,470168,9,32,7,95,4,3,11374,3,3,3,Male,Full-time,Married,Ontario,Mortgage,Email,Branch Walk-in
+Lead_870,60,404387,4,41,6,97,6,2,7362,4,3,3,Male,Student,Married,Ontario,Mortgage,Email,Branch Walk-in
+Lead_871,56,499444,6,37,6,98,6,4,11272,2,3,3,Female,Self-employed,Single,Nova Scotia,Credit Card,Branch,Online Ad
+Lead_872,66,718832,5,43,8,109,1,4,12755,4,3,2,Female,Self-employed,Single,British Columbia,Chequing Account,Call,Partnership
+Lead_873,58,1116356,4,21,8,117,1,4,12693,4,3,3,Female,Self-employed,Married,Manitoba,Mortgage,Email,Online Ad
+Lead_874,66,1123781,12,27,7,84,1,1,4599,3,3,2,Female,Part-time,Married,Ontario,Mortgage,Email,Branch Walk-in
+Lead_875,55,731073,12,27,7,99,5,2,15630,3,3,3,Male,Full-time,Single,Ontario,Mortgage,Website,Social Media
+Lead_876,59,410642,10,19,6,94,1,2,5570,4,3,3,Female,Full-time,Single,Quebec,Credit Card,Email,Online Ad
+Lead_877,58,764183,6,25,8,113,6,2,17540,4,3,3,Male,Part-time,Married,Ontario,Credit Card,Branch,Social Media
+Lead_878,60,938066,10,29,6,105,1,3,9601,4,3,2,Female,Self-employed,Single,Alberta,Mortgage,Website,Online Ad
+Lead_879,60,873024,11,23,7,93,6,3,16482,2,3,1,Male,Full-time,Married,Ontario,Chequing Account,Website,Online Ad
+Lead_880,59,534633,8,26,7,108,4,2,10619,3,3,2,Female,Self-employed,Married,British Columbia,Chequing Account,Call,Online Ad
+Lead_881,59,347044,12,41,7,93,2,3,5698,4,3,3,Female,Full-time,Single,Nova Scotia,Mortgage,Email,Social Media
+Lead_882,63,1130579,5,19,8,114,1,1,12484,4,3,2,Male,Student,Married,Quebec,Credit Card,Email,Referral
+Lead_883,55,626733,7,38,6,92,6,4,8425,4,3,3,Male,Full-time,Widowed,Quebec,Mortgage,Email,Referral
+Lead_884,52,115736,7,25,7,88,5,3,5925,3,3,3,Male,Student,Single,Ontario,Credit Card,Website,Partnership
+Lead_885,68,329278,6,33,8,112,2,3,10877,4,3,1,Other,Full-time,Married,Alberta,Mortgage,Email,Branch Walk-in
+Lead_886,61,359167,7,29,8,114,3,4,17469,3,3,3,Female,Full-time,Single,Quebec,Chequing Account,Email,Online Ad
+Lead_887,59,498347,9,19,8,83,4,4,14991,3,3,1,Male,Part-time,Single,Manitoba,Mortgage,Email,Online Ad
+Lead_888,68,817362,4,24,6,99,6,4,9072,4,3,2,Male,Unknown,Married,Ontario,Mortgage,Email,Branch Walk-in
+Lead_889,59,622070,11,36,6,90,1,2,8954,3,3,3,Male,Part-time,Married,Alberta,Mortgage,Call,Branch Walk-in
+Lead_890,54,804391,5,30,8,112,5,3,16090,3,3,2,Female,Full-time,Single,Alberta,Credit Card,Branch,Online Ad
+Lead_891,60,221446,8,37,7,105,2,2,7940,3,3,2,Male,Self-employed,Married,Manitoba,Mortgage,Email,Referral
+Lead_892,55,911223,6,24,6,83,5,3,4306,2,3,2,Male,Full-time,Married,Manitoba,Credit Card,Website,Online Ad
+Lead_893,60,951312,5,28,8,100,1,1,9657,3,3,1,Male,Part-time,Single,British Columbia,Credit Card,Call,Partnership
+Lead_894,65,794854,6,39,6,110,2,4,17518,4,3,3,Male,Student,Married,Alberta,Credit Card,Email,Partnership
+Lead_895,61,502596,8,18,6,112,4,1,9133,3,3,2,Female,Student,Single,Ontario,Investment,Website,Referral
+Lead_896,55,609956,8,20,7,103,1,2,14199,3,3,2,Female,Part-time,Married,Ontario,Chequing Account,Email,Branch Walk-in
+Lead_897,60,422836,5,22,7,94,6,1,13546,2,3,3,Female,Part-time,Widowed,Quebec,Credit Card,Email,Social Media
+Lead_898,63,515263,4,35,7,91,2,3,7675,4,3,2,Male,Part-time,Married,Manitoba,Investment,Branch,Social Media
+Lead_899,54,507963,7,33,6,80,1,1,16042,3,3,3,Female,Full-time,Single,British Columbia,Mortgage,Email,Partnership
+Lead_900,61,350828,9,19,7,114,2,3,12113,4,3,2,Female,Unknown,Married,Quebec,Investment,Email,Branch Walk-in
+Lead_901,53,450404,8,35,7,91,1,2,12917,3,3,2,Male,Part-time,Married,Manitoba,Credit Card,Call,Referral
+Lead_902,62,446793,6,20,7,107,1,3,4520,4,3,3,Female,Full-time,Married,Ontario,Credit Card,Email,Partnership
+Lead_903,60,914383,11,40,7,98,5,3,6031,3,3,1,Male,Student,Single,Ontario,Chequing Account,Email,Social Media
+Lead_904,52,564832,9,28,7,107,1,1,15071,4,3,2,Male,Full-time,Divorced,Quebec,Credit Card,Website,Referral
+Lead_905,68,1116416,5,38,8,103,4,4,8597,4,3,3,Female,Unemployed,Married,British Columbia,Credit Card,Call,Partnership
+Lead_906,61,201956,10,23,7,109,6,3,12981,3,3,3,Female,Unemployed,Married,Alberta,Mortgage,Website,Online Ad
+Lead_907,56,702105,7,19,8,113,4,2,7316,3,3,2,Male,Full-time,Divorced,Quebec,Credit Card,Call,Online Ad
+Lead_908,67,884489,6,40,6,82,3,1,7534,4,3,1,Male,Self-employed,Single,Nova Scotia,Investment,Call,Referral
+Lead_909,56,371876,8,19,8,115,1,4,16599,3,3,2,Male,Full-time,Single,Manitoba,Investment,Website,Online Ad
+Lead_910,54,803050,11,31,6,111,4,1,9894,2,3,2,Female,Self-employed,Married,Alberta,Credit Card,Email,Online Ad
+Lead_911,68,613955,10,38,8,118,5,3,12786,2,3,2,Female,Part-time,Single,Manitoba,Chequing Account,Email,Referral
+Lead_912,63,957449,4,20,7,86,3,2,7418,2,3,3,Other,Unemployed,Single,Manitoba,Credit Card,Call,Partnership
+Lead_913,67,178171,4,19,6,112,4,4,6778,4,3,3,Female,Part-time,Single,Quebec,Credit Card,Email,Referral
+Lead_914,56,842531,8,27,8,99,4,4,8096,3,3,3,Male,Full-time,Married,Quebec,Credit Card,Call,Partnership
+Lead_915,67,1118714,9,39,7,108,5,4,13985,3,3,3,Female,Part-time,Married,Quebec,Chequing Account,Email,Partnership
+Lead_916,68,678227,4,18,8,79,1,3,10466,3,3,2,Male,Student,Single,Ontario,Mortgage,Website,Partnership
+Lead_917,59,958432,8,27,6,95,4,4,8528,2,3,1,Female,Full-time,Married,Alberta,Credit Card,Call,Social Media
+Lead_918,52,656010,7,28,7,114,2,2,17311,2,3,2,Female,Student,Single,Quebec,Mortgage,Website,Partnership
+Lead_919,54,153002,12,18,7,100,6,2,6362,4,3,3,Male,Student,Divorced,British Columbia,Credit Card,Email,Branch Walk-in
+Lead_920,61,780076,5,24,8,115,2,2,5952,3,3,3,Male,Full-time,Single,Quebec,Investment,Email,Online Ad
+Lead_921,64,399630,8,41,6,81,6,3,15297,3,3,1,Male,Student,Divorced,Ontario,Chequing Account,Call,Online Ad
+Lead_922,65,217626,9,34,6,83,4,3,9859,3,3,2,Male,Part-time,Single,Manitoba,Chequing Account,Call,Online Ad
+Lead_923,64,421390,5,35,7,84,2,2,15793,4,3,3,Male,Self-employed,Married,Alberta,Chequing Account,Website,Branch Walk-in
+Lead_924,67,816894,5,32,6,83,5,1,14755,4,3,1,Male,Full-time,Divorced,British Columbia,Chequing Account,Call,Partnership
+Lead_925,55,140833,12,38,7,108,3,2,15009,3,3,1,Female,Full-time,Widowed,British Columbia,Chequing Account,Email,Branch Walk-in
+Lead_926,53,535236,10,31,7,88,3,4,5516,4,3,2,Male,Full-time,Divorced,Ontario,Investment,Website,Social Media
+Lead_927,67,1139916,12,23,6,94,5,3,5876,4,3,2,Female,Student,Married,Quebec,Credit Card,Email,Referral
+Lead_928,55,550552,5,22,8,81,5,2,16354,3,3,2,Female,Self-employed,Single,Ontario,Chequing Account,Call,Branch Walk-in
+Lead_929,67,1031422,11,32,8,96,2,1,14268,4,3,1,Female,Student,Married,Ontario,Chequing Account,Branch,Referral
+Lead_930,56,425471,10,36,7,102,2,4,17242,2,3,3,Male,Student,Married,Alberta,Chequing Account,Email,Social Media
+Lead_931,68,441500,8,20,8,104,6,1,14142,2,3,2,Male,Student,Single,Nova Scotia,Credit Card,Website,Partnership
+Lead_932,63,664348,10,43,6,104,3,1,13660,4,3,2,Male,Part-time,Married,Ontario,Credit Card,Call,Branch Walk-in
+Lead_933,63,567610,10,29,8,96,5,3,12062,2,3,2,Male,Student,Single,Ontario,Chequing Account,Website,Online Ad
+Lead_934,66,663573,8,32,7,99,1,1,9844,3,3,2,Other,Student,Single,Ontario,Mortgage,Call,Online Ad
+Lead_935,65,117386,8,44,8,107,2,2,12142,4,3,2,Male,Self-employed,Married,Ontario,Investment,Branch,Referral
+Lead_936,52,726465,9,34,6,82,5,2,10350,3,3,2,Female,Full-time,Single,Manitoba,Investment,Website,Online Ad
+Lead_937,66,623876,7,26,8,99,3,4,6791,3,3,3,Female,Full-time,Married,Alberta,Chequing Account,Call,Social Media
+Lead_938,65,345325,8,40,8,105,2,4,5483,3,3,3,Female,Part-time,Divorced,Ontario,Credit Card,Email,Social Media
+Lead_939,53,752986,4,27,7,98,5,3,11832,3,3,3,Female,Full-time,Single,Alberta,Mortgage,Call,Branch Walk-in
+Lead_940,55,442167,11,33,6,96,3,1,7648,3,3,2,Female,Full-time,Married,Manitoba,Chequing Account,Call,Social Media
+Lead_941,66,784976,8,21,6,87,3,2,13480,2,3,2,Male,Full-time,Married,Ontario,Mortgage,Email,Online Ad
+Lead_942,59,1123706,12,39,6,110,5,2,9360,2,3,2,Female,Part-time,Single,Alberta,Credit Card,Email,Online Ad
+Lead_943,57,135228,10,21,8,111,6,3,17295,4,3,3,Male,Full-time,Married,Quebec,Chequing Account,Email,Referral
+Lead_944,55,769759,8,37,7,95,1,2,6315,3,3,3,Female,Part-time,Married,Quebec,Investment,Website,Branch Walk-in
+Lead_945,54,1108711,9,31,8,79,2,3,4452,4,3,3,Male,Full-time,Single,Ontario,Chequing Account,Website,Online Ad
+Lead_946,52,221858,8,30,6,95,3,1,13548,3,3,2,Male,Student,Married,British Columbia,Investment,Website,Partnership
+Lead_947,56,994820,8,28,8,80,6,2,10314,3,3,2,Female,Self-employed,Married,Ontario,Credit Card,Email,Referral
+Lead_948,54,985174,6,29,6,95,2,3,15921,3,3,2,Female,Unemployed,Married,Nova Scotia,Chequing Account,Email,Online Ad
+Lead_949,63,812060,7,23,7,110,3,1,7052,3,3,2,Male,Self-employed,Single,Ontario,Investment,Website,Partnership
+Lead_950,60,1118454,11,35,8,94,3,3,9215,3,3,2,Female,Full-time,Single,British Columbia,Chequing Account,Website,Branch Walk-in
+Lead_951,55,651318,6,28,6,114,3,2,7239,3,3,2,Female,Student,Single,Manitoba,Mortgage,Branch,Referral
+Lead_952,57,1116749,10,24,7,88,3,4,10808,3,3,2,Male,Self-employed,Married,Ontario,Chequing Account,Email,Online Ad
+Lead_953,64,1026648,5,32,8,112,2,1,10291,3,3,1,Female,Self-employed,Single,Ontario,Investment,Email,Online Ad
+Lead_954,61,616053,7,24,7,109,5,2,17096,3,3,2,Male,Part-time,Married,Quebec,Mortgage,Call,Social Media
+Lead_955,58,708157,5,20,7,117,3,2,11692,4,3,2,Male,Self-employed,Single,Ontario,Credit Card,Email,Online Ad
+Lead_956,56,764219,5,40,7,114,5,3,6308,4,3,2,Female,Unknown,Single,Ontario,Mortgage,Call,Social Media
+Lead_957,67,513032,9,23,7,112,2,2,10335,3,3,3,Male,Unemployed,Married,Manitoba,Chequing Account,Email,Referral
+Lead_958,63,1141017,7,31,6,100,1,2,14881,3,3,3,Female,Part-time,Married,Alberta,Credit Card,Call,Online Ad
+Lead_959,55,550351,8,39,7,107,3,4,14127,4,3,2,Male,Student,Married,Quebec,Chequing Account,Email,Partnership
+Lead_960,58,271755,10,29,7,109,2,2,8755,3,3,3,Female,Part-time,Single,Alberta,Credit Card,Email,Partnership
+Lead_961,58,946232,4,41,6,82,2,4,11587,4,3,2,Male,Full-time,Married,British Columbia,Chequing Account,Call,Partnership
+Lead_962,68,584024,11,40,7,116,6,2,8483,2,3,2,Male,Full-time,Married,Quebec,Credit Card,Website,Online Ad
+Lead_963,67,971133,5,27,7,116,1,3,9643,4,3,1,Male,Full-time,Married,Ontario,Chequing Account,Branch,Online Ad
+Lead_964,53,637217,12,42,6,116,2,2,10965,3,3,2,Female,Full-time,Single,Alberta,Investment,Email,Partnership
+Lead_965,53,467532,7,31,6,107,2,4,14342,2,3,2,Male,Self-employed,Single,Ontario,Investment,Call,Online Ad
+Lead_966,61,1053722,8,26,6,103,5,2,15549,4,3,2,Male,Full-time,Single,Ontario,Chequing Account,Email,Referral
+Lead_967,54,215300,5,43,8,93,2,3,14318,2,3,2,Male,Self-employed,Single,Alberta,Chequing Account,Email,Partnership
+Lead_968,67,847294,9,35,8,92,1,2,9400,4,3,3,Female,Part-time,Married,Quebec,Mortgage,Call,Online Ad
+Lead_969,59,935884,4,35,7,86,3,2,6660,4,3,3,Male,Full-time,Single,British Columbia,Credit Card,Branch,Branch Walk-in
+Lead_970,64,808344,6,30,8,87,4,4,17017,4,3,1,Male,Self-employed,Single,Ontario,Chequing Account,Email,Branch Walk-in
+Lead_971,54,1039540,11,38,6,99,3,4,16916,4,3,2,Other,Full-time,Married,Ontario,Mortgage,Call,Referral
+Lead_972,67,993156,7,34,8,84,4,2,10472,4,3,2,Female,Unemployed,Married,Ontario,Credit Card,Website,Referral
+Lead_973,53,448258,9,22,7,90,3,1,16100,4,3,3,Female,Full-time,Single,Ontario,Mortgage,Email,Branch Walk-in
+Lead_974,54,1039307,8,18,6,93,4,3,16856,3,3,2,Male,Full-time,Widowed,Quebec,Chequing Account,Email,Branch Walk-in
+Lead_975,58,133795,9,34,6,115,3,3,7569,3,3,2,Female,Self-employed,Married,Ontario,Investment,Call,Referral
+Lead_976,65,892923,9,32,6,82,1,2,13691,4,3,2,Male,Full-time,Single,Alberta,Mortgage,Branch,Referral
+Lead_977,65,637844,11,32,8,89,6,4,6334,2,3,2,Female,Unemployed,Married,Ontario,Credit Card,Call,Social Media
+Lead_978,64,194547,12,37,6,117,2,1,10901,3,3,2,Female,Unemployed,Single,Alberta,Credit Card,Email,Branch Walk-in
+Lead_979,61,1067452,8,43,8,96,5,3,10172,3,3,2,Female,Student,Single,British Columbia,Credit Card,Call,Branch Walk-in
+Lead_980,59,442113,5,36,6,114,5,3,13995,4,3,1,Female,Full-time,Single,Ontario,Chequing Account,Email,Branch Walk-in
+Lead_981,55,201274,7,30,8,98,3,1,15223,4,3,2,Male,Full-time,Single,Ontario,Mortgage,Email,Referral
+Lead_982,60,681641,11,34,8,110,4,3,5359,4,3,2,Female,Self-employed,Single,Ontario,Chequing Account,Email,Referral
+Lead_983,61,531473,11,38,8,87,3,3,10259,2,3,3,Male,Full-time,Married,Ontario,Credit Card,Website,Online Ad
+Lead_984,67,1008654,6,22,7,97,6,1,16352,3,3,2,Female,Full-time,Married,Alberta,Credit Card,Branch,Social Media
+Lead_985,67,817518,8,23,6,116,4,1,7653,4,3,2,Male,Full-time,Married,British Columbia,Credit Card,Email,Online Ad
+Lead_986,68,413549,4,33,6,100,1,4,7082,3,3,1,Female,Part-time,Single,British Columbia,Credit Card,Email,Online Ad
+Lead_987,65,1094681,11,35,8,83,3,3,11727,3,3,2,Male,Part-time,Married,British Columbia,Investment,Website,Partnership
+Lead_988,68,633136,6,28,8,110,5,3,5070,4,3,2,Female,Self-employed,Married,British Columbia,Mortgage,Branch,Partnership
+Lead_989,66,141599,4,43,8,80,3,3,7196,3,3,2,Female,Student,Widowed,Ontario,Chequing Account,Branch,Online Ad
+Lead_990,62,340968,12,18,8,104,2,1,7071,3,3,1,Other,Full-time,Married,Unknown,Credit Card,Branch,Online Ad
+Lead_991,62,368243,8,30,6,93,4,2,15713,3,3,3,Male,Full-time,Single,Quebec,Mortgage,Call,Branch Walk-in
+Lead_992,66,1014386,7,36,7,79,3,3,4423,4,3,3,Other,Part-time,Single,Quebec,Investment,Branch,Partnership
+Lead_993,68,1193804,5,23,7,104,2,3,16285,4,3,2,Male,Full-time,Single,British Columbia,Mortgage,Email,Online Ad
+Lead_994,60,1017062,8,42,8,83,1,1,9732,3,3,3,Female,Student,Married,British Columbia,Chequing Account,Call,Partnership
+Lead_995,60,580183,12,20,8,86,4,2,16709,4,3,2,Female,Full-time,Married,Ontario,Mortgage,Email,Branch Walk-in
+Lead_996,52,352614,7,27,7,85,2,1,5457,4,3,2,Male,Self-employed,Married,Quebec,Investment,Email,Partnership
+Lead_997,60,247289,10,27,7,116,1,2,6790,2,3,2,Male,Full-time,Married,Nova Scotia,Credit Card,Email,Branch Walk-in
+Lead_998,64,866518,12,20,8,114,3,4,15005,3,3,2,Female,Full-time,Married,Quebec,Mortgage,Website,Branch Walk-in
+Lead_999,57,137852,8,36,8,118,4,4,4886,3,3,2,Female,Full-time,Married,Alberta,Investment,Email,Referral

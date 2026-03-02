@@ -10,6 +10,9 @@ venv/
 env/
 .venv/
 
+# Ignore models (large .pkl files)
+models/*.pkl
+
 # VS Code
 .vscode/
 

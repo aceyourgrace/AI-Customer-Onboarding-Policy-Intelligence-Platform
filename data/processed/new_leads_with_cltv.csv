@@ -1,0 +1,1000 @@
+LeadID,Age,Gender,Province,EmploymentStatus,MaritalStatus,InitialProductInterest,LeadSource,FirstContactChannel,Predicted_CLTV,CLTV_Score_Normalized,Lead_Priority
+Lead_001,28,Male,Ontario,Full-time,Single,Chequing Account,Referral,Email,433.5750239159815,0.024938943549398622,Very Low Priority
+Lead_002,27,Male,Ontario,Full-time,Single,Chequing Account,Social Media,Email,277.62667477778996,0.01596889947109185,Very Low Priority
+Lead_003,34,Male,Unknown,Part-time,Married,Mortgage,Social Media,Website,103.28099499948894,0.005940653317053385,Very Low Priority
+Lead_004,28,Male,Ontario,Part-time,Single,Chequing Account,Referral,Email,69.52914825232446,0.003999269809504756,Very Low Priority
+Lead_005,33,Other,Quebec,Part-time,Single,Mortgage,Online Ad,Branch,536.9091269713294,0.03088265160607959,Very Low Priority
+Lead_006,21,Female,Ontario,Full-time,Single,Chequing Account,Referral,Email,317.2152696384824,0.018246008801591804,Very Low Priority
+Lead_007,22,Male,Ontario,Student,Single,Investment,Referral,Email,376.2102675116954,0.021639361371508414,Very Low Priority
+Lead_008,19,Female,Alberta,Self-employed,Married,Investment,Social Media,Website,482.7482274235303,0.02776735311815526,Very Low Priority
+Lead_009,27,Female,Ontario,Full-time,Married,Credit Card,Referral,Email,378.0996297728515,0.021748036217097456,Very Low Priority
+Lead_010,21,Male,Ontario,Unemployed,Single,Credit Card,Online Ad,Website,594.0334566656481,0.03416840460143643,Very Low Priority
+Lead_011,30,Male,Manitoba,Full-time,Single,Investment,Branch Walk-in,Email,109.92494029337334,0.006322808578518777,Very Low Priority
+Lead_012,30,Male,Alberta,Unemployed,Married,Chequing Account,Referral,Website,602.2311764877801,0.03463993192796793,Very Low Priority
+Lead_013,27,Male,Quebec,Full-time,Single,Credit Card,Online Ad,Email,378.9793318439191,0.021798636088124382,Very Low Priority
+Lead_014,28,Male,Ontario,Full-time,Divorced,Chequing Account,Online Ad,Website,140.12160607100867,0.008059700469584983,Very Low Priority
+Lead_015,22,Male,Alberta,Part-time,Married,Chequing Account,Referral,Email,546.3275183837765,0.03142439114088885,Very Low Priority
+Lead_016,30,Male,British Columbia,Self-employed,Married,Chequing Account,Branch Walk-in,Email,362.3737968363915,0.02084349689117529,Very Low Priority
+Lead_017,30,Female,Ontario,Part-time,Married,Credit Card,Social Media,Email,384.45965891151803,0.022113860812410107,Very Low Priority
+Lead_018,28,Male,Alberta,Unemployed,Single,Investment,Online Ad,Call,254.83924952920586,0.014658182108320735,Very Low Priority
+Lead_019,33,Female,Quebec,Part-time,Single,Mortgage,Online Ad,Email,227.52948072437778,0.013087342588047272,Very Low Priority
+Lead_020,24,Male,Ontario,Full-time,Single,Chequing Account,Branch Walk-in,Branch,529.3576748081653,0.03044829716030868,Very Low Priority
+Lead_021,28,Female,Ontario,Self-employed,Single,Chequing Account,Referral,Website,282.82909554581295,0.016268139212076302,Very Low Priority
+Lead_022,32,Female,Quebec,Part-time,Single,Investment,Referral,Call,549.9530165769143,0.03163292735674484,Very Low Priority
+Lead_023,25,Male,Alberta,Part-time,Divorced,Credit Card,Online Ad,Call,597.6487772206208,0.03437635540639542,Very Low Priority
+Lead_024,27,Male,Ontario,Full-time,Married,Mortgage,Online Ad,Call,140.12160607100867,0.008059700469584983,Very Low Priority
+Lead_025,30,Male,Nova Scotia,Full-time,Widowed,Chequing Account,Partnership,Website,491.75048471787653,0.028285156898578665,Very Low Priority
+Lead_026,29,Female,Ontario,Full-time,Single,Mortgage,Social Media,Website,0.0,0.0,Very Low Priority
+Lead_027,20,Female,Quebec,Full-time,Married,Credit Card,Branch Walk-in,Email,486.375905775843,0.027976014735299596,Very Low Priority
+Lead_028,32,Male,Ontario,Full-time,Married,Investment,Online Ad,Email,184.99253076810044,0.010640645856898012,Very Low Priority
+Lead_029,18,Male,Nova Scotia,Full-time,Single,Investment,Branch Walk-in,Email,376.2102675116954,0.021639361371508414,Very Low Priority
+Lead_030,26,Male,Quebec,Full-time,Married,Chequing Account,Referral,Call,145.61454311080615,0.008375650510984177,Very Low Priority
+Lead_031,26,Female,Ontario,Self-employed,Married,Investment,Online Ad,Email,169.71382444273328,0.009761824952698492,Very Low Priority
+Lead_032,21,Male,Alberta,Student,Married,Chequing Account,Social Media,Branch,122.82212828430369,0.007064646151049528,Very Low Priority
+Lead_033,18,Female,Ontario,Student,Married,Mortgage,Branch Walk-in,Call,465.9655269026716,0.026802023480124122,Very Low Priority
+Lead_034,23,Male,Ontario,Part-time,Married,Credit Card,Referral,Call,221.0502067450693,0.012714659109761,Very Low Priority
+Lead_035,23,Female,Quebec,Unknown,Single,Chequing Account,Social Media,Website,140.51919638975588,0.008082569597113292,Very Low Priority
+Lead_036,22,Female,Ontario,Full-time,Married,Credit Card,Social Media,Website,377.19173102435246,0.021695814492163012,Very Low Priority
+Lead_037,34,Male,Ontario,Part-time,Single,Chequing Account,Branch Walk-in,Website,609.1131813424591,0.035035780215139534,Very Low Priority
+Lead_038,34,Female,Nova Scotia,Unemployed,Single,Mortgage,Social Media,Call,362.3737968363915,0.02084349689117529,Very Low Priority
+Lead_039,20,Female,Quebec,Unemployed,Married,Mortgage,Referral,Email,221.64012934006539,0.012748591060366101,Very Low Priority
+Lead_040,19,Female,Ontario,Full-time,Single,Mortgage,Social Media,Email,184.99253076810044,0.010640645856898012,Very Low Priority
+Lead_041,27,Female,Nova Scotia,Student,Widowed,Credit Card,Partnership,Website,437.7916831002403,0.025181482947571294,Very Low Priority
+Lead_042,31,Female,Alberta,Full-time,Single,Mortgage,Online Ad,Branch,488.96266771115313,0.02812480354074733,Very Low Priority
+Lead_043,18,Female,Quebec,Full-time,Single,Credit Card,Referral,Email,496.79538066595757,0.028575335917945248,Very Low Priority
+Lead_044,30,Female,Ontario,Student,Divorced,Mortgage,Social Media,Website,184.99253076810044,0.010640645856898012,Very Low Priority
+Lead_045,21,Male,British Columbia,Unemployed,Divorced,Mortgage,Online Ad,Website,103.28099499948894,0.005940653317053385,Very Low Priority
+Lead_046,19,Male,Nova Scotia,Full-time,Married,Credit Card,Referral,Email,29.699383229089264,0.0017082885335796953,Very Low Priority
+Lead_047,32,Male,Manitoba,Unemployed,Divorced,Chequing Account,Online Ad,Branch,103.28099499948894,0.005940653317053385,Very Low Priority
+Lead_048,24,Male,British Columbia,Full-time,Married,Mortgage,Social Media,Email,227.52948072437778,0.013087342588047272,Very Low Priority
+Lead_049,19,Female,Ontario,Full-time,Married,Chequing Account,Online Ad,Website,408.19561905309104,0.023479137263795767,Very Low Priority
+Lead_050,21,Female,British Columbia,Part-time,Single,Mortgage,Online Ad,Website,69.74927428438419,0.0040119313107086505,Very Low Priority
+Lead_051,33,Female,British Columbia,Unemployed,Married,Chequing Account,Social Media,Email,0.0,0.0,Very Low Priority
+Lead_052,33,Male,British Columbia,Full-time,Single,Investment,Online Ad,Email,549.9530165769143,0.03163292735674484,Very Low Priority
+Lead_053,30,Male,Quebec,Part-time,Single,Chequing Account,Branch Walk-in,Website,532.5424078361636,0.03063148086053157,Very Low Priority
+Lead_054,25,Male,Unknown,Self-employed,Single,Chequing Account,Referral,Branch,435.2840459761043,0.025037245348005777,Very Low Priority
+Lead_055,29,Male,Quebec,Student,Married,Chequing Account,Referral,Website,290.6014552083651,0.016715200108525844,Very Low Priority
+Lead_056,33,Other,British Columbia,Full-time,Married,Credit Card,Partnership,Website,277.62667477778996,0.01596889947109185,Very Low Priority
+Lead_057,28,Female,Alberta,Unemployed,Widowed,Credit Card,Branch Walk-in,Website,139.8717834311755,0.008045330839489849,Very Low Priority
+Lead_058,26,Male,British Columbia,Student,Married,Chequing Account,Online Ad,Call,103.28099499948894,0.005940653317053385,Very Low Priority
+Lead_059,21,Female,Ontario,Student,Divorced,Credit Card,Social Media,Email,465.9655269026716,0.026802023480124122,Very Low Priority
+Lead_060,21,Female,British Columbia,Full-time,Married,Chequing Account,Social Media,Email,399.46476105720245,0.02297694418834898,Very Low Priority
+Lead_061,23,Male,Quebec,Part-time,Single,Mortgage,Partnership,Email,377.55223078818034,0.021716550195936893,Very Low Priority
+Lead_062,31,Female,Quebec,Full-time,Married,Credit Card,Partnership,Website,140.12160607100867,0.008059700469584983,Very Low Priority
+Lead_063,19,Female,Ontario,Full-time,Married,Mortgage,Social Media,Website,132.8269002469983,0.007640113900433996,Very Low Priority
+Lead_064,29,Male,Ontario,Full-time,Divorced,Investment,Referral,Website,537.8521940442088,0.030936896189361657,Very Low Priority
+Lead_065,31,Female,Quebec,Student,Single,Credit Card,Online Ad,Email,433.0488968571121,0.02490868107509268,Very Low Priority
+Lead_066,29,Female,British Columbia,Unemployed,Married,Credit Card,Online Ad,Call,103.41397636350628,0.005948302315605924,Very Low Priority
+Lead_067,32,Male,British Columbia,Full-time,Divorced,Credit Card,Partnership,Email,541.1877156631404,0.031128753147843777,Very Low Priority
+Lead_068,29,Female,Nova Scotia,Self-employed,Widowed,Chequing Account,Branch Walk-in,Website,263.84740564025054,0.015176325184710317,Very Low Priority
+Lead_069,25,Female,Manitoba,Part-time,Married,Credit Card,Referral,Website,551.3452236391391,0.0317130061699115,Very Low Priority
+Lead_070,22,Male,Nova Scotia,Part-time,Married,Chequing Account,Online Ad,Email,488.60306481535883,0.028104119424219087,Very Low Priority
+Lead_071,27,Male,Quebec,Full-time,Married,Credit Card,Referral,Call,451.84229867354804,0.025989664898303136,Very Low Priority
+Lead_072,27,Male,Quebec,Part-time,Married,Mortgage,Social Media,Website,23.70530941642335,0.0013635134423051313,Very Low Priority
+Lead_073,23,Male,Ontario,Full-time,Married,Chequing Account,Social Media,Branch,542.1665106489203,0.03118505277662851,Very Low Priority
+Lead_074,22,Female,Ontario,Student,Married,Chequing Account,Online Ad,Email,485.2105191088826,0.027908982478602587,Very Low Priority
+Lead_075,21,Female,Ontario,Self-employed,Single,Investment,Referral,Website,315.9750859123947,0.018174674268397438,Very Low Priority
+Lead_076,31,Female,Ontario,Full-time,Single,Investment,Partnership,Email,299.6030399401316,0.017232965203602346,Very Low Priority
+Lead_077,33,Other,Manitoba,Unemployed,Married,Credit Card,Online Ad,Email,214.6688769879371,0.012347609317211012,Very Low Priority
+Lead_078,33,Male,Quebec,Student,Single,Investment,Branch Walk-in,Website,536.3392779584152,0.03084987427440492,Very Low Priority
+Lead_079,24,Other,Unknown,Full-time,Divorced,Chequing Account,Social Media,Email,377.19173102435246,0.021695814492163012,Very Low Priority
+Lead_080,28,Male,Ontario,Self-employed,Married,Investment,Online Ad,Call,282.82909554581295,0.016268139212076302,Very Low Priority
+Lead_081,24,Female,Quebec,Self-employed,Married,Investment,Branch Walk-in,Email,220.78931418183183,0.012699652745122483,Very Low Priority
+Lead_082,22,Female,Ontario,Part-time,Single,Investment,Online Ad,Branch,221.64012934006539,0.012748591060366101,Very Low Priority
+Lead_083,20,Male,Ontario,Unemployed,Single,Chequing Account,Branch Walk-in,Website,432.15417661830884,0.02485721736916588,Very Low Priority
+Lead_084,21,Female,Ontario,Student,Married,Credit Card,Branch Walk-in,Website,601.8495629888166,0.034617981776360066,Very Low Priority
+Lead_085,28,Female,Alberta,Part-time,Married,Credit Card,Online Ad,Call,414.2772154662187,0.023828946596140075,Very Low Priority
+Lead_086,23,Female,Quebec,Student,Single,Credit Card,Branch Walk-in,Email,468.37800106643425,0.026940787370260278,Very Low Priority
+Lead_087,28,Male,Alberta,Unemployed,Single,Chequing Account,Referral,Call,103.28099499948894,0.005940653317053385,Very Low Priority
+Lead_088,24,Male,Ontario,Self-employed,Married,Mortgage,Online Ad,Call,317.2152696384824,0.018246008801591804,Very Low Priority
+Lead_089,26,Male,Manitoba,Full-time,Divorced,Chequing Account,Partnership,Email,536.9091269713294,0.03088265160607959,Very Low Priority
+Lead_090,30,Female,British Columbia,Student,Married,Chequing Account,Partnership,Branch,183.47984799015558,0.010553637361651698,Very Low Priority
+Lead_091,22,Male,Ontario,Unknown,Single,Investment,Partnership,Email,617.4112170672937,0.03551307764487489,Very Low Priority
+Lead_092,28,Female,British Columbia,Full-time,Divorced,Chequing Account,Referral,Website,399.46476105720245,0.02297694418834898,Very Low Priority
+Lead_093,20,Female,Alberta,Part-time,Single,Chequing Account,Referral,Website,103.28099499948894,0.005940653317053385,Very Low Priority
+Lead_094,27,Male,Ontario,Part-time,Single,Chequing Account,Branch Walk-in,Branch,265.52968674796256,0.015273088861733328,Very Low Priority
+Lead_095,18,Male,Quebec,Self-employed,Single,Credit Card,Branch Walk-in,Email,140.12160607100867,0.008059700469584983,Very Low Priority
+Lead_096,27,Female,British Columbia,Part-time,Married,Credit Card,Online Ad,Email,103.28099499948894,0.005940653317053385,Very Low Priority
+Lead_097,34,Female,Ontario,Full-time,Married,Chequing Account,Social Media,Email,534.4300670993551,0.030740057750823925,Very Low Priority
+Lead_098,32,Female,British Columbia,Full-time,Married,Chequing Account,Social Media,Email,140.12160607100867,0.008059700469584983,Very Low Priority
+Lead_099,32,Female,Quebec,Unemployed,Married,Credit Card,Partnership,Website,433.0488968571121,0.02490868107509268,Very Low Priority
+Lead_100,18,Female,Manitoba,Full-time,Single,Investment,Online Ad,Website,184.99253076810044,0.010640645856898012,Very Low Priority
+Lead_101,26,Female,Ontario,Part-time,Single,Investment,Online Ad,Email,195.9606572803574,0.011271525111568466,Very Low Priority
+Lead_102,20,Male,Manitoba,Part-time,Divorced,Credit Card,Online Ad,Email,317.2152696384824,0.018246008801591804,Very Low Priority
+Lead_103,19,Male,British Columbia,Part-time,Married,Chequing Account,Branch Walk-in,Call,487.89860745450557,0.028063599510971773,Very Low Priority
+Lead_104,19,Male,Alberta,Full-time,Married,Chequing Account,Social Media,Email,223.74944824684067,0.01286991766416499,Very Low Priority
+Lead_105,21,Male,British Columbia,Self-employed,Single,Mortgage,Partnership,Branch,318.15870879576363,0.01830027478691823,Very Low Priority
+Lead_106,34,Female,Nova Scotia,Student,Single,Investment,Online Ad,Website,69.52914825232446,0.003999269809504756,Very Low Priority
+Lead_107,25,Other,British Columbia,Self-employed,Married,Mortgage,Online Ad,Email,347.61870337458765,0.019994793846459937,Very Low Priority
+Lead_108,26,Female,Ontario,Full-time,Married,Chequing Account,Social Media,Website,525.4818082049231,0.0302253599220189,Very Low Priority
+Lead_109,31,Male,British Columbia,Full-time,Single,Investment,Online Ad,Branch,377.38333705427283,0.0217068355420398,Very Low Priority
+Lead_110,22,Female,Unknown,Full-time,Married,Chequing Account,Online Ad,Call,329.12795067992977,0.018931218197030177,Very Low Priority
+Lead_111,21,Male,Ontario,Part-time,Married,Credit Card,Referral,Call,316.8014631889794,0.018222206933137013,Very Low Priority
+Lead_112,18,Male,Ontario,Full-time,Single,Mortgage,Online Ad,Website,103.28099499948894,0.005940653317053385,Very Low Priority
+Lead_113,30,Male,British Columbia,Full-time,Single,Mortgage,Referral,Call,414.2772154662187,0.023828946596140075,Very Low Priority
+Lead_114,18,Male,Quebec,Full-time,Single,Chequing Account,Online Ad,Website,263.84740564025054,0.015176325184710317,Very Low Priority
+Lead_115,32,Female,Quebec,Full-time,Single,Chequing Account,Referral,Website,299.6030399401316,0.017232965203602346,Very Low Priority
+Lead_116,32,Male,British Columbia,Part-time,Single,Chequing Account,Branch Walk-in,Email,383.4771076028174,0.022057345122459243,Very Low Priority
+Lead_117,19,Female,Alberta,Full-time,Single,Credit Card,Partnership,Email,34.110829671531114,0.001962031963737637,Very Low Priority
+Lead_118,29,Female,Ontario,Student,Married,Credit Card,Partnership,Email,514.2780993810684,0.029580930131348677,Very Low Priority
+Lead_119,25,Male,Ontario,Part-time,Single,Chequing Account,Partnership,Email,498.07762057448144,0.0286490894944466,Very Low Priority
+Lead_120,30,Female,Quebec,Student,Single,Mortgage,Branch Walk-in,Website,169.71382444273328,0.009761824952698492,Very Low Priority
+Lead_121,27,Male,Quebec,Student,Married,Investment,Social Media,Email,317.0050613556264,0.018233917762646774,Very Low Priority
+Lead_122,28,Female,British Columbia,Unemployed,Divorced,Credit Card,Branch Walk-in,Email,274.7344929458305,0.015802543118757752,Very Low Priority
+Lead_123,31,Female,Alberta,Self-employed,Single,Chequing Account,Online Ad,Website,374.8276790111855,0.02155983581153763,Very Low Priority
+Lead_124,22,Female,Quebec,Full-time,Married,Credit Card,Referral,Email,221.0502067450693,0.012714659109761,Very Low Priority
+Lead_125,25,Female,Quebec,Full-time,Married,Credit Card,Referral,Email,0.0,0.0,Very Low Priority
+Lead_126,31,Male,Alberta,Full-time,Married,Credit Card,Online Ad,Branch,324.28898453633315,0.018652884121412406,Very Low Priority
+Lead_127,21,Male,Alberta,Unemployed,Married,Credit Card,Social Media,Website,509.00517638852705,0.029277635149862848,Very Low Priority
+Lead_128,31,Male,Ontario,Student,Single,Credit Card,Branch Walk-in,Email,408.19561905309104,0.023479137263795767,Very Low Priority
+Lead_129,27,Female,British Columbia,Full-time,Married,Chequing Account,Online Ad,Website,243.5274782475034,0.014007536637808687,Very Low Priority
+Lead_130,24,Female,Quebec,Part-time,Married,Credit Card,Online Ad,Branch,301.86631532879585,0.01736314728061603,Very Low Priority
+Lead_131,26,Male,Manitoba,Full-time,Single,Credit Card,Referral,Website,377.38333705427283,0.0217068355420398,Very Low Priority
+Lead_132,22,Female,Ontario,Student,Divorced,Investment,Partnership,Website,227.52948072437778,0.013087342588047272,Very Low Priority
+Lead_133,32,Female,Quebec,Self-employed,Single,Investment,Social Media,Email,393.1831137586509,0.0226156280637233,Very Low Priority
+Lead_134,26,Female,Quebec,Unemployed,Single,Investment,Online Ad,Call,169.71382444273328,0.009761824952698492,Very Low Priority
+Lead_135,27,Male,British Columbia,Part-time,Single,Investment,Online Ad,Email,317.2152696384824,0.018246008801591804,Very Low Priority
+Lead_136,21,Male,Ontario,Self-employed,Married,Mortgage,Social Media,Website,488.2628411626591,0.02808454998871006,Very Low Priority
+Lead_137,18,Male,Ontario,Full-time,Married,Credit Card,Branch Walk-in,Branch,103.28099499948894,0.005940653317053385,Very Low Priority
+Lead_138,30,Male,Ontario,Student,Single,Mortgage,Branch Walk-in,Call,103.28099499948894,0.005940653317053385,Very Low Priority
+Lead_139,32,Female,Alberta,Self-employed,Divorced,Credit Card,Referral,Email,299.6030399401316,0.017232965203602346,Very Low Priority
+Lead_140,21,Female,Quebec,Unemployed,Single,Chequing Account,Social Media,Call,338.05403276883504,0.019444640430907843,Very Low Priority
+Lead_141,30,Male,Manitoba,Student,Married,Chequing Account,Social Media,Email,265.52968674796256,0.015273088861733328,Very Low Priority
+Lead_142,21,Female,Quebec,Full-time,Married,Mortgage,Branch Walk-in,Email,441.33371371986937,0.025385218164778567,Very Low Priority
+Lead_143,26,Male,Alberta,Full-time,Married,Credit Card,Branch Walk-in,Website,493.9350423593323,0.028410811183755453,Very Low Priority
+Lead_144,32,Female,British Columbia,Student,Single,Investment,Partnership,Website,615.1567611528793,0.03538340285808393,Very Low Priority
+Lead_145,28,Female,Quebec,Unknown,Single,Mortgage,Online Ad,Email,369.9726592304881,0.02128057834151904,Very Low Priority
+Lead_146,27,Male,Ontario,Full-time,Single,Mortgage,Branch Walk-in,Email,103.28099499948894,0.005940653317053385,Very Low Priority
+Lead_147,22,Female,British Columbia,Self-employed,Single,Chequing Account,Referral,Call,589.60153547416,0.03391348347749428,Very Low Priority
+Lead_148,26,Female,Ontario,Unemployed,Single,Mortgage,Branch Walk-in,Branch,384.45965891151803,0.022113860812410107,Very Low Priority
+Lead_149,20,Male,Nova Scotia,Full-time,Married,Chequing Account,Referral,Email,303.5084563571131,0.017457602127289328,Very Low Priority
+Lead_150,20,Female,Manitoba,Full-time,Divorced,Mortgage,Referral,Email,313.1828122066455,0.01801406456423781,Very Low Priority
+Lead_151,19,Female,Quebec,Part-time,Married,Chequing Account,Social Media,Call,319.11945370874133,0.018355536187664334,Very Low Priority
+Lead_152,18,Female,Manitoba,Unemployed,Single,Credit Card,Branch Walk-in,Call,317.2152696384824,0.018246008801591804,Very Low Priority
+Lead_153,21,Female,Ontario,Part-time,Married,Investment,Branch Walk-in,Call,184.99253076810044,0.010640645856898012,Very Low Priority
+Lead_154,33,Male,Manitoba,Full-time,Single,Chequing Account,Branch Walk-in,Branch,69.52914825232446,0.003999269809504756,Very Low Priority
+Lead_155,33,Female,Quebec,Full-time,Married,Chequing Account,Social Media,Email,103.28099499948894,0.005940653317053385,Very Low Priority
+Lead_156,31,Male,Alberta,Part-time,Single,Mortgage,Social Media,Call,265.52968674796256,0.015273088861733328,Very Low Priority
+Lead_157,26,Other,Alberta,Part-time,Married,Chequing Account,Referral,Email,385.7833411779603,0.022189998125445327,Very Low Priority
+Lead_158,20,Female,Manitoba,Full-time,Married,Investment,Social Media,Website,140.12160607100867,0.008059700469584983,Very Low Priority
+Lead_159,31,Male,Quebec,Self-employed,Married,Chequing Account,Referral,Email,606.2295469980679,0.034869915508537304,Very Low Priority
+Lead_160,34,Male,Manitoba,Self-employed,Married,Credit Card,Partnership,Website,415.21620125066823,0.02388295642645865,Very Low Priority
+Lead_161,30,Female,Quebec,Full-time,Married,Mortgage,Online Ad,Call,488.96266771115313,0.02812480354074733,Very Low Priority
+Lead_162,18,Female,Quebec,Part-time,Married,Mortgage,Branch Walk-in,Website,559.1057494879334,0.03215938639335868,Very Low Priority
+Lead_163,21,Male,Manitoba,Student,Married,Mortgage,Partnership,Website,296.36258566621024,0.017046576454818253,Very Low Priority
+Lead_164,19,Male,Quebec,Unemployed,Divorced,Mortgage,Branch Walk-in,Email,546.3275183837765,0.03142439114088885,Very Low Priority
+Lead_165,18,Male,British Columbia,Part-time,Married,Credit Card,Partnership,Branch,221.0502067450693,0.012714659109761,Very Low Priority
+Lead_166,19,Female,Ontario,Part-time,Divorced,Chequing Account,Online Ad,Branch,277.62667477778996,0.01596889947109185,Very Low Priority
+Lead_167,34,Male,Ontario,Full-time,Single,Chequing Account,Branch Walk-in,Call,329.12795067992977,0.018931218197030177,Very Low Priority
+Lead_168,19,Male,Alberta,Student,Single,Mortgage,Social Media,Branch,138.04688383071618,0.007940363842756214,Very Low Priority
+Lead_169,21,Male,British Columbia,Full-time,Divorced,Credit Card,Social Media,Email,103.28099499948894,0.005940653317053385,Very Low Priority
+Lead_170,27,Female,British Columbia,Part-time,Married,Chequing Account,Branch Walk-in,Email,453.88547798029515,0.02610718719682497,Very Low Priority
+Lead_171,30,Female,Ontario,Unemployed,Married,Credit Card,Branch Walk-in,Email,432.15417661830884,0.02485721736916588,Very Low Priority
+Lead_172,31,Male,Ontario,Full-time,Single,Credit Card,Partnership,Website,285.6461793091625,0.0164301759740502,Very Low Priority
+Lead_173,27,Male,Ontario,Unemployed,Single,Chequing Account,Online Ad,Website,317.0050613556264,0.018233917762646774,Very Low Priority
+Lead_174,26,Female,Ontario,Self-employed,Single,Investment,Branch Walk-in,Branch,184.99253076810044,0.010640645856898012,Very Low Priority
+Lead_175,18,Male,Ontario,Full-time,Married,Mortgage,Branch Walk-in,Call,317.0050613556264,0.018233917762646774,Very Low Priority
+Lead_176,24,Female,British Columbia,Full-time,Single,Chequing Account,Branch Walk-in,Call,221.0502067450693,0.012714659109761,Very Low Priority
+Lead_177,33,Male,Ontario,Part-time,Single,Mortgage,Partnership,Email,44.457236434418164,0.0025571503168851126,Very Low Priority
+Lead_178,20,Male,Quebec,Part-time,Married,Chequing Account,Online Ad,Call,313.1828122066455,0.01801406456423781,Very Low Priority
+Lead_179,22,Male,British Columbia,Full-time,Married,Mortgage,Social Media,Call,595.7452873033136,0.03426686794753347,Very Low Priority
+Lead_180,33,Female,Alberta,Full-time,Married,Chequing Account,Referral,Website,443.3056775622682,0.025498644197724067,Very Low Priority
+Lead_181,25,Female,Manitoba,Full-time,Married,Credit Card,Branch Walk-in,Email,184.99253076810044,0.010640645856898012,Very Low Priority
+Lead_182,26,Female,Quebec,Full-time,Single,Chequing Account,Social Media,Branch,25.31974806459484,0.0014563748667180798,Very Low Priority
+Lead_183,32,Male,Alberta,Full-time,Married,Mortgage,Online Ad,Website,103.28099499948894,0.005940653317053385,Very Low Priority
+Lead_184,28,Male,Ontario,Unemployed,Married,Credit Card,Branch Walk-in,Email,498.63446794662633,0.028681118980495232,Very Low Priority
+Lead_185,32,Female,Quebec,Self-employed,Married,Chequing Account,Social Media,Website,536.3392779584152,0.03084987427440492,Very Low Priority
+Lead_186,19,Female,Ontario,Full-time,Single,Chequing Account,Partnership,Call,221.0502067450693,0.012714659109761,Very Low Priority
+Lead_187,21,Female,Ontario,Self-employed,Divorced,Mortgage,Online Ad,Call,395.6650442909202,0.022758387037426976,Very Low Priority
+Lead_188,20,Female,Manitoba,Student,Divorced,Investment,Partnership,Website,486.375905775843,0.027976014735299596,Very Low Priority
+Lead_189,20,Female,Unknown,Self-employed,Married,Credit Card,Online Ad,Call,377.38333705427283,0.0217068355420398,Very Low Priority
+Lead_190,27,Male,Ontario,Student,Single,Chequing Account,Referral,Branch,317.2152696384824,0.018246008801591804,Very Low Priority
+Lead_191,22,Male,Quebec,Full-time,Single,Mortgage,Branch Walk-in,Website,103.28099499948894,0.005940653317053385,Very Low Priority
+Lead_192,23,Male,British Columbia,Self-employed,Single,Mortgage,Partnership,Call,369.9726592304881,0.02128057834151904,Very Low Priority
+Lead_193,32,Male,British Columbia,Self-employed,Married,Chequing Account,Online Ad,Email,140.12160607100867,0.008059700469584983,Very Low Priority
+Lead_194,19,Female,Ontario,Student,Married,Investment,Branch Walk-in,Website,377.38333705427283,0.0217068355420398,Very Low Priority
+Lead_195,33,Female,British Columbia,Self-employed,Single,Investment,Partnership,Email,314.45292445173794,0.01808712056570135,Very Low Priority
+Lead_196,25,Female,Ontario,Student,Single,Investment,Online Ad,Email,341.4314174233007,0.01963890532301714,Very Low Priority
+Lead_197,23,Male,Ontario,Student,Single,Chequing Account,Online Ad,Website,103.28099499948894,0.005940653317053385,Very Low Priority
+Lead_198,26,Female,Quebec,Unemployed,Married,Credit Card,Social Media,Email,534.4300670993551,0.030740057750823925,Very Low Priority
+Lead_199,25,Female,Ontario,Self-employed,Married,Mortgage,Social Media,Email,44.457236434418164,0.0025571503168851126,Very Low Priority
+Lead_200,19,Male,Nova Scotia,Unknown,Single,Credit Card,Online Ad,Email,221.64012934006539,0.012748591060366101,Very Low Priority
+Lead_201,30,Female,Ontario,Student,Single,Credit Card,Online Ad,Email,0.0,0.0,Very Low Priority
+Lead_202,28,Female,Ontario,Full-time,Divorced,Mortgage,Social Media,Call,0.0,0.0,Very Low Priority
+Lead_203,34,Female,Manitoba,Unemployed,Married,Credit Card,Branch Walk-in,Call,485.2105191088826,0.027908982478602587,Very Low Priority
+Lead_204,20,Female,British Columbia,Self-employed,Single,Chequing Account,Referral,Email,541.1877156631404,0.031128753147843777,Very Low Priority
+Lead_205,27,Male,Unknown,Part-time,Divorced,Mortgage,Partnership,Call,103.28099499948894,0.005940653317053385,Very Low Priority
+Lead_206,30,Female,Ontario,Part-time,Divorced,Credit Card,Branch Walk-in,Branch,376.80599493594093,0.021673627211984885,Very Low Priority
+Lead_207,28,Male,Quebec,Full-time,Married,Chequing Account,Partnership,Website,385.7833411779603,0.022189998125445327,Very Low Priority
+Lead_208,29,Female,Alberta,Full-time,Single,Investment,Branch Walk-in,Website,487.89860745450557,0.028063599510971773,Very Low Priority
+Lead_209,23,Male,Manitoba,Part-time,Single,Mortgage,Branch Walk-in,Call,0.0,0.0,Very Low Priority
+Lead_210,22,Male,Ontario,Student,Married,Investment,Branch Walk-in,Call,103.28099499948894,0.005940653317053385,Very Low Priority
+Lead_211,34,Female,Nova Scotia,Full-time,Married,Chequing Account,Branch Walk-in,Website,549.129114296061,0.03158553705209389,Very Low Priority
+Lead_212,18,Female,Manitoba,Unemployed,Single,Credit Card,Referral,Website,263.84740564025054,0.015176325184710317,Very Low Priority
+Lead_213,22,Other,Quebec,Unknown,Single,Chequing Account,Referral,Email,139.8717834311755,0.008045330839489849,Very Low Priority
+Lead_214,21,Male,Quebec,Full-time,Married,Investment,Branch Walk-in,Website,533.4781324205355,0.030685303108816692,Very Low Priority
+Lead_215,26,Female,Manitoba,Part-time,Married,Mortgage,Social Media,Email,549.129114296061,0.03158553705209389,Very Low Priority
+Lead_216,28,Male,Manitoba,Unknown,Married,Chequing Account,Referral,Website,377.55223078818034,0.021716550195936893,Very Low Priority
+Lead_217,28,Male,Quebec,Unemployed,Widowed,Chequing Account,Online Ad,Website,577.2007483858666,0.03320019855077076,Very Low Priority
+Lead_218,30,Female,Quebec,Full-time,Married,Mortgage,Branch Walk-in,Email,34.110829671531114,0.001962031963737637,Very Low Priority
+Lead_219,21,Female,Quebec,Part-time,Married,Chequing Account,Online Ad,Website,263.84740564025054,0.015176325184710317,Very Low Priority
+Lead_220,19,Male,Quebec,Unemployed,Married,Mortgage,Partnership,Branch,263.84740564025054,0.015176325184710317,Very Low Priority
+Lead_221,33,Female,British Columbia,Full-time,Married,Mortgage,Online Ad,Call,324.28898453633315,0.018652884121412406,Very Low Priority
+Lead_222,29,Female,Ontario,Part-time,Single,Chequing Account,Partnership,Call,147.0728442883322,0.008459531013177013,Very Low Priority
+Lead_223,32,Female,Ontario,Part-time,Single,Chequing Account,Referral,Call,333.75435859146734,0.019197326066206433,Very Low Priority
+Lead_224,29,Female,Ontario,Full-time,Single,Credit Card,Referral,Email,140.51919638975588,0.008082569597113292,Very Low Priority
+Lead_225,34,Male,Manitoba,Full-time,Single,Credit Card,Online Ad,Email,103.28099499948894,0.005940653317053385,Very Low Priority
+Lead_226,28,Female,Ontario,Student,Single,Credit Card,Social Media,Email,263.2282440618851,0.015140711427461689,Very Low Priority
+Lead_227,21,Male,Alberta,Full-time,Married,Chequing Account,Branch Walk-in,Branch,182.86027341746467,0.010517999849247442,Very Low Priority
+Lead_228,29,Female,British Columbia,Full-time,Married,Chequing Account,Referral,Email,303.5084563571131,0.017457602127289328,Very Low Priority
+Lead_229,24,Male,Ontario,Student,Married,Credit Card,Branch Walk-in,Call,50.7511074146318,0.002919169539452606,Very Low Priority
+Lead_230,22,Female,British Columbia,Student,Single,Credit Card,Online Ad,Website,103.28099499948894,0.005940653317053385,Very Low Priority
+Lead_231,33,Male,Alberta,Full-time,Single,Chequing Account,Referral,Website,263.84740564025054,0.015176325184710317,Very Low Priority
+Lead_232,26,Male,Alberta,Full-time,Single,Mortgage,Branch Walk-in,Email,139.8717834311755,0.008045330839489849,Very Low Priority
+Lead_233,34,Male,Nova Scotia,Full-time,Single,Investment,Online Ad,Email,103.28099499948894,0.005940653317053385,Very Low Priority
+Lead_234,27,Male,Ontario,Full-time,Single,Credit Card,Partnership,Website,385.1220666608882,0.022151962060307236,Very Low Priority
+Lead_235,23,Male,Manitoba,Part-time,Married,Chequing Account,Online Ad,Branch,263.84740564025054,0.015176325184710317,Very Low Priority
+Lead_236,20,Male,Ontario,Unemployed,Single,Chequing Account,Referral,Call,265.52968674796256,0.015273088861733328,Very Low Priority
+Lead_237,25,Male,Ontario,Full-time,Single,Credit Card,Online Ad,Email,184.99253076810044,0.010640645856898012,Very Low Priority
+Lead_238,29,Male,Ontario,Self-employed,Single,Chequing Account,Partnership,Branch,110.78680568820414,0.006372382495933888,Very Low Priority
+Lead_239,24,Female,Ontario,Unknown,Single,Chequing Account,Referral,Call,192.4330531209828,0.011068619694645017,Very Low Priority
+Lead_240,34,Male,Manitoba,Full-time,Married,Credit Card,Branch Walk-in,Call,46.37217970473695,0.002667296564903392,Very Low Priority
+Lead_241,20,Male,Ontario,Student,Single,Chequing Account,Referral,Call,103.28099499948894,0.005940653317053385,Very Low Priority
+Lead_242,26,Male,British Columbia,Unknown,Married,Credit Card,Online Ad,Email,109.92494029337334,0.006322808578518777,Very Low Priority
+Lead_243,33,Female,Alberta,Full-time,Married,Chequing Account,Branch Walk-in,Email,485.2105191088826,0.027908982478602587,Very Low Priority
+Lead_244,31,Male,Ontario,Part-time,Married,Chequing Account,Social Media,Email,432.15417661830884,0.02485721736916588,Very Low Priority
+Lead_245,25,Male,Ontario,Part-time,Single,Credit Card,Online Ad,Call,610.861390136365,0.035136336008298484,Very Low Priority
+Lead_246,20,Female,British Columbia,Full-time,Married,Mortgage,Branch Walk-in,Website,211.39107345455514,0.012159072264161404,Very Low Priority
+Lead_247,29,Male,Ontario,Part-time,Single,Chequing Account,Online Ad,Email,377.55223078818034,0.021716550195936893,Very Low Priority
+Lead_248,32,Female,Ontario,Student,Single,Mortgage,Branch Walk-in,Website,537.8521940442088,0.030936896189361657,Very Low Priority
+Lead_249,34,Female,Ontario,Full-time,Married,Mortgage,Online Ad,Website,314.45292445173794,0.01808712056570135,Very Low Priority
+Lead_250,25,Male,Quebec,Full-time,Single,Mortgage,Partnership,Email,263.99283586079747,0.01518469023311149,Very Low Priority
+Lead_251,19,Male,British Columbia,Student,Single,Credit Card,Online Ad,Website,540.4225507857789,0.031084741379107307,Very Low Priority
+Lead_252,23,Male,Alberta,Student,Widowed,Chequing Account,Branch Walk-in,Email,456.10227109165754,0.02623469564453407,Very Low Priority
+Lead_253,20,Female,Ontario,Student,Married,Credit Card,Online Ad,Call,435.2840459761043,0.025037245348005777,Very Low Priority
+Lead_254,18,Male,Ontario,Student,Married,Chequing Account,Partnership,Email,317.2152696384824,0.018246008801591804,Very Low Priority
+Lead_255,27,Female,Ontario,Full-time,Single,Credit Card,Online Ad,Email,383.4771076028174,0.022057345122459243,Very Low Priority
+Lead_256,28,Male,Ontario,Part-time,Single,Investment,Social Media,Website,239.70865168547715,0.013787880304297714,Very Low Priority
+Lead_257,23,Male,British Columbia,Part-time,Married,Mortgage,Online Ad,Email,527.214887342303,0.030325045467517783,Very Low Priority
+Lead_258,25,Male,British Columbia,Part-time,Married,Mortgage,Social Media,Email,263.84740564025054,0.015176325184710317,Very Low Priority
+Lead_259,29,Male,Ontario,Part-time,Married,Mortgage,Branch Walk-in,Call,25.31974806459484,0.0014563748667180798,Very Low Priority
+Lead_260,18,Female,Alberta,Full-time,Widowed,Mortgage,Partnership,Website,226.5739543150735,0.013032381352120048,Very Low Priority
+Lead_261,22,Female,Manitoba,Unemployed,Married,Credit Card,Partnership,Email,142.4672909781045,0.008194622686631497,Very Low Priority
+Lead_262,20,Other,Ontario,Unemployed,Single,Mortgage,Branch Walk-in,Email,44.457236434418164,0.0025571503168851126,Very Low Priority
+Lead_263,25,Female,British Columbia,Full-time,Married,Credit Card,Social Media,Email,583.3094798017368,0.03355156867020906,Very Low Priority
+Lead_264,29,Female,Ontario,Unemployed,Single,Credit Card,Branch Walk-in,Email,449.26353073493993,0.025841335902165183,Very Low Priority
+Lead_265,28,Female,British Columbia,Part-time,Divorced,Chequing Account,Online Ad,Call,314.6340867758119,0.018097540900647194,Very Low Priority
+Lead_266,33,Male,Ontario,Full-time,Married,Credit Card,Branch Walk-in,Call,433.37902059091243,0.024927669570064568,Very Low Priority
+Lead_267,26,Female,Alberta,Part-time,Divorced,Credit Card,Online Ad,Website,62.83484946251488,0.0036142182488451647,Very Low Priority
+Lead_268,29,Male,Nova Scotia,Full-time,Married,Credit Card,Branch Walk-in,Website,325.64950073149,0.018731140097235484,Very Low Priority
+Lead_269,31,Female,Nova Scotia,Self-employed,Single,Credit Card,Online Ad,Call,110.78680568820414,0.006372382495933888,Very Low Priority
+Lead_270,27,Female,Ontario,Full-time,Single,Investment,Referral,Email,25.31974806459484,0.0014563748667180798,Very Low Priority
+Lead_271,20,Female,British Columbia,Full-time,Single,Credit Card,Branch Walk-in,Email,362.3737968363915,0.02084349689117529,Very Low Priority
+Lead_272,23,Female,Manitoba,Student,Widowed,Investment,Online Ad,Email,45.57574767186798,0.0026214863304271064,Very Low Priority
+Lead_273,27,Male,Alberta,Full-time,Married,Mortgage,Referral,Call,220.78931418183183,0.012699652745122483,Very Low Priority
+Lead_274,31,Female,Ontario,Full-time,Married,Investment,Referral,Email,377.19173102435246,0.021695814492163012,Very Low Priority
+Lead_275,34,Male,Quebec,Self-employed,Married,Chequing Account,Social Media,Call,377.55223078818034,0.021716550195936893,Very Low Priority
+Lead_276,30,Male,Alberta,Part-time,Married,Mortgage,Online Ad,Website,186.60620452645435,0.010733463285363476,Very Low Priority
+Lead_277,26,Female,Ontario,Full-time,Single,Investment,Social Media,Email,465.9655269026716,0.026802023480124122,Very Low Priority
+Lead_278,30,Female,British Columbia,Part-time,Married,Credit Card,Branch Walk-in,Website,103.28099499948894,0.005940653317053385,Very Low Priority
+Lead_279,21,Female,Ontario,Unemployed,Single,Chequing Account,Branch Walk-in,Email,498.63446794662633,0.028681118980495232,Very Low Priority
+Lead_280,28,Male,Ontario,Part-time,Married,Credit Card,Social Media,Website,369.9726592304881,0.02128057834151904,Very Low Priority
+Lead_281,30,Female,Manitoba,Self-employed,Single,Mortgage,Online Ad,Call,608.734744141323,0.03501401276204483,Very Low Priority
+Lead_282,20,Female,British Columbia,Full-time,Married,Mortgage,Branch Walk-in,Email,244.06702948269668,0.01403857126170137,Very Low Priority
+Lead_283,22,Female,Ontario,Full-time,Married,Chequing Account,Branch Walk-in,Website,220.65787158230407,0.01269209225526769,Very Low Priority
+Lead_284,22,Female,British Columbia,Self-employed,Single,Credit Card,Branch Walk-in,Email,432.15417661830884,0.02485721736916588,Very Low Priority
+Lead_285,29,Male,Quebec,Full-time,Married,Mortgage,Partnership,Email,540.4225507857789,0.031084741379107307,Very Low Priority
+Lead_286,23,Female,Nova Scotia,Full-time,Married,Mortgage,Branch Walk-in,Call,184.83537663684385,0.01063160645704383,Very Low Priority
+Lead_287,26,Female,British Columbia,Full-time,Married,Credit Card,Partnership,Email,584.9242698843307,0.033644450308893445,Very Low Priority
+Lead_288,29,Male,Ontario,Full-time,Married,Investment,Branch Walk-in,Call,140.12160607100867,0.008059700469584983,Very Low Priority
+Lead_289,18,Male,Nova Scotia,Full-time,Married,Mortgage,Online Ad,Website,263.99283586079747,0.01518469023311149,Very Low Priority
+Lead_290,23,Male,British Columbia,Full-time,Single,Chequing Account,Branch Walk-in,Email,602.6417531603183,0.03466354802182558,Very Low Priority
+Lead_291,25,Male,Quebec,Full-time,Married,Mortgage,Online Ad,Call,401.55205297104976,0.023097003814340357,Very Low Priority
+Lead_292,32,Male,Manitoba,Student,Single,Credit Card,Social Media,Call,192.4330531209828,0.011068619694645017,Very Low Priority
+Lead_293,32,Male,Alberta,Full-time,Married,Chequing Account,Social Media,Call,239.70865168547715,0.013787880304297714,Very Low Priority
+Lead_294,19,Male,Manitoba,Unemployed,Single,Credit Card,Social Media,Website,492.8433410768795,0.028348017260779918,Very Low Priority
+Lead_295,31,Female,Quebec,Part-time,Single,Chequing Account,Online Ad,Website,338.05403276883504,0.019444640430907843,Very Low Priority
+Lead_296,29,Male,Alberta,Student,Single,Credit Card,Referral,Website,377.55223078818034,0.021716550195936893,Very Low Priority
+Lead_297,30,Male,Quebec,Student,Single,Chequing Account,Branch Walk-in,Website,596.4027015802236,0.034304681974255645,Very Low Priority
+Lead_298,33,Male,Ontario,Full-time,Single,Mortgage,Referral,Website,140.12160607100867,0.008059700469584983,Very Low Priority
+Lead_299,21,Female,Ontario,Self-employed,Married,Credit Card,Branch Walk-in,Website,44.301229580567274,0.002548176907655109,Very Low Priority
+Lead_300,30,Female,Ontario,Student,Married,Credit Card,Partnership,Website,87.21077214758121,0.005016304914993111,Very Low Priority
+Lead_301,21,Female,Manitoba,Student,Single,Credit Card,Referral,Call,510.20900364246694,0.029346878483249718,Very Low Priority
+Lead_302,26,Male,Alberta,Full-time,Married,Mortgage,Referral,Call,432.52040395164016,0.024878282518882543,Very Low Priority
+Lead_303,24,Male,Quebec,Full-time,Single,Chequing Account,Social Media,Email,491.75048471787653,0.028285156898578665,Very Low Priority
+Lead_304,29,Male,Alberta,Unemployed,Married,Credit Card,Social Media,Call,229.63025592321995,0.013208177763516361,Very Low Priority
+Lead_305,21,Female,Ontario,Full-time,Married,Credit Card,Partnership,Website,186.37842212230632,0.010720361394790337,Very Low Priority
+Lead_306,25,Male,Ontario,Full-time,Divorced,Chequing Account,Partnership,Email,103.28099499948894,0.005940653317053385,Very Low Priority
+Lead_307,22,Male,Ontario,Unemployed,Single,Chequing Account,Social Media,Website,622.8674451656101,0.035826916212667766,Very Low Priority
+Lead_308,24,Female,Alberta,Part-time,Married,Mortgage,Partnership,Website,252.23407573540982,0.014508334265165354,Very Low Priority
+Lead_309,30,Female,Ontario,Full-time,Single,Credit Card,Online Ad,Branch,558.9144148618958,0.03214838095445055,Very Low Priority
+Lead_310,32,Male,Ontario,Full-time,Married,Chequing Account,Partnership,Website,142.4672909781045,0.008194622686631497,Very Low Priority
+Lead_311,28,Female,Alberta,Full-time,Single,Mortgage,Referral,Email,495.89515069125406,0.028523555295717897,Very Low Priority
+Lead_312,22,Male,Quebec,Full-time,Married,Chequing Account,Referral,Website,510.20900364246694,0.029346878483249718,Very Low Priority
+Lead_313,23,Male,Ontario,Full-time,Single,Investment,Social Media,Call,432.15417661830884,0.02485721736916588,Very Low Priority
+Lead_314,32,Male,Alberta,Student,Single,Credit Card,Branch Walk-in,Call,485.0214029532118,0.027898104644616773,Very Low Priority
+Lead_315,33,Male,Manitoba,Full-time,Single,Chequing Account,Branch Walk-in,Email,103.28099499948894,0.005940653317053385,Very Low Priority
+Lead_316,28,Female,British Columbia,Part-time,Married,Credit Card,Online Ad,Email,39.76618310846618,0.0022873240869826133,Very Low Priority
+Lead_317,21,Female,Ontario,Full-time,Single,Chequing Account,Online Ad,Email,404.9654932446202,0.02329334260139261,Very Low Priority
+Lead_318,25,Male,Ontario,Self-employed,Married,Investment,Online Ad,Branch,140.12160607100867,0.008059700469584983,Very Low Priority
+Lead_319,25,Female,Quebec,Full-time,Married,Credit Card,Online Ad,Website,377.38333705427283,0.0217068355420398,Very Low Priority
+Lead_320,28,Other,Quebec,Unemployed,Married,Mortgage,Partnership,Email,25.31974806459484,0.0014563748667180798,Very Low Priority
+Lead_321,27,Male,Alberta,Part-time,Single,Credit Card,Partnership,Call,44.457236434418164,0.0025571503168851126,Very Low Priority
+Lead_322,27,Female,Nova Scotia,Full-time,Widowed,Chequing Account,Branch Walk-in,Website,44.457236434418164,0.0025571503168851126,Very Low Priority
+Lead_323,29,Male,British Columbia,Full-time,Single,Mortgage,Social Media,Website,263.99283586079747,0.01518469023311149,Very Low Priority
+Lead_324,18,Female,British Columbia,Self-employed,Married,Credit Card,Referral,Email,263.84740564025054,0.015176325184710317,Very Low Priority
+Lead_325,23,Male,Ontario,Full-time,Married,Investment,Referral,Call,221.0502067450693,0.012714659109761,Very Low Priority
+Lead_326,34,Male,Ontario,Full-time,Married,Investment,Social Media,Email,103.28099499948894,0.005940653317053385,Very Low Priority
+Lead_327,18,Male,Unknown,Self-employed,Married,Chequing Account,Partnership,Email,537.8521940442088,0.030936896189361657,Very Low Priority
+Lead_328,19,Male,Alberta,Full-time,Single,Investment,Branch Walk-in,Branch,377.38333705427283,0.0217068355420398,Very Low Priority
+Lead_329,32,Female,Alberta,Part-time,Married,Chequing Account,Referral,Branch,221.0502067450693,0.012714659109761,Very Low Priority
+Lead_330,26,Male,Ontario,Student,Married,Mortgage,Online Ad,Email,622.8674451656101,0.035826916212667766,Very Low Priority
+Lead_331,21,Female,Ontario,Full-time,Married,Investment,Branch Walk-in,Email,103.28099499948894,0.005940653317053385,Very Low Priority
+Lead_332,27,Female,Ontario,Self-employed,Married,Chequing Account,Branch Walk-in,Email,368.47715430793016,0.02119455790495269,Very Low Priority
+Lead_333,22,Male,Quebec,Full-time,Married,Investment,Partnership,Website,184.99253076810044,0.010640645856898012,Very Low Priority
+Lead_334,42,Male,Ontario,Student,Single,Credit Card,Social Media,Branch,2866.6495899596443,0.16488775495925223,Low Priority
+Lead_335,35,Male,Alberta,Unemployed,Married,Credit Card,Referral,Call,1434.2091223413079,0.08249474339424474,Very Low Priority
+Lead_336,49,Male,Ontario,Unemployed,Single,Investment,Branch Walk-in,Call,3974.4332114342064,0.22860672325078382,Low Priority
+Lead_337,44,Female,Manitoba,Full-time,Married,Credit Card,Online Ad,Email,2382.761956071329,0.13705486394814262,Very Low Priority
+Lead_338,47,Female,British Columbia,Full-time,Widowed,Mortgage,Social Media,Email,2234.0709028362858,0.12850225464551832,Very Low Priority
+Lead_339,48,Female,Ontario,Student,Single,Mortgage,Social Media,Email,3809.140969331963,0.2190992247382768,Low Priority
+Lead_340,47,Female,Alberta,Full-time,Married,Investment,Referral,Website,1404.069091774631,0.08076110912239341,Very Low Priority
+Lead_341,43,Female,Alberta,Full-time,Married,Credit Card,Partnership,Email,1958.843361023288,0.1126713516877774,Very Low Priority
+Lead_342,37,Male,Ontario,Unemployed,Single,Chequing Account,Referral,Email,3642.93961342483,0.20953943461160962,Low Priority
+Lead_343,49,Male,Ontario,Part-time,Single,Mortgage,Partnership,Branch,1317.6412907642953,0.07578984018022045,Very Low Priority
+Lead_344,37,Male,Alberta,Full-time,Single,Chequing Account,Partnership,Email,925.7511787722533,0.05324858470783207,Very Low Priority
+Lead_345,44,Female,Quebec,Full-time,Widowed,Investment,Referral,Call,3040.4280028815706,0.1748833723055222,Low Priority
+Lead_346,50,Female,Ontario,Unemployed,Single,Mortgage,Partnership,Email,792.8632103651823,0.04560495820793383,Very Low Priority
+Lead_347,44,Male,Alberta,Self-employed,Divorced,Investment,Online Ad,Branch,2301.062278913295,0.1323555535075967,Very Low Priority
+Lead_348,41,Female,Ontario,Self-employed,Married,Mortgage,Social Media,Call,3728.74761053665,0.21447505285071122,Low Priority
+Lead_349,40,Male,Ontario,Full-time,Single,Credit Card,Online Ad,Website,1491.9309113169054,0.08581486184532895,Very Low Priority
+Lead_350,36,Male,Ontario,Full-time,Single,Chequing Account,Referral,Website,3242.9577061873833,0.18653274452304847,Low Priority
+Lead_351,38,Male,Unknown,Full-time,Married,Chequing Account,Online Ad,Call,2354.6341872492217,0.13543697361744633,Very Low Priority
+Lead_352,45,Other,Ontario,Full-time,Single,Credit Card,Online Ad,Call,2452.165644126892,0.1410469173715731,Very Low Priority
+Lead_353,39,Male,Quebec,Student,Married,Investment,Referral,Call,2422.6215668998525,0.13934756193469952,Very Low Priority
+Lead_354,46,Female,Manitoba,Full-time,Single,Credit Card,Branch Walk-in,Email,1595.5385102556468,0.09177430120114088,Very Low Priority
+Lead_355,51,Male,Alberta,Unknown,Married,Chequing Account,Referral,Email,2625.091255494158,0.15099348214641398,Low Priority
+Lead_356,39,Female,Ontario,Part-time,Married,Mortgage,Referral,Email,1420.9467807570638,0.08173190243280044,Very Low Priority
+Lead_357,45,Female,Ontario,Part-time,Married,Mortgage,Online Ad,Email,2681.902473052091,0.15426122514243223,Low Priority
+Lead_358,43,Female,Manitoba,Self-employed,Single,Credit Card,Social Media,Website,1877.3281298769427,0.10798265045767881,Very Low Priority
+Lead_359,45,Female,Quebec,Student,Single,Investment,Branch Walk-in,Website,3753.986156313912,0.21592675701651673,Low Priority
+Lead_360,49,Female,Ontario,Part-time,Married,Credit Card,Partnership,Website,2301.062278913295,0.1323555535075967,Very Low Priority
+Lead_361,45,Female,Alberta,Full-time,Single,Credit Card,Online Ad,Email,2287.391906656629,0.13156924289650782,Very Low Priority
+Lead_362,51,Male,Unknown,Self-employed,Married,Chequing Account,Social Media,Email,1261.270036489968,0.07254740357614921,Very Low Priority
+Lead_363,38,Female,Quebec,Full-time,Single,Mortgage,Online Ad,Call,4106.941327706152,0.23622850091153666,Low Priority
+Lead_364,51,Male,Nova Scotia,Unemployed,Married,Mortgage,Branch Walk-in,Call,3974.4332114342064,0.22860672325078382,Low Priority
+Lead_365,41,Female,Quebec,Student,Married,Credit Card,Referral,Call,760.4784203766072,0.043742206885014664,Very Low Priority
+Lead_366,44,Male,British Columbia,Full-time,Married,Mortgage,Branch Walk-in,Call,824.072651058093,0.04740010423045848,Very Low Priority
+Lead_367,39,Male,Alberta,Student,Widowed,Chequing Account,Branch Walk-in,Branch,3184.7386703150614,0.18318402476514653,Low Priority
+Lead_368,35,Female,British Columbia,Unemployed,Married,Credit Card,Branch Walk-in,Email,3759.1044190154316,0.21622115604216016,Low Priority
+Lead_369,35,Female,Alberta,Full-time,Married,Credit Card,Partnership,Email,641.5167740889821,0.03689961306004029,Very Low Priority
+Lead_370,35,Female,Ontario,Part-time,Married,Chequing Account,Branch Walk-in,Branch,2931.7101045509166,0.16862999196827558,Low Priority
+Lead_371,48,Male,British Columbia,Full-time,Single,Credit Card,Social Media,Email,3862.3947669416807,0.22216234733326562,Low Priority
+Lead_372,40,Male,British Columbia,Unknown,Married,Credit Card,Branch Walk-in,Website,3298.163335474983,0.18970813516243007,Low Priority
+Lead_373,44,Male,Alberta,Unemployed,Married,Investment,Branch Walk-in,Email,3618.1513941313883,0.20811363292205232,Low Priority
+Lead_374,49,Female,Ontario,Student,Married,Chequing Account,Social Media,Email,872.7408479376104,0.050199466157875454,Very Low Priority
+Lead_375,49,Male,Alberta,Full-time,Single,Investment,Partnership,Email,1636.589785501358,0.09413554292290115,Very Low Priority
+Lead_376,38,Female,Ontario,Full-time,Single,Mortgage,Branch Walk-in,Website,857.7885920525051,0.04933942246327587,Very Low Priority
+Lead_377,47,Male,British Columbia,Part-time,Single,Chequing Account,Referral,Email,3359.7864194551566,0.19325265347633372,Low Priority
+Lead_378,43,Male,Quebec,Full-time,Married,Credit Card,Online Ad,Branch,3304.5674703384548,0.19007649668934729,Low Priority
+Lead_379,44,Male,Alberta,Student,Single,Mortgage,Social Media,Call,2737.7925821770796,0.15747598660135778,Low Priority
+Lead_380,43,Female,Manitoba,Student,Married,Credit Card,Online Ad,Call,1355.680133767186,0.0779778088269508,Very Low Priority
+Lead_381,47,Male,Nova Scotia,Full-time,Divorced,Credit Card,Referral,Email,3945.3402840833505,0.22693331765113298,Low Priority
+Lead_382,35,Male,Unknown,Full-time,Single,Mortgage,Online Ad,Email,2233.6927352545763,0.12848050270075156,Very Low Priority
+Lead_383,49,Male,Ontario,Full-time,Single,Credit Card,Branch Walk-in,Call,3610.6387498230147,0.20768151067796856,Low Priority
+Lead_384,37,Female,British Columbia,Full-time,Married,Chequing Account,Referral,Email,1802.9962522533633,0.1037071308873115,Very Low Priority
+Lead_385,37,Male,Ontario,Self-employed,Single,Mortgage,Referral,Website,2342.6842428814984,0.1347496208605614,Very Low Priority
+Lead_386,47,Female,Quebec,Unknown,Married,Chequing Account,Partnership,Website,872.7408479376104,0.050199466157875454,Very Low Priority
+Lead_387,39,Female,Ontario,Full-time,Divorced,Credit Card,Branch Walk-in,Email,3222.972895887229,0.18538323168575555,Low Priority
+Lead_388,41,Male,Alberta,Part-time,Single,Credit Card,Branch Walk-in,Email,3879.725751743398,0.22315921391409818,Low Priority
+Lead_389,41,Female,Manitoba,Self-employed,Single,Credit Card,Referral,Email,1909.2026808708742,0.10981605317705254,Very Low Priority
+Lead_390,51,Male,Ontario,Student,Single,Credit Card,Referral,Branch,2224.400081646857,0.12794599551983993,Very Low Priority
+Lead_391,48,Female,British Columbia,Full-time,Married,Chequing Account,Branch Walk-in,Branch,2807.982164695198,0.16151324414531265,Low Priority
+Lead_392,36,Other,Ontario,Full-time,Married,Credit Card,Referral,Website,2765.4866503952326,0.15906893076522535,Low Priority
+Lead_393,45,Male,Quebec,Part-time,Single,Credit Card,Referral,Call,1153.1250884493127,0.06632697895394776,Very Low Priority
+Lead_394,41,Female,Ontario,Full-time,Single,Mortgage,Online Ad,Email,1657.2859314974676,0.09532597131064681,Very Low Priority
+Lead_395,47,Male,Ontario,Part-time,Divorced,Mortgage,Online Ad,Branch,1076.3857441688167,0.06191298352186768,Very Low Priority
+Lead_396,49,Female,Ontario,Self-employed,Single,Chequing Account,Online Ad,Call,1409.4001269845633,0.08106774667950999,Very Low Priority
+Lead_397,48,Female,British Columbia,Full-time,Single,Mortgage,Referral,Website,2915.953640856464,0.1677236907817703,Low Priority
+Lead_398,42,Male,Quebec,Part-time,Single,Chequing Account,Referral,Branch,3359.392602581485,0.19323000139482635,Low Priority
+Lead_399,43,Male,Ontario,Full-time,Single,Credit Card,Online Ad,Email,1874.556788300478,0.10782324475550685,Very Low Priority
+Lead_400,42,Male,Manitoba,Unemployed,Single,Mortgage,Branch Walk-in,Branch,2043.4799719940545,0.11753959258447023,Very Low Priority
+Lead_401,51,Male,Ontario,Full-time,Married,Chequing Account,Referral,Email,3286.196101077601,0.18901978789467655,Low Priority
+Lead_402,36,Male,Ontario,Full-time,Married,Mortgage,Referral,Website,1102.5745972301138,0.06341934872302776,Very Low Priority
+Lead_403,35,Female,Ontario,Full-time,Single,Mortgage,Social Media,Email,2770.044851755338,0.159331115439471,Low Priority
+Lead_404,42,Male,Manitoba,Student,Married,Chequing Account,Branch Walk-in,Email,3194.920731837254,0.18376969009066507,Low Priority
+Lead_405,37,Male,Manitoba,Unemployed,Single,Mortgage,Branch Walk-in,Branch,1625.5813466363293,0.09350234492883229,Very Low Priority
+Lead_406,37,Male,British Columbia,Full-time,Single,Credit Card,Referral,Website,2285.890203738789,0.13148286595542452,Very Low Priority
+Lead_407,48,Female,Ontario,Full-time,Widowed,Chequing Account,Branch Walk-in,Branch,1488.8427565426161,0.08563723326125551,Very Low Priority
+Lead_408,39,Male,Quebec,Full-time,Single,Mortgage,Social Media,Call,1929.2114096907762,0.11096694179150246,Very Low Priority
+Lead_409,41,Male,Nova Scotia,Full-time,Single,Chequing Account,Referral,Website,3197.1316613131785,0.1838968612660104,Low Priority
+Lead_410,36,Female,Quebec,Student,Single,Credit Card,Online Ad,Website,1230.1540894128927,0.07075763524347968,Very Low Priority
+Lead_411,49,Female,Quebec,Unemployed,Married,Credit Card,Partnership,Website,2833.191365041529,0.16296326038168252,Low Priority
+Lead_412,35,Male,Ontario,Full-time,Single,Mortgage,Partnership,Email,4162.195023206831,0.2394066562871427,Low Priority
+Lead_413,48,Male,Ontario,Part-time,Married,Chequing Account,Partnership,Email,4069.9429889628013,0.23410038136948305,Low Priority
+Lead_414,37,Male,Alberta,Full-time,Married,Mortgage,Branch Walk-in,Email,2173.42159867966,0.12501374749164337,Very Low Priority
+Lead_415,35,Male,Alberta,Part-time,Married,Credit Card,Online Ad,Email,1618.0094196170535,0.09306681278311885,Very Low Priority
+Lead_416,37,Male,Alberta,Unknown,Married,Chequing Account,Branch Walk-in,Email,3916.0722401289345,0.22524983946231106,Low Priority
+Lead_417,37,Female,British Columbia,Full-time,Divorced,Chequing Account,Online Ad,Email,2302.6349867300505,0.13244601460267438,Very Low Priority
+Lead_418,44,Other,Ontario,Full-time,Married,Investment,Branch Walk-in,Website,968.0582084346155,0.05568205657842774,Very Low Priority
+Lead_419,51,Male,Quebec,Part-time,Single,Chequing Account,Partnership,Email,4163.819246973481,0.23950008054498448,Low Priority
+Lead_420,47,Female,Manitoba,Part-time,Widowed,Mortgage,Online Ad,Website,3857.757546688899,0.22189561754549844,Low Priority
+Lead_421,36,Female,Nova Scotia,Part-time,Married,Chequing Account,Online Ad,Call,2860.83899926887,0.16455353369365192,Low Priority
+Lead_422,35,Male,Ontario,Full-time,Single,Chequing Account,Branch Walk-in,Email,1953.0224502547333,0.11233653681824929,Very Low Priority
+Lead_423,49,Male,Ontario,Full-time,Single,Mortgage,Referral,Website,4163.819246973481,0.23950008054498448,Low Priority
+Lead_424,42,Male,Manitoba,Full-time,Single,Mortgage,Online Ad,Email,1106.3645484243507,0.06363734416481863,Very Low Priority
+Lead_425,38,Male,Quebec,Full-time,Divorced,Mortgage,Online Ad,Website,2749.493379717046,0.15814900860040335,Low Priority
+Lead_426,43,Male,Ontario,Part-time,Married,Mortgage,Social Media,Website,3635.270875618606,0.20909833397459132,Low Priority
+Lead_427,43,Male,Ontario,Student,Divorced,Chequing Account,Branch Walk-in,Call,2315.941767342257,0.13321141166709652,Very Low Priority
+Lead_428,35,Female,Alberta,Full-time,Divorced,Mortgage,Online Ad,Branch,2913.405459304741,0.1675771210940192,Low Priority
+Lead_429,43,Male,Unknown,Unemployed,Widowed,Credit Card,Branch Walk-in,Website,3899.445321354041,0.22429347028545585,Low Priority
+Lead_430,46,Male,Ontario,Student,Single,Investment,Social Media,Call,766.1162450758173,0.044066490767063766,Very Low Priority
+Lead_431,35,Female,Quebec,Part-time,Single,Mortgage,Partnership,Website,2923.8500994271762,0.16817788976388998,Low Priority
+Lead_432,37,Female,Quebec,Part-time,Single,Investment,Online Ad,Email,3853.0570743936432,0.22162524954282123,Low Priority
+Lead_433,43,Other,Alberta,Full-time,Single,Chequing Account,Branch Walk-in,Email,3728.74761053665,0.21447505285071122,Low Priority
+Lead_434,41,Male,Quebec,Full-time,Single,Chequing Account,Partnership,Website,725.0201035904291,0.041702668369395395,Very Low Priority
+Lead_435,50,Male,British Columbia,Full-time,Married,Credit Card,Social Media,Website,1908.9260202729959,0.10980013984567445,Very Low Priority
+Lead_436,36,Male,Alberta,Unemployed,Single,Chequing Account,Referral,Website,3977.906894202619,0.22880652714559196,Low Priority
+Lead_437,47,Female,British Columbia,Full-time,Widowed,Mortgage,Partnership,Website,3862.3947669416807,0.22216234733326562,Low Priority
+Lead_438,43,Male,British Columbia,Full-time,Married,Chequing Account,Partnership,Call,2384.79990493536,0.13717208539511985,Very Low Priority
+Lead_439,43,Female,Manitoba,Part-time,Married,Mortgage,Branch Walk-in,Call,3753.986156313912,0.21592675701651673,Low Priority
+Lead_440,46,Male,Ontario,Full-time,Married,Credit Card,Social Media,Call,2448.9477957073423,0.14086182889631715,Very Low Priority
+Lead_441,40,Male,Quebec,Unemployed,Married,Credit Card,Partnership,Website,3057.9666310744697,0.17589218239445703,Low Priority
+Lead_442,48,Male,Alberta,Student,Single,Investment,Social Media,Branch,3539.838784111166,0.2036091443035408,Low Priority
+Lead_443,50,Male,Ontario,Part-time,Married,Investment,Online Ad,Website,2145.06582571678,0.12338274251623257,Very Low Priority
+Lead_444,45,Female,Manitoba,Full-time,Single,Chequing Account,Referral,Email,3255.585246114319,0.1872590721204302,Low Priority
+Lead_445,37,Female,Ontario,Full-time,Single,Credit Card,Online Ad,Website,2994.3852412073848,0.17223502364401477,Low Priority
+Lead_446,38,Male,British Columbia,Student,Married,Chequing Account,Social Media,Website,3006.0490941050384,0.17290592061210086,Low Priority
+Lead_447,40,Female,Unknown,Full-time,Single,Mortgage,Referral,Website,3105.5499633523195,0.17862914364017568,Low Priority
+Lead_448,44,Female,Nova Scotia,Unemployed,Married,Credit Card,Referral,Website,2822.3836296639756,0.1623416067171258,Low Priority
+Lead_449,38,Male,Ontario,Full-time,Married,Investment,Branch Walk-in,Email,3690.7696290627077,0.21229058491816194,Low Priority
+Lead_450,49,Male,Alberta,Self-employed,Single,Credit Card,Online Ad,Website,4165.089045725913,0.23957311851456115,Low Priority
+Lead_451,51,Female,Unknown,Part-time,Married,Investment,Branch Walk-in,Website,3862.3947669416807,0.22216234733326562,Low Priority
+Lead_452,42,Male,Manitoba,Full-time,Married,Credit Card,Online Ad,Call,2153.9882848373813,0.1238959563594119,Very Low Priority
+Lead_453,39,Male,Ontario,Full-time,Single,Credit Card,Referral,Call,3981.6597885232527,0.22902239110095507,Low Priority
+Lead_454,43,Male,British Columbia,Part-time,Widowed,Mortgage,Online Ad,Website,3937.591838281047,0.22648763226382923,Low Priority
+Lead_455,45,Male,Ontario,Full-time,Married,Chequing Account,Referral,Call,2423.631382078792,0.13940564582411602,Very Low Priority
+Lead_456,38,Female,Quebec,Full-time,Single,Investment,Branch Walk-in,Website,2496.631928316938,0.14360458810927215,Very Low Priority
+Lead_457,41,Female,British Columbia,Full-time,Married,Chequing Account,Partnership,Website,3571.075715168655,0.20540587155333304,Low Priority
+Lead_458,50,Female,Ontario,Full-time,Married,Chequing Account,Partnership,Email,901.2507562165982,0.05183933689292496,Very Low Priority
+Lead_459,35,Male,Ontario,Part-time,Married,Chequing Account,Online Ad,Email,2774.1969002197334,0.15956993847252465,Low Priority
+Lead_460,49,Male,Quebec,Full-time,Married,Mortgage,Social Media,Email,1376.9281659652684,0.07919998133757601,Very Low Priority
+Lead_461,41,Female,Alberta,Full-time,Single,Investment,Branch Walk-in,Call,3057.626192907138,0.17587260062021076,Low Priority
+Lead_462,47,Male,Alberta,Part-time,Married,Investment,Social Media,Branch,3052.423264935215,0.17557333170519934,Low Priority
+Lead_463,41,Male,Quebec,Full-time,Married,Mortgage,Online Ad,Email,942.4834953968071,0.05421101629805964,Very Low Priority
+Lead_464,44,Female,British Columbia,Part-time,Divorced,Credit Card,Branch Walk-in,Email,3988.5907145179613,0.2294210532991738,Low Priority
+Lead_465,40,Male,Ontario,Unemployed,Married,Mortgage,Partnership,Branch,2918.9672191222085,0.16789702977526744,Low Priority
+Lead_466,40,Male,Ontario,Unknown,Single,Chequing Account,Branch Walk-in,Website,1711.6331718589229,0.09845198799675227,Very Low Priority
+Lead_467,40,Female,British Columbia,Full-time,Divorced,Investment,Branch Walk-in,Branch,721.9741494258446,0.04152746713598821,Very Low Priority
+Lead_468,47,Female,Quebec,Part-time,Divorced,Chequing Account,Branch Walk-in,Website,824.3533634300551,0.04741625061715472,Very Low Priority
+Lead_469,41,Female,Quebec,Full-time,Single,Credit Card,Branch Walk-in,Call,1177.1416202279493,0.06770839369705303,Very Low Priority
+Lead_470,45,Female,Ontario,Full-time,Divorced,Credit Card,Branch Walk-in,Website,1508.1927193137228,0.08675023009597425,Very Low Priority
+Lead_471,51,Male,Ontario,Full-time,Single,Credit Card,Branch Walk-in,Branch,3445.059052270799,0.19815747792145672,Low Priority
+Lead_472,35,Male,Ontario,Full-time,Married,Mortgage,Referral,Website,4163.466113694927,0.23947976855648537,Low Priority
+Lead_473,48,Male,Quebec,Unemployed,Single,Chequing Account,Online Ad,Email,3864.0044362430012,0.2222549344280578,Low Priority
+Lead_474,40,Female,Quebec,Part-time,Married,Chequing Account,Online Ad,Call,1104.1731714658463,0.06351129763711508,Very Low Priority
+Lead_475,40,Male,Quebec,Unemployed,Married,Chequing Account,Online Ad,Website,1879.9172255807146,0.10813157349991767,Very Low Priority
+Lead_476,50,Female,Alberta,Unemployed,Widowed,Credit Card,Partnership,Website,1169.462057620199,0.0672666704247368,Very Low Priority
+Lead_477,41,Female,Ontario,Full-time,Divorced,Investment,Online Ad,Website,3255.585246114319,0.1872590721204302,Low Priority
+Lead_478,37,Male,Alberta,Student,Married,Credit Card,Partnership,Call,4001.8450915385783,0.230183436144279,Low Priority
+Lead_479,43,Male,Ontario,Student,Married,Credit Card,Social Media,Email,2850.3145795180153,0.16394817615325172,Low Priority
+Lead_480,47,Male,Ontario,Part-time,Single,Mortgage,Social Media,Call,4031.513756959637,0.231889957810216,Low Priority
+Lead_481,48,Male,Unknown,Self-employed,Single,Mortgage,Social Media,Website,1702.5751051756417,0.09793097409784095,Very Low Priority
+Lead_482,42,Male,Manitoba,Full-time,Single,Investment,Partnership,Website,1161.7344328999259,0.0668221826520574,Very Low Priority
+Lead_483,40,Female,Nova Scotia,Student,Married,Credit Card,Branch Walk-in,Branch,950.3122310387536,0.05466131990289897,Very Low Priority
+Lead_484,44,Female,Ontario,Student,Single,Credit Card,Social Media,Email,3267.6259339878834,0.1879516443826944,Low Priority
+Lead_485,51,Male,British Columbia,Full-time,Married,Mortgage,Partnership,Website,1506.7967227894128,0.08666993331549902,Very Low Priority
+Lead_486,46,Male,British Columbia,Full-time,Single,Investment,Social Media,Email,3701.0639412499027,0.2128827068263789,Low Priority
+Lead_487,46,Female,Quebec,Self-employed,Single,Chequing Account,Branch Walk-in,Branch,3518.802215431559,0.20239913503216858,Low Priority
+Lead_488,41,Female,Alberta,Student,Single,Chequing Account,Online Ad,Website,655.6551311546353,0.0377128418423557,Very Low Priority
+Lead_489,35,Female,Ontario,Part-time,Divorced,Mortgage,Referral,Branch,3735.988773604442,0.21489155967656254,Low Priority
+Lead_490,48,Male,Manitoba,Full-time,Married,Mortgage,Online Ad,Call,2774.8601405260833,0.1596080876085389,Low Priority
+Lead_491,41,Female,Alberta,Unknown,Divorced,Credit Card,Branch Walk-in,Website,1233.0753378629065,0.0709256634881204,Very Low Priority
+Lead_492,40,Male,Alberta,Student,Single,Credit Card,Partnership,Website,1917.2698342212452,0.11028007040800869,Very Low Priority
+Lead_493,42,Female,Alberta,Full-time,Single,Chequing Account,Branch Walk-in,Email,3627.7543478725975,0.20866598835778863,Low Priority
+Lead_494,44,Male,Manitoba,Full-time,Married,Mortgage,Branch Walk-in,Call,2239.947783156588,0.1288402888459915,Very Low Priority
+Lead_495,51,Female,Ontario,Student,Divorced,Credit Card,Partnership,Website,3512.8755377607536,0.20205823652161153,Low Priority
+Lead_496,38,Female,Ontario,Unemployed,Married,Mortgage,Online Ad,Email,721.9741494258446,0.04152746713598821,Very Low Priority
+Lead_497,48,Male,Ontario,Part-time,Single,Investment,Branch Walk-in,Email,2873.6181005955946,0.16528857900073812,Low Priority
+Lead_498,36,Male,Quebec,Full-time,Single,Credit Card,Branch Walk-in,Email,1930.3927148335858,0.11103488966821608,Very Low Priority
+Lead_499,44,Female,Ontario,Unemployed,Married,Investment,Online Ad,Email,1176.1780405813065,0.06765296924433449,Very Low Priority
+Lead_500,35,Female,Alberta,Full-time,Single,Chequing Account,Social Media,Call,2765.4866503952326,0.15906893076522535,Low Priority
+Lead_501,39,Female,Ontario,Student,Single,Chequing Account,Online Ad,Website,1491.449305656007,0.08578716021186829,Very Low Priority
+Lead_502,41,Female,Alberta,Unemployed,Married,Chequing Account,Social Media,Website,3295.428934978778,0.18955085428633076,Low Priority
+Lead_503,48,Female,Alberta,Full-time,Married,Credit Card,Partnership,Website,1625.5813466363293,0.09350234492883229,Very Low Priority
+Lead_504,51,Female,British Columbia,Student,Single,Credit Card,Branch Walk-in,Call,3000.047280537675,0.17256070033534546,Low Priority
+Lead_505,50,Female,Quebec,Full-time,Single,Investment,Branch Walk-in,Website,1204.3507556758957,0.06927344485437194,Very Low Priority
+Lead_506,40,Male,Ontario,Student,Married,Investment,Referral,Call,4244.4527202412455,0.24413806365539165,Low Priority
+Lead_507,39,Other,Quebec,Self-employed,Married,Credit Card,Referral,Email,3814.6564675344744,0.21941647248257007,Low Priority
+Lead_508,36,Male,Alberta,Unemployed,Married,Credit Card,Referral,Call,4084.789770860404,0.23495435827131286,Low Priority
+Lead_509,41,Female,British Columbia,Unemployed,Divorced,Mortgage,Branch Walk-in,Email,1556.3164280908743,0.08951827343422164,Very Low Priority
+Lead_510,40,Female,Nova Scotia,Full-time,Married,Investment,Social Media,Call,813.6551805671907,0.04680089833950641,Very Low Priority
+Lead_511,45,Female,Quebec,Unemployed,Single,Chequing Account,Online Ad,Email,1912.6992220305453,0.1100171718711406,Very Low Priority
+Lead_512,36,Female,Manitoba,Full-time,Married,Mortgage,Online Ad,Call,2963.476230598132,0.17045715815769175,Low Priority
+Lead_513,43,Female,Quebec,Full-time,Married,Chequing Account,Partnership,Website,882.1647313714656,0.050741521590059596,Very Low Priority
+Lead_514,45,Male,Manitoba,Student,Single,Chequing Account,Referral,Email,1690.7384386673073,0.09725013700718414,Very Low Priority
+Lead_515,35,Female,British Columbia,Full-time,Divorced,Mortgage,Referral,Email,1098.6225652628773,0.06319203050426563,Very Low Priority
+Lead_516,40,Female,Ontario,Unemployed,Single,Chequing Account,Referral,Website,1253.3018982549147,0.07208908162798204,Very Low Priority
+Lead_517,46,Female,Ontario,Unemployed,Married,Investment,Social Media,Call,2979.2715434418383,0.17136569392111387,Low Priority
+Lead_518,41,Male,Ontario,Full-time,Married,Credit Card,Partnership,Website,3049.0801820662045,0.17538103982870196,Low Priority
+Lead_519,50,Other,British Columbia,Part-time,Married,Investment,Branch Walk-in,Call,1084.8715052538105,0.06240107878796712,Very Low Priority
+Lead_520,37,Male,Ontario,Part-time,Single,Chequing Account,Referral,Email,2940.645547742583,0.16914395264648338,Low Priority
+Lead_521,41,Female,Alberta,Full-time,Married,Credit Card,Social Media,Call,689.1812398791494,0.03964124105077892,Very Low Priority
+Lead_522,38,Female,Quebec,Full-time,Single,Credit Card,Referral,Website,1169.462057620199,0.0672666704247368,Very Low Priority
+Lead_523,39,Male,Ontario,Student,Single,Mortgage,Branch Walk-in,Email,1652.5866511393858,0.09505567186739358,Very Low Priority
+Lead_524,35,Male,Alberta,Part-time,Married,Credit Card,Referral,Email,1745.0295463299478,0.10037292497823501,Very Low Priority
+Lead_525,46,Male,Ontario,Part-time,Single,Chequing Account,Social Media,Website,3881.4166038896565,0.22325647059148945,Low Priority
+Lead_526,42,Female,Ontario,Student,Married,Investment,Branch Walk-in,Website,3754.2969786657377,0.2159446353089886,Low Priority
+Lead_527,48,Male,Alberta,Student,Married,Chequing Account,Online Ad,Branch,2442.5007374221223,0.14049099844307145,Very Low Priority
+Lead_528,39,Female,Quebec,Self-employed,Married,Credit Card,Online Ad,Website,2154.3006212234573,0.1239139217381148,Very Low Priority
+Lead_529,42,Other,Manitoba,Student,Married,Credit Card,Partnership,Call,3406.956750694701,0.19596585918030754,Low Priority
+Lead_530,45,Male,Alberta,Part-time,Single,Chequing Account,Partnership,Branch,3038.2105218943575,0.17475582429165715,Low Priority
+Lead_531,35,Male,Quebec,Self-employed,Single,Chequing Account,Partnership,Branch,1418.8543690038537,0.08161154831709493,Very Low Priority
+Lead_532,45,Female,Unknown,Self-employed,Single,Mortgage,Online Ad,Website,4162.828038745428,0.23944306691485914,Low Priority
+Lead_533,51,Female,Ontario,Unemployed,Married,Investment,Referral,Call,2518.101719262105,0.14483951603377054,Very Low Priority
+Lead_534,48,Male,Ontario,Unemployed,Divorced,Mortgage,Online Ad,Call,1499.7961895985375,0.08626726735820725,Very Low Priority
+Lead_535,42,Male,British Columbia,Full-time,Married,Chequing Account,Social Media,Email,1344.945997189961,0.07736038851585182,Very Low Priority
+Lead_536,36,Female,Alberta,Full-time,Married,Credit Card,Social Media,Email,1434.4637024221379,0.08250938666914392,Very Low Priority
+Lead_537,41,Male,Manitoba,Full-time,Married,Mortgage,Referral,Website,1376.9281659652684,0.07919998133757601,Very Low Priority
+Lead_538,41,Male,Quebec,Part-time,Single,Mortgage,Branch Walk-in,Website,1103.1132391303188,0.06345033104258396,Very Low Priority
+Lead_539,44,Male,British Columbia,Full-time,Divorced,Chequing Account,Partnership,Website,926.8367084955255,0.05331102364687743,Very Low Priority
+Lead_540,37,Female,Alberta,Unemployed,Single,Mortgage,Branch Walk-in,Email,4154.8247208483335,0.23898272145620975,Low Priority
+Lead_541,37,Male,British Columbia,Part-time,Single,Investment,Referral,Branch,1280.691529209081,0.07366451476533263,Very Low Priority
+Lead_542,35,Other,Manitoba,Unemployed,Single,Mortgage,Branch Walk-in,Website,648.8797804099315,0.03732312822780422,Very Low Priority
+Lead_543,45,Other,Quebec,Full-time,Single,Investment,Referral,Email,1929.2114096907762,0.11096694179150246,Very Low Priority
+Lead_544,35,Male,Quebec,Self-employed,Married,Chequing Account,Branch Walk-in,Email,3441.036968626964,0.19792613037740633,Low Priority
+Lead_545,50,Female,Quebec,Full-time,Married,Chequing Account,Online Ad,Email,3987.9387526751107,0.22938355289278886,Low Priority
+Lead_546,45,Male,Ontario,Full-time,Married,Investment,Social Media,Call,2417.89241255428,0.1390755441597931,Very Low Priority
+Lead_547,40,Male,Alberta,Full-time,Single,Chequing Account,Online Ad,Email,2613.97123350043,0.15035386596588557,Low Priority
+Lead_548,38,Female,Quebec,Full-time,Married,Investment,Online Ad,Call,875.3004884262847,0.050346694955967324,Very Low Priority
+Lead_549,44,Female,Nova Scotia,Full-time,Married,Credit Card,Branch Walk-in,Call,2393.6959534941866,0.13768378012056207,Very Low Priority
+Lead_550,38,Female,Nova Scotia,Self-employed,Divorced,Chequing Account,Online Ad,Website,3771.860742523325,0.21695489118443825,Low Priority
+Lead_551,46,Male,Quebec,Full-time,Married,Chequing Account,Branch Walk-in,Email,2054.0202630553354,0.11814586303196366,Very Low Priority
+Lead_552,39,Male,Unknown,Full-time,Married,Chequing Account,Social Media,Website,2336.1407322480877,0.1343732425331669,Very Low Priority
+Lead_553,40,Female,Manitoba,Unemployed,Married,Mortgage,Partnership,Website,3219.2021118542802,0.18516633872618116,Low Priority
+Lead_554,51,Female,Quebec,Part-time,Married,Credit Card,Partnership,Call,2978.9406627536164,0.17134666188663314,Low Priority
+Lead_555,44,Female,Manitoba,Part-time,Single,Investment,Online Ad,Email,3093.45708705675,0.17793356953500417,Low Priority
+Lead_556,41,Female,Ontario,Full-time,Single,Mortgage,Branch Walk-in,Call,2044.622262107417,0.11760529634294989,Very Low Priority
+Lead_557,44,Male,Ontario,Student,Married,Investment,Social Media,Website,1482.7804744705966,0.08528853487681183,Very Low Priority
+Lead_558,49,Male,Quebec,Full-time,Single,Credit Card,Social Media,Call,1112.8593234159825,0.06401091925090048,Very Low Priority
+Lead_559,42,Female,Ontario,Full-time,Widowed,Investment,Branch Walk-in,Email,3539.838784111166,0.2036091443035408,Low Priority
+Lead_560,49,Male,Ontario,Full-time,Widowed,Chequing Account,Referral,Email,3118.0091257913914,0.17934578627778527,Low Priority
+Lead_561,49,Male,Nova Scotia,Part-time,Divorced,Credit Card,Referral,Website,3255.585246114319,0.1872590721204302,Low Priority
+Lead_562,39,Other,Alberta,Part-time,Single,Chequing Account,Online Ad,Call,1080.4771276717436,0.06214831714716942,Very Low Priority
+Lead_563,40,Male,Ontario,Full-time,Married,Investment,Social Media,Website,3641.363395155435,0.2094487715976589,Low Priority
+Lead_564,43,Male,Alberta,Full-time,Single,Mortgage,Referral,Website,3862.3947669416807,0.22216234733326562,Low Priority
+Lead_565,35,Male,Alberta,Full-time,Single,Mortgage,Online Ad,Email,2732.1458771966213,0.15715119193150834,Low Priority
+Lead_566,35,Male,Ontario,Full-time,Single,Mortgage,Branch Walk-in,Website,3988.5907145179613,0.2294210532991738,Low Priority
+Lead_567,46,Male,Alberta,Full-time,Married,Investment,Branch Walk-in,Website,4057.450429835842,0.23338181777686445,Low Priority
+Lead_568,39,Female,Quebec,Part-time,Single,Credit Card,Branch Walk-in,Website,2149.509423974952,0.12363833529719088,Very Low Priority
+Lead_569,46,Other,Ontario,Full-time,Married,Credit Card,Online Ad,Call,3599.9005370462028,0.20706385590661291,Low Priority
+Lead_570,39,Female,Manitoba,Full-time,Single,Chequing Account,Online Ad,Website,4030.4738462296896,0.23183014284496192,Low Priority
+Lead_571,44,Male,Quebec,Part-time,Married,Chequing Account,Online Ad,Email,1781.7557880463323,0.10248539368243778,Very Low Priority
+Lead_572,47,Female,Ontario,Full-time,Widowed,Chequing Account,Branch Walk-in,Call,1597.0406744382594,0.09186070467386344,Very Low Priority
+Lead_573,43,Female,Ontario,Unemployed,Married,Chequing Account,Partnership,Branch,777.4649482089757,0.04471926053281384,Very Low Priority
+Lead_574,47,Female,Quebec,Full-time,Divorced,Chequing Account,Partnership,Email,2555.579471621466,0.14699521112433825,Very Low Priority
+Lead_575,50,Female,Ontario,Full-time,Married,Investment,Partnership,Call,1248.921105400919,0.07183710137159952,Very Low Priority
+Lead_576,46,Other,Quebec,Full-time,Single,Credit Card,Referral,Call,2138.917395042094,0.12302908892214755,Very Low Priority
+Lead_577,48,Male,Ontario,Full-time,Married,Chequing Account,Social Media,Email,3202.2474693286204,0.18419111909976282,Low Priority
+Lead_578,40,Female,Manitoba,Student,Married,Investment,Social Media,Website,2604.626106470086,0.14981634054902285,Very Low Priority
+Lead_579,47,Other,British Columbia,Full-time,Single,Mortgage,Branch Walk-in,Website,3706.0092340692117,0.21316715674081838,Low Priority
+Lead_580,49,Female,British Columbia,Part-time,Married,Mortgage,Online Ad,Email,792.8632103651823,0.04560495820793383,Very Low Priority
+Lead_581,35,Male,Quebec,Full-time,Married,Investment,Partnership,Call,792.8632103651823,0.04560495820793383,Very Low Priority
+Lead_582,45,Female,Nova Scotia,Student,Single,Credit Card,Social Media,Website,2613.011503035857,0.1502986629155289,Low Priority
+Lead_583,40,Male,Ontario,Full-time,Single,Chequing Account,Branch Walk-in,Branch,1018.0074140920144,0.058555101268540154,Very Low Priority
+Lead_584,41,Female,Ontario,Full-time,Single,Credit Card,Partnership,Call,3573.2055347524606,0.20552837734227633,Low Priority
+Lead_585,38,Female,Ontario,Student,Single,Mortgage,Referral,Website,3303.678955257618,0.1900253898999302,Low Priority
+Lead_586,38,Male,Ontario,Full-time,Single,Chequing Account,Online Ad,Call,3174.8134166509763,0.1826131308547767,Low Priority
+Lead_587,39,Female,Quebec,Full-time,Married,Mortgage,Referral,Call,4114.212982840844,0.2366467616205528,Low Priority
+Lead_588,40,Male,Ontario,Full-time,Married,Investment,Social Media,Email,3695.3596305293063,0.21255459871312937,Low Priority
+Lead_589,45,Female,Ontario,Full-time,Married,Credit Card,Social Media,Email,654.2346775052793,0.037631138304509176,Very Low Priority
+Lead_590,42,Other,British Columbia,Unemployed,Married,Credit Card,Social Media,Branch,2550.1212350721275,0.1466812570317944,Very Low Priority
+Lead_591,49,Female,Alberta,Full-time,Single,Chequing Account,Online Ad,Email,3138.901397798079,0.1805474957016529,Low Priority
+Lead_592,47,Female,Alberta,Full-time,Married,Chequing Account,Online Ad,Call,1961.5098134074942,0.1128247242342084,Very Low Priority
+Lead_593,48,Female,Manitoba,Student,Married,Investment,Partnership,Email,1714.6255704025423,0.0986241087468882,Very Low Priority
+Lead_594,37,Male,Alberta,Full-time,Married,Mortgage,Partnership,Website,3323.067838614397,0.19114062542054056,Low Priority
+Lead_595,44,Female,Ontario,Part-time,Married,Credit Card,Branch Walk-in,Email,3746.5691092475877,0.21550013346145203,Low Priority
+Lead_596,46,Female,Alberta,Self-employed,Married,Chequing Account,Referral,Email,3483.9570383158607,0.20039486389770952,Low Priority
+Lead_597,41,Male,Nova Scotia,Self-employed,Married,Chequing Account,Online Ad,Website,3209.626972368962,0.18461558314772275,Low Priority
+Lead_598,42,Female,Manitoba,Part-time,Married,Chequing Account,Referral,Email,2529.2615493089743,0.14548142194672206,Very Low Priority
+Lead_599,46,Male,British Columbia,Unemployed,Single,Credit Card,Referral,Website,2931.7101045509166,0.16862999196827558,Low Priority
+Lead_600,35,Male,Ontario,Part-time,Divorced,Mortgage,Referral,Website,805.6872874255016,0.04634259048894459,Very Low Priority
+Lead_601,47,Female,Alberta,Full-time,Single,Chequing Account,Branch Walk-in,Call,4144.882800311836,0.23841086887855673,Low Priority
+Lead_602,37,Female,British Columbia,Full-time,Single,Chequing Account,Online Ad,Call,2078.8932329234876,0.11957653951753527,Very Low Priority
+Lead_603,43,Female,Alberta,Full-time,Married,Credit Card,Branch Walk-in,Website,793.6732514741193,0.04565155122730569,Very Low Priority
+Lead_604,39,Female,Ontario,Full-time,Married,Credit Card,Social Media,Email,3753.986156313912,0.21592675701651673,Low Priority
+Lead_605,41,Male,Alberta,Part-time,Single,Mortgage,Social Media,Branch,3430.5071294381855,0.1973204611145844,Low Priority
+Lead_606,38,Male,Alberta,Student,Single,Credit Card,Online Ad,Call,3417.291723433367,0.19656031985607775,Low Priority
+Lead_607,51,Male,Alberta,Part-time,Married,Credit Card,Partnership,Website,1348.3817746481484,0.07755801212272877,Very Low Priority
+Lead_608,44,Male,Quebec,Full-time,Married,Mortgage,Online Ad,Website,4190.996875835259,0.24106331946467308,Low Priority
+Lead_609,39,Male,Unknown,Unemployed,Married,Chequing Account,Online Ad,Call,4081.4777865816445,0.23476385516479514,Low Priority
+Lead_610,39,Female,Alberta,Part-time,Married,Credit Card,Social Media,Email,1233.0753378629065,0.0709256634881204,Very Low Priority
+Lead_611,49,Female,Quebec,Full-time,Widowed,Chequing Account,Partnership,Call,864.4261704391974,0.049721211504524944,Very Low Priority
+Lead_612,45,Female,Alberta,Full-time,Single,Mortgage,Referral,Call,3969.16079732551,0.22830345753995424,Low Priority
+Lead_613,37,Female,Manitoba,Self-employed,Married,Chequing Account,Social Media,Website,3491.4999706037065,0.2008287282859866,Low Priority
+Lead_614,49,Male,Ontario,Unemployed,Married,Credit Card,Referral,Email,1250.0997311389808,0.07190489513075546,Very Low Priority
+Lead_615,51,Male,Ontario,Part-time,Married,Chequing Account,Branch Walk-in,Email,1953.0224502547333,0.11233653681824929,Very Low Priority
+Lead_616,47,Female,Ontario,Student,Married,Chequing Account,Online Ad,Call,2257.4339771203004,0.12984608295335542,Very Low Priority
+Lead_617,40,Male,Ontario,Part-time,Single,Mortgage,Online Ad,Email,2166.516388795689,0.12461656446680552,Very Low Priority
+Lead_618,40,Male,Quebec,Student,Married,Mortgage,Referral,Call,2882.8581137900896,0.16582005834051178,Low Priority
+Lead_619,50,Female,Quebec,Full-time,Married,Mortgage,Partnership,Email,1479.7700454889055,0.08511537702801375,Very Low Priority
+Lead_620,45,Male,Ontario,Part-time,Single,Mortgage,Partnership,Email,2550.1212350721275,0.1466812570317944,Very Low Priority
+Lead_621,39,Female,Quebec,Self-employed,Widowed,Credit Card,Online Ad,Email,2826.026797697672,0.1625511592903177,Low Priority
+Lead_622,48,Female,Quebec,Full-time,Married,Chequing Account,Referral,Email,3584.3095720035762,0.20616707409116855,Low Priority
+Lead_623,46,Male,British Columbia,Full-time,Single,Mortgage,Branch Walk-in,Website,1734.5446827400297,0.09976984268158781,Very Low Priority
+Lead_624,40,Male,Ontario,Student,Divorced,Mortgage,Online Ad,Call,1170.69579639435,0.06733763424863368,Very Low Priority
+Lead_625,44,Female,British Columbia,Full-time,Single,Chequing Account,Online Ad,Email,2223.77669568959,0.12791013877916016,Very Low Priority
+Lead_626,38,Male,Alberta,Full-time,Married,Mortgage,Referral,Website,3295.428934978778,0.18955085428633076,Low Priority
+Lead_627,46,Female,Ontario,Full-time,Single,Chequing Account,Referral,Email,3854.7825005045797,0.22172449489139012,Low Priority
+Lead_628,40,Male,Ontario,Part-time,Single,Investment,Online Ad,Website,3958.9703189113006,0.22771730808047205,Low Priority
+Lead_629,49,Female,Ontario,Full-time,Married,Investment,Online Ad,Branch,2004.8818611573113,0.11531945522836297,Very Low Priority
+Lead_630,51,Male,Unknown,Part-time,Married,Credit Card,Referral,Call,3034.319714617776,0.174532027675893,Low Priority
+Lead_631,41,Male,Ontario,Unemployed,Married,Mortgage,Branch Walk-in,Email,3054.783462443947,0.175709088677324,Low Priority
+Lead_632,40,Male,Quebec,Full-time,Single,Credit Card,Online Ad,Website,3763.9885455446233,0.21650208771276128,Low Priority
+Lead_633,47,Male,Manitoba,Student,Single,Chequing Account,Branch Walk-in,Email,3724.8472346649382,0.21425070585579553,Low Priority
+Lead_634,37,Other,Quebec,Self-employed,Married,Credit Card,Referral,Email,3223.6784392972536,0.18542381406782024,Low Priority
+Lead_635,38,Male,Unknown,Full-time,Single,Mortgage,Branch Walk-in,Website,3844.249327338593,0.22111863386044317,Low Priority
+Lead_636,47,Male,Ontario,Full-time,Single,Credit Card,Referral,Branch,1762.9885097471952,0.10140591246635941,Very Low Priority
+Lead_637,41,Female,Ontario,Full-time,Single,Credit Card,Social Media,Website,1942.9242471294683,0.11175569497127948,Very Low Priority
+Lead_638,42,Male,Nova Scotia,Full-time,Married,Chequing Account,Referral,Website,3430.5071294381855,0.1973204611145844,Low Priority
+Lead_639,40,Female,Ontario,Full-time,Married,Mortgage,Branch Walk-in,Email,804.8958408236831,0.046297067013106784,Very Low Priority
+Lead_640,46,Female,British Columbia,Part-time,Single,Investment,Online Ad,Email,2054.8167264640806,0.11819167507115923,Very Low Priority
+Lead_641,42,Other,Nova Scotia,Self-employed,Single,Chequing Account,Online Ad,Call,1093.0436471728794,0.06287113489073015,Very Low Priority
+Lead_642,35,Male,British Columbia,Full-time,Single,Credit Card,Referral,Website,3632.081263762332,0.20891486964744982,Low Priority
+Lead_643,50,Female,Manitoba,Part-time,Married,Credit Card,Referral,Website,872.4812314680732,0.05018453319328768,Very Low Priority
+Lead_644,38,Female,Ontario,Self-employed,Married,Credit Card,Online Ad,Website,2368.2016235574197,0.13621736342206242,Very Low Priority
+Lead_645,40,Female,British Columbia,Part-time,Divorced,Investment,Branch Walk-in,Email,872.4812314680732,0.05018453319328768,Very Low Priority
+Lead_646,43,Female,Alberta,Self-employed,Married,Credit Card,Branch Walk-in,Email,926.8367084955255,0.05331102364687743,Very Low Priority
+Lead_647,41,Male,Ontario,Full-time,Married,Investment,Partnership,Call,2698.6268285312763,0.15522319881293659,Low Priority
+Lead_648,51,Female,Nova Scotia,Unemployed,Married,Credit Card,Online Ad,Website,3558.612705914205,0.20468900764949208,Low Priority
+Lead_649,40,Female,Ontario,Part-time,Single,Chequing Account,Social Media,Website,2605.8968167194544,0.14988943094728982,Very Low Priority
+Lead_650,51,Male,British Columbia,Student,Single,Chequing Account,Referral,Email,2418.9008730838987,0.13913355013069245,Very Low Priority
+Lead_651,51,Male,Manitoba,Full-time,Divorced,Investment,Online Ad,Website,1794.769083575769,0.10323390968243494,Very Low Priority
+Lead_652,48,Male,Manitoba,Part-time,Single,Investment,Partnership,Email,1879.9172255807146,0.10813157349991767,Very Low Priority
+Lead_653,47,Female,Ontario,Student,Married,Credit Card,Social Media,Email,1793.925565214514,0.10318539107404229,Very Low Priority
+Lead_654,48,Male,British Columbia,Full-time,Single,Credit Card,Branch Walk-in,Branch,2527.9526592009206,0.1454061354686812,Very Low Priority
+Lead_655,46,Female,Quebec,Full-time,Single,Mortgage,Referral,Website,3018.983457479167,0.17364989648765153,Low Priority
+Lead_656,51,Female,British Columbia,Full-time,Married,Mortgage,Partnership,Call,2065.429817539802,0.1188021329264838,Very Low Priority
+Lead_657,40,Male,Ontario,Full-time,Single,Investment,Branch Walk-in,Call,2949.149492845986,0.1696330938450826,Low Priority
+Lead_658,43,Female,Ontario,Student,Single,Mortgage,Social Media,Email,2854.085952883822,0.16416510301085543,Low Priority
+Lead_659,36,Female,Quebec,Full-time,Married,Credit Card,Online Ad,Call,1639.402116987095,0.09429730633706539,Very Low Priority
+Lead_660,49,Female,Nova Scotia,Part-time,Widowed,Credit Card,Branch Walk-in,Email,1178.774494579698,0.06780231553072723,Very Low Priority
+Lead_661,50,Male,Manitoba,Full-time,Married,Chequing Account,Referral,Website,2882.8581137900896,0.16582005834051178,Low Priority
+Lead_662,49,Female,Alberta,Full-time,Divorced,Mortgage,Online Ad,Call,2994.3852412073848,0.17223502364401477,Low Priority
+Lead_663,50,Female,Alberta,Full-time,Married,Credit Card,Branch Walk-in,Website,2910.492345870089,0.16740956076998667,Low Priority
+Lead_664,39,Female,Quebec,Full-time,Single,Mortgage,Referral,Email,2557.8996858087985,0.14712866828272753,Very Low Priority
+Lead_665,45,Female,Manitoba,Full-time,Married,Credit Card,Online Ad,Call,3945.3402840833505,0.22693331765113298,Low Priority
+Lead_666,37,Male,British Columbia,Part-time,Married,Credit Card,Branch Walk-in,Call,1779.6091242273774,0.10236191902442605,Very Low Priority
+Lead_667,56,Male,Ontario,Full-time,Single,Chequing Account,Referral,Website,13680.743972690156,0.7869071852137175,Very High Priority
+Lead_668,61,Male,Quebec,Full-time,Single,Mortgage,Referral,Call,16382.343188759316,0.9423013537572089,Very High Priority
+Lead_669,66,Male,Ontario,Full-time,Married,Investment,Social Media,Call,5242.277827250778,0.30153229220464856,Lower-Medium Priority
+Lead_670,64,Female,Alberta,Full-time,Married,Credit Card,Partnership,Website,11755.163663025089,0.6761491018517102,High Priority
+Lead_671,65,Female,Ontario,Student,Married,Chequing Account,Partnership,Website,12630.887719423876,0.726520160152365,High Priority
+Lead_672,56,Male,Ontario,Full-time,Married,Investment,Social Media,Website,16490.27601847811,0.9485095774763074,Very High Priority
+Lead_673,52,Male,British Columbia,Full-time,Single,Chequing Account,Branch Walk-in,Email,4371.1192204636045,0.2514238354927875,Low Priority
+Lead_674,64,Female,Nova Scotia,Part-time,Married,Mortgage,Referral,Website,8604.614137149032,0.494931613663015,Medium Priority
+Lead_675,54,Female,British Columbia,Full-time,Married,Credit Card,Partnership,Website,8992.839529833069,0.5172620769474188,Medium Priority
+Lead_676,54,Male,Quebec,Full-time,Married,Chequing Account,Referral,Website,4787.270327857529,0.2753605670913492,Low Priority
+Lead_677,57,Female,Alberta,Full-time,Married,Mortgage,Online Ad,Website,5197.969136487478,0.29898368613478454,Low Priority
+Lead_678,61,Male,Ontario,Student,Divorced,Chequing Account,Referral,Call,17385.460737627625,1.0,Very High Priority
+Lead_679,60,Male,Ontario,Full-time,Single,Credit Card,Referral,Call,13191.488548041962,0.7587655424909975,Very High Priority
+Lead_680,58,Male,Ontario,Full-time,Single,Credit Card,Branch Walk-in,Branch,10415.14982922341,0.5990724080542621,Medium Priority
+Lead_681,61,Female,British Columbia,Full-time,Single,Chequing Account,Partnership,Website,5362.735247796865,0.30846092195820923,Lower-Medium Priority
+Lead_682,59,Female,Ontario,Unemployed,Single,Credit Card,Online Ad,Email,9620.957790045179,0.5533910165073963,Medium Priority
+Lead_683,65,Male,Ontario,Full-time,Divorced,Mortgage,Partnership,Email,12008.737397654335,0.690734492394765,High Priority
+Lead_684,54,Female,Ontario,Part-time,Single,Mortgage,Online Ad,Call,10392.221228735065,0.5977535703867207,Medium Priority
+Lead_685,66,Female,Nova Scotia,Full-time,Single,Mortgage,Referral,Call,16108.24028092733,0.9265351389890987,Very High Priority
+Lead_686,62,Male,Ontario,Unemployed,Married,Credit Card,Branch Walk-in,Email,14858.390500022095,0.8546446208275543,Very High Priority
+Lead_687,55,Female,Ontario,Student,Married,Credit Card,Referral,Call,17172.23621336868,0.9877354688796104,Very High Priority
+Lead_688,67,Male,Quebec,Self-employed,Single,Mortgage,Partnership,Email,13790.538186377009,0.7932224744858174,Very High Priority
+Lead_689,67,Female,Manitoba,Part-time,Single,Credit Card,Social Media,Call,7941.111836665459,0.45676740792255144,Medium Priority
+Lead_690,54,Female,Ontario,Part-time,Single,Investment,Online Ad,Branch,14330.16375100589,0.8242613737576072,Very High Priority
+Lead_691,63,Female,Alberta,Part-time,Married,Credit Card,Online Ad,Email,17385.460737627625,1.0,Very High Priority
+Lead_692,62,Female,Ontario,Full-time,Divorced,Chequing Account,Partnership,Branch,10513.22455615206,0.6047136003360626,High Priority
+Lead_693,65,Male,Alberta,Full-time,Married,Credit Card,Social Media,Website,16001.9819249711,0.9204232298737852,Very High Priority
+Lead_694,55,Female,Quebec,Self-employed,Widowed,Mortgage,Referral,Email,7917.557389092078,0.45541257195191753,Medium Priority
+Lead_695,68,Female,Ontario,Full-time,Single,Mortgage,Branch Walk-in,Email,11289.631978384894,0.6493720326865176,High Priority
+Lead_696,53,Female,Quebec,Full-time,Single,Mortgage,Branch Walk-in,Branch,8139.096622000709,0.4681553595174579,Medium Priority
+Lead_697,53,Male,Ontario,Full-time,Single,Credit Card,Referral,Call,16751.053472599782,0.9635093211159607,Very High Priority
+Lead_698,67,Female,Quebec,Self-employed,Single,Mortgage,Social Media,Website,15570.406816885856,0.8955993201368877,Very High Priority
+Lead_699,64,Female,Ontario,Self-employed,Married,Mortgage,Branch Walk-in,Branch,6907.40049576189,0.3973090273536493,Lower-Medium Priority
+Lead_700,68,Male,British Columbia,Full-time,Married,Chequing Account,Referral,Branch,11029.771119418314,0.6344250109832527,High Priority
+Lead_701,66,Male,Alberta,Part-time,Married,Mortgage,Online Ad,Website,11110.990824524384,0.6390967137544242,High Priority
+Lead_702,52,Male,Ontario,Unemployed,Married,Investment,Branch Walk-in,Branch,9881.152082312266,0.5683572170696825,Medium Priority
+Lead_703,60,Female,British Columbia,Self-employed,Single,Investment,Online Ad,Call,5067.779859363767,0.29149528654109763,Low Priority
+Lead_704,58,Male,Quebec,Unemployed,Single,Credit Card,Referral,Branch,5980.836971513831,0.344013717080814,Lower-Medium Priority
+Lead_705,60,Female,Ontario,Full-time,Single,Credit Card,Referral,Email,13779.98160804055,0.7926152672052182,Very High Priority
+Lead_706,68,Other,Alberta,Part-time,Married,Mortgage,Referral,Email,5998.629120528708,0.34503710951679184,Lower-Medium Priority
+Lead_707,59,Male,Manitoba,Full-time,Single,Chequing Account,Referral,Website,9706.20114161199,0.5582941567147948,Medium Priority
+Lead_708,62,Female,Manitoba,Part-time,Single,Chequing Account,Referral,Email,9387.437065231848,0.5399590615918778,Medium Priority
+Lead_709,53,Male,Ontario,Full-time,Married,Credit Card,Branch Walk-in,Website,4624.501307352939,0.265998202586835,Low Priority
+Lead_710,57,Male,Alberta,Student,Married,Mortgage,Partnership,Branch,14051.428778008598,0.8082287257188917,Very High Priority
+Lead_711,54,Male,British Columbia,Student,Married,Chequing Account,Partnership,Website,10358.553149468615,0.5958170051282815,Medium Priority
+Lead_712,58,Male,Quebec,Full-time,Single,Chequing Account,Branch Walk-in,Website,5662.849780220014,0.3257233078651645,Lower-Medium Priority
+Lead_713,62,Male,Quebec,Part-time,Married,Investment,Branch Walk-in,Branch,16816.80674025199,0.9672914048147778,Very High Priority
+Lead_714,65,Male,British Columbia,Full-time,Divorced,Mortgage,Online Ad,Branch,12642.966803108506,0.7272149409158386,High Priority
+Lead_715,57,Male,Nova Scotia,Self-employed,Single,Investment,Referral,Website,4679.9889591545025,0.269189814971399,Low Priority
+Lead_716,61,Female,Ontario,Part-time,Single,Credit Card,Referral,Email,5111.554213519079,0.29401315792891597,Low Priority
+Lead_717,58,Female,Quebec,Unemployed,Married,Credit Card,Branch Walk-in,Email,9698.10205640882,0.557828302785158,Medium Priority
+Lead_718,58,Male,Ontario,Full-time,Divorced,Chequing Account,Referral,Email,5842.175921982753,0.3360380268403494,Lower-Medium Priority
+Lead_719,64,Male,British Columbia,Full-time,Single,Credit Card,Referral,Website,15681.197563847756,0.9019719293322319,Very High Priority
+Lead_720,53,Female,British Columbia,Part-time,Divorced,Chequing Account,Partnership,Email,8753.168637472521,0.5034763685340764,Medium Priority
+Lead_721,56,Female,Quebec,Full-time,Single,Credit Card,Referral,Email,10675.159658811759,0.6140279984474236,High Priority
+Lead_722,52,Male,Quebec,Full-time,Married,Credit Card,Online Ad,Email,5553.962197449968,0.31946016739317357,Lower-Medium Priority
+Lead_723,67,Male,Manitoba,Unemployed,Married,Mortgage,Branch Walk-in,Website,4546.191815506451,0.261493893323578,Low Priority
+Lead_724,59,Male,British Columbia,Full-time,Divorced,Investment,Referral,Email,4993.806356568733,0.28724038044965694,Low Priority
+Lead_725,60,Male,Ontario,Self-employed,Single,Credit Card,Online Ad,Email,12336.550414213923,0.7095900764662356,High Priority
+Lead_726,68,Other,Ontario,Full-time,Single,Chequing Account,Referral,Website,9627.214887101276,0.5537509205186,Medium Priority
+Lead_727,66,Other,Nova Scotia,Full-time,Divorced,Mortgage,Referral,Email,5268.635669314352,0.30304837753947816,Lower-Medium Priority
+Lead_728,54,Female,Ontario,Full-time,Married,Credit Card,Online Ad,Email,7996.461573733428,0.4599510875444653,Medium Priority
+Lead_729,66,Male,Ontario,Student,Single,Mortgage,Online Ad,Email,8580.061258797268,0.49351934862602215,Medium Priority
+Lead_730,63,Male,British Columbia,Student,Married,Chequing Account,Partnership,Website,17104.47620806302,0.9838379589816412,Very High Priority
+Lead_731,53,Female,Quebec,Unemployed,Married,Chequing Account,Partnership,Branch,17153.98562380413,0.9866857072517778,Very High Priority
+Lead_732,67,Female,Ontario,Full-time,Single,Mortgage,Online Ad,Call,8685.191032084653,0.49956634242583847,Medium Priority
+Lead_733,57,Female,Manitoba,Part-time,Single,Credit Card,Branch Walk-in,Email,14984.755578728436,0.8619130551022266,Very High Priority
+Lead_734,62,Male,British Columbia,Full-time,Married,Mortgage,Online Ad,Website,6812.755086382708,0.3918650871091242,Lower-Medium Priority
+Lead_735,56,Other,Alberta,Unemployed,Single,Chequing Account,Partnership,Email,10253.269306781569,0.5897611493602961,Medium Priority
+Lead_736,56,Male,Quebec,Full-time,Divorced,Chequing Account,Online Ad,Email,17385.460737627625,1.0,Very High Priority
+Lead_737,60,Male,Manitoba,Full-time,Married,Mortgage,Partnership,Website,9397.94693370017,0.5405635821523007,Medium Priority
+Lead_738,56,Male,Ontario,Part-time,Single,Credit Card,Partnership,Email,14819.669359465517,0.8524174068847697,Very High Priority
+Lead_739,66,Male,Ontario,Student,Married,Mortgage,Online Ad,Website,13801.304109768316,0.7938417231530677,Very High Priority
+Lead_740,56,Male,Quebec,Full-time,Married,Mortgage,Social Media,Email,9614.199441016946,0.5530022808201329,Medium Priority
+Lead_741,55,Male,Manitoba,Self-employed,Married,Investment,Social Media,Email,13996.969021577968,0.8050962371842184,Very High Priority
+Lead_742,55,Female,Ontario,Student,Married,Investment,Social Media,Email,5231.272840258899,0.30089929275999994,Lower-Medium Priority
+Lead_743,64,Female,Ontario,Full-time,Married,Credit Card,Branch Walk-in,Website,5826.228148106555,0.33512072162095524,Lower-Medium Priority
+Lead_744,59,Male,Ontario,Part-time,Single,Investment,Branch Walk-in,Website,14964.951581481344,0.860773942510046,Very High Priority
+Lead_745,61,Male,Alberta,Unemployed,Single,Chequing Account,Partnership,Branch,13181.892777900055,0.7582136002510579,Very High Priority
+Lead_746,61,Male,Quebec,Part-time,Married,Chequing Account,Referral,Call,14043.305460933294,0.8077614779882795,Very High Priority
+Lead_747,52,Male,Quebec,Full-time,Single,Chequing Account,Referral,Branch,10548.903022087814,0.6067658016825898,High Priority
+Lead_748,67,Male,Ontario,Full-time,Married,Chequing Account,Branch Walk-in,Website,7141.3994396703565,0.41076848910964514,Lower-Medium Priority
+Lead_749,55,Male,Ontario,Part-time,Divorced,Chequing Account,Branch Walk-in,Website,11858.536432956273,0.6820950340010636,High Priority
+Lead_750,59,Female,Alberta,Self-employed,Married,Chequing Account,Online Ad,Email,10887.372492397191,0.6262343378012111,High Priority
+Lead_751,62,Male,British Columbia,Student,Married,Mortgage,Referral,Email,4405.2917309583945,0.25338941529596354,Low Priority
+Lead_752,56,Female,British Columbia,Student,Married,Mortgage,Online Ad,Website,16595.11968354539,0.954540114523874,Very High Priority
+Lead_753,62,Female,Quebec,Self-employed,Married,Investment,Branch Walk-in,Website,10358.553149468615,0.5958170051282815,Medium Priority
+Lead_754,56,Male,Quebec,Part-time,Married,Mortgage,Online Ad,Website,9284.329627974255,0.5340283911993218,Medium Priority
+Lead_755,58,Male,Ontario,Self-employed,Single,Credit Card,Online Ad,Email,11174.56570075982,0.6427534978451582,High Priority
+Lead_756,54,Female,Ontario,Full-time,Single,Credit Card,Branch Walk-in,Call,5612.779899430138,0.32284332202265487,Lower-Medium Priority
+Lead_757,64,Male,Manitoba,Full-time,Married,Chequing Account,Online Ad,Email,9560.688035243382,0.5499243407769479,Medium Priority
+Lead_758,56,Female,Ontario,Full-time,Married,Mortgage,Social Media,Branch,8896.915662018482,0.5117446006341809,Medium Priority
+Lead_759,63,Female,Quebec,Full-time,Married,Chequing Account,Referral,Website,13660.799472036882,0.785759990960182,Very High Priority
+Lead_760,64,Male,British Columbia,Unemployed,Single,Investment,Referral,Email,17080.978072490394,0.9824863620393888,Very High Priority
+Lead_761,53,Female,Quebec,Unemployed,Married,Chequing Account,Online Ad,Website,8273.612965476786,0.4758926490553153,Medium Priority
+Lead_762,65,Female,British Columbia,Full-time,Single,Mortgage,Online Ad,Email,17159.592124759696,0.9870081894131757,Very High Priority
+Lead_763,68,Male,British Columbia,Self-employed,Married,Investment,Referral,Email,13525.342283153062,0.7779685846277259,Very High Priority
+Lead_764,57,Male,Ontario,Self-employed,Widowed,Chequing Account,Partnership,Email,6259.014359077046,0.3600142931806554,Lower-Medium Priority
+Lead_765,53,Female,Alberta,Unknown,Married,Mortgage,Branch Walk-in,Branch,13004.907245826878,0.748033511569823,High Priority
+Lead_766,60,Female,Quebec,Part-time,Divorced,Mortgage,Branch Walk-in,Email,4438.18117071816,0.255281193734057,Low Priority
+Lead_767,68,Male,Ontario,Self-employed,Single,Credit Card,Partnership,Website,5478.314738917194,0.3151089764943871,Lower-Medium Priority
+Lead_768,54,Female,British Columbia,Part-time,Single,Mortgage,Branch Walk-in,Email,8753.168637472521,0.5034763685340764,Medium Priority
+Lead_769,56,Female,Quebec,Self-employed,Married,Chequing Account,Branch Walk-in,Email,6862.713288928808,0.39473864929421915,Lower-Medium Priority
+Lead_770,57,Female,British Columbia,Full-time,Single,Chequing Account,Social Media,Website,11563.879427160313,0.6651465613524079,High Priority
+Lead_771,55,Female,Quebec,Full-time,Single,Mortgage,Partnership,Email,15250.545468234892,0.8772011106514939,Very High Priority
+Lead_772,67,Male,British Columbia,Full-time,Single,Mortgage,Branch Walk-in,Email,11422.500022462771,0.657014513152411,High Priority
+Lead_773,56,Male,British Columbia,Full-time,Widowed,Mortgage,Branch Walk-in,Call,7030.303539542255,0.4043783277095705,Lower-Medium Priority
+Lead_774,57,Female,British Columbia,Full-time,Single,Chequing Account,Online Ad,Website,12846.677406825465,0.7389322377301857,High Priority
+Lead_775,55,Female,Ontario,Student,Single,Mortgage,Online Ad,Email,6459.589843401297,0.371551260037688,Lower-Medium Priority
+Lead_776,55,Female,Ontario,Student,Married,Chequing Account,Branch Walk-in,Website,14050.752095321655,0.8081898033861934,Very High Priority
+Lead_777,52,Female,Manitoba,Part-time,Married,Mortgage,Referral,Email,6875.442363794811,0.39547081711295595,Lower-Medium Priority
+Lead_778,54,Female,Quebec,Part-time,Married,Chequing Account,Social Media,Website,14155.415831874532,0.8142099910667161,Very High Priority
+Lead_779,56,Female,Quebec,Full-time,Single,Credit Card,Social Media,Email,9553.823074617549,0.5495294728623475,Medium Priority
+Lead_780,68,Male,Ontario,Unknown,Married,Credit Card,Social Media,Email,9682.973132905974,0.5569580972880956,Medium Priority
+Lead_781,53,Male,Ontario,Unemployed,Married,Chequing Account,Branch Walk-in,Website,12941.757454983392,0.744401178104722,High Priority
+Lead_782,62,Female,Manitoba,Full-time,Single,Mortgage,Referral,Call,13689.600095722728,0.7874165834497623,Very High Priority
+Lead_783,58,Female,Ontario,Self-employed,Single,Investment,Branch Walk-in,Call,9684.127014685744,0.557024467791425,Medium Priority
+Lead_784,65,Male,Ontario,Unemployed,Married,Chequing Account,Branch Walk-in,Branch,6022.044979132232,0.3463839739431596,Lower-Medium Priority
+Lead_785,65,Male,Quebec,Full-time,Married,Chequing Account,Branch Walk-in,Website,8422.824446457591,0.4844751930115916,Medium Priority
+Lead_786,66,Female,Ontario,Full-time,Single,Mortgage,Social Media,Email,8237.297268765613,0.4738037946234868,Medium Priority
+Lead_787,52,Female,Quebec,Unemployed,Single,Credit Card,Referral,Website,7064.556618156109,0.4063485417367271,Lower-Medium Priority
+Lead_788,58,Male,Ontario,Full-time,Married,Investment,Branch Walk-in,Email,7601.8561875832,0.43725365133006705,Lower-Medium Priority
+Lead_789,61,Male,Manitoba,Full-time,Married,Mortgage,Branch Walk-in,Email,14846.536385534018,0.8539627801408465,Very High Priority
+Lead_790,56,Other,Nova Scotia,Part-time,Widowed,Mortgage,Online Ad,Call,11291.299543271163,0.6494679498963882,High Priority
+Lead_791,63,Male,Quebec,Student,Single,Chequing Account,Branch Walk-in,Email,6398.879848289488,0.3680592619809202,Lower-Medium Priority
+Lead_792,52,Female,Ontario,Part-time,Married,Chequing Account,Branch Walk-in,Call,6640.662065442178,0.3819664123752377,Lower-Medium Priority
+Lead_793,62,Other,Alberta,Full-time,Single,Chequing Account,Social Media,Email,10152.569135085978,0.5839689432626087,Medium Priority
+Lead_794,64,Female,Quebec,Part-time,Divorced,Chequing Account,Online Ad,Email,15465.016306109332,0.8895373288921906,Very High Priority
+Lead_795,61,Male,Quebec,Part-time,Divorced,Credit Card,Social Media,Call,17385.460737627625,1.0,Very High Priority
+Lead_796,67,Female,Quebec,Full-time,Divorced,Chequing Account,Branch Walk-in,Website,16168.25789600215,0.929987311812159,Very High Priority
+Lead_797,66,Female,Nova Scotia,Full-time,Single,Credit Card,Branch Walk-in,Website,6582.324392812871,0.37861086871092486,Lower-Medium Priority
+Lead_798,56,Female,Quebec,Unemployed,Married,Investment,Referral,Website,10836.395152385763,0.6233021555150611,High Priority
+Lead_799,55,Male,Quebec,Part-time,Married,Mortgage,Social Media,Email,15821.570706317996,0.9100460980061991,Very High Priority
+Lead_800,52,Female,British Columbia,Full-time,Single,Chequing Account,Partnership,Branch,6996.750549578561,0.40244838231036256,Lower-Medium Priority
+Lead_801,67,Male,Alberta,Full-time,Single,Chequing Account,Branch Walk-in,Email,8820.528745890622,0.5073508766322318,Medium Priority
+Lead_802,54,Female,British Columbia,Full-time,Widowed,Chequing Account,Online Ad,Email,14038.839757292224,0.8075046137205754,Very High Priority
+Lead_803,53,Male,Alberta,Student,Single,Investment,Partnership,Branch,16667.455450592017,0.9587008191573768,Very High Priority
+Lead_804,68,Male,Quebec,Student,Divorced,Mortgage,Partnership,Email,10436.27778073685,0.6002876736047293,High Priority
+Lead_805,54,Other,Quebec,Full-time,Married,Investment,Branch Walk-in,Branch,10511.396114150879,0.6046084295828237,High Priority
+Lead_806,58,Male,British Columbia,Full-time,Married,Credit Card,Branch Walk-in,Call,9203.286056154626,0.5293668194962363,Medium Priority
+Lead_807,53,Male,Nova Scotia,Full-time,Married,Credit Card,Online Ad,Website,17383.434714228875,0.999883464497759,Very High Priority
+Lead_808,68,Male,Manitoba,Full-time,Married,Chequing Account,Branch Walk-in,Website,4387.254870299129,0.2523519472109085,Low Priority
+Lead_809,58,Male,British Columbia,Full-time,Single,Mortgage,Referral,Website,11034.573992870477,0.6347012690315521,High Priority
+Lead_810,52,Male,Manitoba,Full-time,Married,Credit Card,Referral,Email,13444.64592246152,0.7733269842750305,Very High Priority
+Lead_811,53,Male,Ontario,Full-time,Married,Chequing Account,Online Ad,Website,4776.661469024637,0.2747503526717836,Low Priority
+Lead_812,53,Other,Ontario,Full-time,Single,Chequing Account,Online Ad,Website,7043.220140088624,0.4051212818792241,Lower-Medium Priority
+Lead_813,63,Female,Nova Scotia,Full-time,Married,Chequing Account,Online Ad,Branch,12289.763423991055,0.7068989202795257,High Priority
+Lead_814,62,Female,Unknown,Part-time,Divorced,Mortgage,Social Media,Website,15596.126000456692,0.8970786702650768,Very High Priority
+Lead_815,58,Male,Ontario,Full-time,Single,Credit Card,Online Ad,Call,4791.89959549592,0.27562683945008926,Low Priority
+Lead_816,55,Female,Quebec,Self-employed,Divorced,Credit Card,Online Ad,Email,5520.905658364249,0.3175587775143207,Lower-Medium Priority
+Lead_817,59,Male,Ontario,Full-time,Single,Chequing Account,Social Media,Website,9050.367117498992,0.5205710250698816,Medium Priority
+Lead_818,67,Male,Manitoba,Full-time,Divorced,Credit Card,Social Media,Branch,10650.967387865112,0.612636475305659,High Priority
+Lead_819,54,Female,Quebec,Full-time,Single,Mortgage,Branch Walk-in,Email,5821.184676993657,0.3348306245571494,Lower-Medium Priority
+Lead_820,60,Female,Ontario,Full-time,Single,Chequing Account,Referral,Website,9353.600777708061,0.5380128211076923,Medium Priority
+Lead_821,52,Male,Quebec,Full-time,Single,Chequing Account,Online Ad,Email,13436.050615863363,0.7728325880247457,Very High Priority
+Lead_822,59,Female,Unknown,Part-time,Single,Mortgage,Online Ad,Email,8140.117577020801,0.46821408416303956,Medium Priority
+Lead_823,56,Female,Ontario,Full-time,Divorced,Credit Card,Branch Walk-in,Call,16500.123527799657,0.9490759995844218,Very High Priority
+Lead_824,58,Male,Ontario,Full-time,Married,Mortgage,Social Media,Email,16819.77404150542,0.9674620819856744,Very High Priority
+Lead_825,66,Male,British Columbia,Part-time,Married,Investment,Branch Walk-in,Email,11268.248280091353,0.6481420567533943,High Priority
+Lead_826,63,Female,British Columbia,Self-employed,Married,Credit Card,Branch Walk-in,Website,9682.973132905974,0.5569580972880956,Medium Priority
+Lead_827,62,Female,Manitoba,Part-time,Single,Chequing Account,Online Ad,Email,7844.018851025507,0.45118268473889644,Medium Priority
+Lead_828,68,Female,British Columbia,Full-time,Married,Mortgage,Partnership,Website,16139.459293552789,0.9283308355827409,Very High Priority
+Lead_829,61,Male,Ontario,Part-time,Single,Credit Card,Partnership,Website,5827.130982979066,0.33517265207515123,Lower-Medium Priority
+Lead_830,54,Male,Quebec,Full-time,Single,Chequing Account,Online Ad,Call,6883.596346868929,0.39593982873117956,Lower-Medium Priority
+Lead_831,60,Male,Ontario,Full-time,Single,Credit Card,Branch Walk-in,Website,15491.005148701259,0.8910321896257736,Very High Priority
+Lead_832,52,Female,Ontario,Full-time,Single,Mortgage,Online Ad,Website,6001.295965223137,0.3451905046286428,Lower-Medium Priority
+Lead_833,65,Male,Ontario,Full-time,Married,Chequing Account,Online Ad,Email,6474.089937578615,0.372385295695192,Lower-Medium Priority
+Lead_834,61,Male,Ontario,Full-time,Married,Chequing Account,Referral,Email,12941.757454983392,0.744401178104722,High Priority
+Lead_835,52,Male,Alberta,Unemployed,Married,Chequing Account,Referral,Website,15340.012804191016,0.8823472115979294,Very High Priority
+Lead_836,54,Male,British Columbia,Self-employed,Single,Mortgage,Referral,Email,11779.730736567597,0.6775621833865203,High Priority
+Lead_837,58,Female,Quebec,Unemployed,Married,Investment,Partnership,Call,6643.380962891787,0.3821228015265315,Lower-Medium Priority
+Lead_838,66,Male,Unknown,Self-employed,Married,Credit Card,Branch Walk-in,Email,6687.6418994556625,0.38466866080698653,Lower-Medium Priority
+Lead_839,63,Male,British Columbia,Self-employed,Married,Mortgage,Referral,Email,11651.841508275433,0.6702060810535305,High Priority
+Lead_840,68,Female,Ontario,Full-time,Married,Credit Card,Branch Walk-in,Email,13906.033276686649,0.7998656743441721,Very High Priority
+Lead_841,53,Male,British Columbia,Student,Single,Chequing Account,Referral,Website,6073.85191672114,0.3493638741235892,Lower-Medium Priority
+Lead_842,62,Female,Ontario,Full-time,Divorced,Credit Card,Branch Walk-in,Email,4715.0890630586155,0.27120874932314415,Low Priority
+Lead_843,61,Female,British Columbia,Unemployed,Single,Investment,Partnership,Call,11174.56570075982,0.6427534978451582,High Priority
+Lead_844,56,Male,Quebec,Part-time,Single,Chequing Account,Referral,Email,6801.265174117366,0.3912041950891345,Lower-Medium Priority
+Lead_845,66,Male,Manitoba,Student,Single,Investment,Social Media,Call,5623.668451790513,0.32346962422566805,Lower-Medium Priority
+Lead_846,61,Female,Quebec,Part-time,Married,Chequing Account,Branch Walk-in,Email,8396.037373072302,0.4829344185800395,Medium Priority
+Lead_847,53,Female,Manitoba,Student,Married,Mortgage,Online Ad,Call,9915.197359682968,0.5703154785091977,Medium Priority
+Lead_848,58,Female,British Columbia,Student,Married,Credit Card,Branch Walk-in,Website,10964.234784083978,0.6306554050853488,High Priority
+Lead_849,63,Female,Ontario,Full-time,Married,Credit Card,Referral,Website,6362.679394878128,0.3659770362661302,Lower-Medium Priority
+Lead_850,60,Female,Ontario,Student,Married,Credit Card,Branch Walk-in,Website,14381.12905964897,0.8271928640075479,Very High Priority
+Lead_851,54,Female,Ontario,Student,Single,Chequing Account,Online Ad,Email,17373.456173421015,0.9993095055467452,Very High Priority
+Lead_852,52,Male,Alberta,Part-time,Married,Chequing Account,Partnership,Email,16880.73363302628,0.970968436659895,Very High Priority
+Lead_853,67,Other,Manitoba,Part-time,Married,Mortgage,Referral,Call,17108.68150574149,0.9840798448736479,Very High Priority
+Lead_854,62,Female,Quebec,Student,Married,Mortgage,Partnership,Website,15170.734015468794,0.8726104096070653,Very High Priority
+Lead_855,56,Male,Nova Scotia,Self-employed,Single,Chequing Account,Partnership,Branch,10873.206478863867,0.62541951823749,High Priority
+Lead_856,65,Female,Ontario,Student,Married,Credit Card,Online Ad,Call,6907.915048835004,0.3973386241000847,Lower-Medium Priority
+Lead_857,66,Male,Manitoba,Self-employed,Single,Credit Card,Referral,Call,16607.673433373166,0.955262197764418,Very High Priority
+Lead_858,52,Male,Quebec,Part-time,Married,Credit Card,Online Ad,Branch,5251.705237013216,0.3020745504688793,Lower-Medium Priority
+Lead_859,61,Female,Nova Scotia,Unknown,Widowed,Chequing Account,Branch Walk-in,Website,10962.982579929929,0.6305833791452288,High Priority
+Lead_860,52,Male,British Columbia,Self-employed,Divorced,Mortgage,Partnership,Website,16751.053472599782,0.9635093211159607,Very High Priority
+Lead_861,58,Male,Ontario,Full-time,Single,Chequing Account,Referral,Call,12191.566972585371,0.7012507264877353,High Priority
+Lead_862,56,Female,Quebec,Full-time,Married,Credit Card,Referral,Email,10432.178387980082,0.6000518792925376,High Priority
+Lead_863,58,Male,Ontario,Student,Widowed,Mortgage,Referral,Call,10864.533810478604,0.6249206721892807,High Priority
+Lead_864,59,Male,Quebec,Self-employed,Single,Investment,Branch Walk-in,Branch,12324.65843480039,0.7089060578145012,High Priority
+Lead_865,52,Male,Quebec,Full-time,Divorced,Chequing Account,Referral,Call,16141.855481674214,0.9284686627106835,Very High Priority
+Lead_866,60,Male,British Columbia,Self-employed,Divorced,Chequing Account,Branch Walk-in,Email,7076.631606699154,0.4070430869504131,Lower-Medium Priority
+Lead_867,57,Female,Ontario,Full-time,Divorced,Credit Card,Referral,Email,12281.48055427413,0.7064224951883575,High Priority
+Lead_868,52,Female,Alberta,Student,Single,Chequing Account,Branch Walk-in,Call,7750.175460531225,0.44578487608081613,Lower-Medium Priority
+Lead_869,56,Male,Ontario,Full-time,Married,Mortgage,Branch Walk-in,Email,11343.659313852959,0.6524796486584735,High Priority
+Lead_870,60,Male,Ontario,Student,Married,Mortgage,Branch Walk-in,Email,7362.570382120845,0.4234900928559183,Lower-Medium Priority
+Lead_871,56,Female,Nova Scotia,Self-employed,Single,Credit Card,Online Ad,Branch,11279.891669686964,0.6488117766861201,High Priority
+Lead_872,66,Female,British Columbia,Self-employed,Single,Chequing Account,Partnership,Call,12746.502365187222,0.7331702367599477,High Priority
+Lead_873,58,Female,Manitoba,Self-employed,Married,Mortgage,Online Ad,Email,12680.695484460692,0.7293850692731809,High Priority
+Lead_874,66,Female,Ontario,Part-time,Married,Mortgage,Branch Walk-in,Email,4589.181941245307,0.2639666564207222,Low Priority
+Lead_875,55,Male,Ontario,Full-time,Single,Mortgage,Social Media,Website,15651.294937997542,0.9002519504198815,Very High Priority
+Lead_876,59,Female,Quebec,Full-time,Single,Credit Card,Online Ad,Email,5571.065107912302,0.3204439152915147,Lower-Medium Priority
+Lead_877,58,Male,Ontario,Part-time,Married,Credit Card,Social Media,Branch,17385.460737627625,1.0,Very High Priority
+Lead_878,60,Female,Alberta,Self-employed,Single,Mortgage,Online Ad,Website,9594.777416177227,0.5518851390237303,Medium Priority
+Lead_879,60,Male,Ontario,Full-time,Married,Chequing Account,Online Ad,Website,16485.57348937748,0.9482390911675693,Very High Priority
+Lead_880,59,Female,British Columbia,Self-employed,Married,Chequing Account,Online Ad,Call,10614.74875828953,0.6105532041101369,High Priority
+Lead_881,59,Female,Nova Scotia,Full-time,Single,Mortgage,Social Media,Email,5698.700889118402,0.32778543951870165,Lower-Medium Priority
+Lead_882,63,Male,Quebec,Student,Married,Credit Card,Referral,Email,12468.856742408178,0.717200247412577,High Priority
+Lead_883,55,Male,Quebec,Full-time,Widowed,Mortgage,Referral,Email,8423.272580690664,0.4845009693910523,Medium Priority
+Lead_884,52,Male,Ontario,Student,Single,Credit Card,Partnership,Website,5928.492061013338,0.3410028730606034,Lower-Medium Priority
+Lead_885,68,Other,Alberta,Full-time,Married,Mortgage,Branch Walk-in,Email,10873.744195555772,0.6254504473396875,High Priority
+Lead_886,61,Female,Quebec,Full-time,Single,Chequing Account,Online Ad,Email,17385.460737627625,1.0,Very High Priority
+Lead_887,59,Male,Manitoba,Part-time,Single,Mortgage,Online Ad,Email,14984.755578728436,0.8619130551022266,Very High Priority
+Lead_888,68,Male,Ontario,Unknown,Married,Mortgage,Branch Walk-in,Email,9061.46388559292,0.521209303701745,Medium Priority
+Lead_889,59,Male,Alberta,Part-time,Married,Mortgage,Branch Walk-in,Call,8957.522885367865,0.5152306873283466,Medium Priority
+Lead_890,54,Female,Alberta,Full-time,Single,Credit Card,Online Ad,Branch,16127.798870822244,0.9276601359155582,Very High Priority
+Lead_891,60,Male,Manitoba,Self-employed,Married,Mortgage,Referral,Email,7934.822334957221,0.4564056400175671,Medium Priority
+Lead_892,55,Male,Manitoba,Full-time,Married,Credit Card,Online Ad,Website,4304.882137190568,0.24761392304510194,Low Priority
+Lead_893,60,Male,British Columbia,Part-time,Single,Credit Card,Partnership,Call,9661.16173712884,0.5557035204835864,Medium Priority
+Lead_894,65,Male,Alberta,Student,Married,Credit Card,Partnership,Email,17385.460737627625,1.0,Very High Priority
+Lead_895,61,Female,Ontario,Student,Single,Investment,Referral,Website,9141.704300055286,0.5258246783342216,Medium Priority
+Lead_896,55,Female,Ontario,Part-time,Married,Chequing Account,Branch Walk-in,Email,14246.559470027953,0.8194525117872717,Very High Priority
+Lead_897,60,Female,Quebec,Part-time,Widowed,Credit Card,Social Media,Email,13528.443172053761,0.7781469456701794,Very High Priority
+Lead_898,63,Male,Manitoba,Part-time,Married,Investment,Social Media,Branch,7671.7983480473,0.4412766773240071,Lower-Medium Priority
+Lead_899,54,Female,British Columbia,Full-time,Single,Mortgage,Partnership,Email,16106.979295600808,0.9264626079618482,Very High Priority
+Lead_900,61,Female,Quebec,Unknown,Married,Investment,Branch Walk-in,Email,12103.321899136772,0.6961749292580647,High Priority
+Lead_901,53,Male,Manitoba,Part-time,Married,Credit Card,Referral,Call,12931.366425848608,0.7438034931027769,High Priority
+Lead_902,62,Female,Ontario,Full-time,Married,Credit Card,Partnership,Email,4519.925900386304,0.259983095564661,Low Priority
+Lead_903,60,Male,Ontario,Student,Single,Chequing Account,Social Media,Email,6027.88293361916,0.346719769155897,Lower-Medium Priority
+Lead_904,52,Male,Quebec,Full-time,Divorced,Credit Card,Referral,Website,15098.72286182312,0.868468376517898,Very High Priority
+Lead_905,68,Female,British Columbia,Unemployed,Married,Credit Card,Partnership,Call,8591.562169315093,0.49418087325809207,Medium Priority
+Lead_906,61,Female,Alberta,Unemployed,Married,Mortgage,Online Ad,Website,12945.884592834836,0.7446385682960852,High Priority
+Lead_907,56,Male,Quebec,Full-time,Divorced,Credit Card,Online Ad,Call,7312.951995642853,0.420636076662341,Lower-Medium Priority
+Lead_908,67,Male,Nova Scotia,Self-employed,Single,Investment,Referral,Call,7531.196788716624,0.4331893702659681,Lower-Medium Priority
+Lead_909,56,Male,Manitoba,Full-time,Single,Investment,Online Ad,Website,16595.11968354539,0.954540114523874,Very High Priority
+Lead_910,54,Female,Alberta,Self-employed,Married,Credit Card,Online Ad,Email,9909.49169690877,0.569987292626735,Medium Priority
+Lead_911,68,Female,Manitoba,Part-time,Single,Chequing Account,Referral,Email,12780.232700078514,0.7351103829200255,High Priority
+Lead_912,63,Other,Manitoba,Unemployed,Single,Credit Card,Partnership,Call,7418.008817220759,0.4266788743289297,Lower-Medium Priority
+Lead_913,67,Female,Quebec,Part-time,Single,Credit Card,Referral,Email,6777.743517597642,0.38985124523783626,Lower-Medium Priority
+Lead_914,56,Male,Quebec,Full-time,Married,Credit Card,Partnership,Call,8099.83079501659,0.4658968155779731,Medium Priority
+Lead_915,67,Female,Quebec,Part-time,Married,Chequing Account,Partnership,Email,14021.4939752211,0.8065068960107661,Very High Priority
+Lead_916,68,Male,Ontario,Student,Single,Mortgage,Partnership,Website,10462.874225631784,0.6018174832138226,High Priority
+Lead_917,59,Female,Alberta,Full-time,Married,Credit Card,Social Media,Call,8541.500711649216,0.49130137190800544,Medium Priority
+Lead_918,52,Female,Quebec,Student,Single,Mortgage,Partnership,Website,17356.47798699366,0.9983329316909482,Very High Priority
+Lead_919,54,Male,British Columbia,Student,Divorced,Credit Card,Branch Walk-in,Email,6358.679823312449,0.36574698360166313,Lower-Medium Priority
+Lead_920,61,Male,Quebec,Full-time,Single,Investment,Online Ad,Email,5958.28745741472,0.34271668420722984,Lower-Medium Priority
+Lead_921,64,Male,Ontario,Student,Divorced,Chequing Account,Online Ad,Call,15317.330511841457,0.8810425414087485,Very High Priority
+Lead_922,65,Male,Manitoba,Part-time,Single,Chequing Account,Online Ad,Call,9854.566030416503,0.5668280052589064,Medium Priority
+Lead_923,64,Male,Alberta,Self-employed,Married,Chequing Account,Branch Walk-in,Website,15763.82469794076,0.906724586471434,Very High Priority
+Lead_924,67,Male,British Columbia,Full-time,Divorced,Chequing Account,Partnership,Call,14760.234067121253,0.8489987288732272,Very High Priority
+Lead_925,55,Female,British Columbia,Full-time,Widowed,Chequing Account,Branch Walk-in,Email,15032.907156088311,0.8646827014225947,Very High Priority
+Lead_926,53,Male,Ontario,Full-time,Divorced,Investment,Social Media,Website,5516.09383004202,0.31728200438792237,Lower-Medium Priority
+Lead_927,67,Female,Quebec,Student,Married,Credit Card,Referral,Email,5869.852094554506,0.3376299416586811,Lower-Medium Priority
+Lead_928,55,Female,Ontario,Self-employed,Single,Chequing Account,Branch Walk-in,Call,16353.99590798151,0.9406708372465679,Very High Priority
+Lead_929,67,Female,Ontario,Student,Married,Chequing Account,Referral,Branch,14289.58708502681,0.8219274312414184,Very High Priority
+Lead_930,56,Male,Alberta,Student,Married,Chequing Account,Social Media,Email,17327.297602382023,0.9966544956085219,Very High Priority
+Lead_931,68,Male,Nova Scotia,Student,Single,Credit Card,Partnership,Website,14117.63640758997,0.8120369440100571,Very High Priority
+Lead_932,63,Male,Ontario,Part-time,Married,Credit Card,Branch Walk-in,Call,13666.294315562061,0.7860760506613371,Very High Priority
+Lead_933,63,Male,Ontario,Student,Single,Chequing Account,Online Ad,Website,12062.902776703306,0.6938500485405817,High Priority
+Lead_934,66,Other,Ontario,Student,Single,Mortgage,Online Ad,Call,9851.161324567753,0.5666321688700909,Medium Priority
+Lead_935,65,Male,Ontario,Self-employed,Married,Investment,Referral,Branch,12111.5530618899,0.6966483801994775,High Priority
+Lead_936,52,Female,Manitoba,Full-time,Single,Investment,Online Ad,Website,10358.553149468615,0.5958170051282815,Medium Priority
+Lead_937,66,Female,Alberta,Full-time,Married,Chequing Account,Social Media,Call,6797.34162199644,0.39097851501196323,Lower-Medium Priority
+Lead_938,65,Female,Ontario,Part-time,Divorced,Credit Card,Social Media,Email,5489.1313859225975,0.31573114274977965,Lower-Medium Priority
+Lead_939,53,Female,Alberta,Full-time,Single,Mortgage,Branch Walk-in,Call,11842.873610470206,0.6811941189938376,High Priority
+Lead_940,55,Female,Manitoba,Full-time,Married,Chequing Account,Social Media,Call,7644.172094790271,0.4396876338310592,Lower-Medium Priority
+Lead_941,66,Male,Ontario,Full-time,Married,Mortgage,Online Ad,Email,13465.443264063371,0.7745232333659068,Very High Priority
+Lead_942,59,Female,Alberta,Part-time,Single,Credit Card,Online Ad,Email,9362.44531522198,0.538521552952502,Medium Priority
+Lead_943,57,Male,Quebec,Full-time,Married,Chequing Account,Referral,Email,17356.47798699366,0.9983329316909482,Very High Priority
+Lead_944,55,Female,Quebec,Part-time,Married,Investment,Branch Walk-in,Website,6318.252029857221,0.3634216041328447,Lower-Medium Priority
+Lead_945,54,Male,Ontario,Full-time,Single,Chequing Account,Online Ad,Website,4457.506683902792,0.25639278424501805,Low Priority
+Lead_946,52,Male,British Columbia,Student,Married,Investment,Partnership,Website,13528.443172053761,0.7781469456701794,Very High Priority
+Lead_947,56,Female,Ontario,Self-employed,Married,Credit Card,Referral,Email,10326.044596119693,0.5939471350201765,Medium Priority
+Lead_948,54,Female,Nova Scotia,Unemployed,Married,Chequing Account,Online Ad,Email,15916.804608375915,0.9155238879535085,Very High Priority
+Lead_949,63,Male,Ontario,Self-employed,Single,Investment,Partnership,Website,7054.047339889755,0.40574405512432404,Lower-Medium Priority
+Lead_950,60,Female,British Columbia,Full-time,Single,Chequing Account,Branch Walk-in,Website,9216.244299116386,0.5301121689095949,Medium Priority
+Lead_951,55,Female,Manitoba,Student,Single,Mortgage,Referral,Branch,7242.244191245593,0.41656901134469737,Lower-Medium Priority
+Lead_952,57,Male,Ontario,Self-employed,Married,Chequing Account,Online Ad,Email,10802.219415440926,0.62133639012865,High Priority
+Lead_953,64,Female,Ontario,Self-employed,Single,Investment,Online Ad,Email,10291.86539198996,0.591981170203624,Medium Priority
+Lead_954,61,Male,Quebec,Part-time,Married,Mortgage,Social Media,Call,17139.09432684301,0.9858291698734563,Very High Priority
+Lead_955,58,Male,Ontario,Self-employed,Single,Credit Card,Online Ad,Email,11688.219858267741,0.6722985392599199,High Priority
+Lead_956,56,Female,Ontario,Unknown,Single,Mortgage,Social Media,Call,6312.050762250104,0.3630649113939692,Lower-Medium Priority
+Lead_957,67,Male,Manitoba,Unemployed,Married,Chequing Account,Referral,Email,10339.773962273739,0.5947368389205357,Medium Priority
+Lead_958,63,Female,Alberta,Part-time,Married,Credit Card,Online Ad,Call,14858.390500022095,0.8546446208275543,Very High Priority
+Lead_959,55,Male,Quebec,Student,Married,Chequing Account,Partnership,Email,14088.990936639259,0.8103892758013732,Very High Priority
+Lead_960,58,Female,Alberta,Part-time,Single,Credit Card,Partnership,Email,8755.535575390573,0.5036125132100083,Medium Priority
+Lead_961,58,Male,British Columbia,Full-time,Married,Chequing Account,Partnership,Call,11587.220936043257,0.6664891492328905,High Priority
+Lead_962,68,Male,Quebec,Full-time,Married,Credit Card,Online Ad,Website,8472.611673253317,0.4873389207866037,Medium Priority
+Lead_963,67,Male,Ontario,Full-time,Married,Chequing Account,Online Ad,Branch,9645.52000177237,0.5548038183938616,Medium Priority
+Lead_964,53,Female,Alberta,Full-time,Single,Investment,Partnership,Email,10963.588018760673,0.6306182035792706,High Priority
+Lead_965,53,Male,Ontario,Self-employed,Single,Investment,Online Ad,Call,14313.535230573847,0.8233049124545108,Very High Priority
+Lead_966,61,Male,Ontario,Full-time,Single,Chequing Account,Referral,Email,15511.28145758269,0.8921984692652626,Very High Priority
+Lead_967,54,Male,Alberta,Self-employed,Single,Chequing Account,Partnership,Email,14309.705994463333,0.8230846573707772,Very High Priority
+Lead_968,67,Female,Quebec,Part-time,Married,Mortgage,Online Ad,Call,9393.564958534993,0.5403115338901748,Medium Priority
+Lead_969,59,Male,British Columbia,Full-time,Single,Credit Card,Branch Walk-in,Branch,6664.754152994106,0.3833521730355684,Lower-Medium Priority
+Lead_970,64,Male,Ontario,Self-employed,Single,Chequing Account,Branch Walk-in,Email,17048.71603296136,0.9806306712402829,Very High Priority
+Lead_971,54,Other,Ontario,Full-time,Married,Mortgage,Referral,Call,16880.73363302628,0.970968436659895,Very High Priority
+Lead_972,67,Female,Ontario,Unemployed,Married,Credit Card,Referral,Website,10467.330896118468,0.6020738279005664,High Priority
+Lead_973,53,Female,Ontario,Full-time,Single,Mortgage,Branch Walk-in,Email,16131.85167623639,0.927893250555159,Very High Priority
+Lead_974,54,Male,Quebec,Full-time,Widowed,Chequing Account,Branch Walk-in,Email,16834.522938175156,0.9683104285950809,Very High Priority
+Lead_975,58,Female,Ontario,Self-employed,Married,Investment,Referral,Call,7568.105415027226,0.4353123296092727,Lower-Medium Priority
+Lead_976,65,Male,Alberta,Full-time,Single,Mortgage,Referral,Branch,13689.600095722728,0.7874165834497623,Very High Priority
+Lead_977,65,Female,Ontario,Unemployed,Married,Credit Card,Social Media,Call,6333.457448161521,0.3642962095594004,Lower-Medium Priority
+Lead_978,64,Female,Alberta,Unemployed,Single,Credit Card,Branch Walk-in,Email,10897.658850415986,0.6268260021910154,High Priority
+Lead_979,61,Female,British Columbia,Student,Single,Credit Card,Branch Walk-in,Call,10171.59030247621,0.5850630280083218,Medium Priority
+Lead_980,59,Female,Ontario,Full-time,Single,Chequing Account,Branch Walk-in,Email,14023.777276608456,0.8066382299697457,Very High Priority
+Lead_981,55,Male,Ontario,Full-time,Single,Mortgage,Referral,Email,15184.242612426508,0.8733874150118446,Very High Priority
+Lead_982,60,Female,Ontario,Self-employed,Single,Chequing Account,Referral,Email,5361.554910093993,0.30839302972798965,Lower-Medium Priority
+Lead_983,61,Male,Ontario,Full-time,Married,Credit Card,Online Ad,Website,10255.364721958571,0.5898816762309166,Medium Priority
+Lead_984,67,Female,Alberta,Full-time,Married,Credit Card,Social Media,Branch,16353.99590798151,0.9406708372465679,Very High Priority
+Lead_985,67,Male,British Columbia,Full-time,Married,Credit Card,Online Ad,Email,7650.941091969855,0.44007698199282136,Lower-Medium Priority
+Lead_986,68,Female,British Columbia,Part-time,Single,Credit Card,Online Ad,Email,7087.0218831928305,0.40764072866094814,Lower-Medium Priority
+Lead_987,65,Male,British Columbia,Part-time,Married,Investment,Partnership,Website,11707.460129184405,0.6734052266930013,High Priority
+Lead_988,68,Female,British Columbia,Self-employed,Married,Mortgage,Partnership,Branch,5065.7234374584605,0.2913770025372198,Low Priority
+Lead_989,66,Female,Ontario,Student,Widowed,Chequing Account,Online Ad,Branch,7199.824403988435,0.4141290537331428,Lower-Medium Priority
+Lead_990,62,Other,Unknown,Full-time,Married,Credit Card,Online Ad,Branch,7074.69520890794,0.40693170665279327,Lower-Medium Priority
+Lead_991,62,Male,Quebec,Full-time,Single,Mortgage,Branch Walk-in,Call,15702.02534915408,0.9031699295244986,Very High Priority
+Lead_992,66,Other,Quebec,Part-time,Single,Investment,Partnership,Branch,4421.090654555477,0.25429815874748957,Low Priority
+Lead_993,68,Male,British Columbia,Full-time,Single,Mortgage,Online Ad,Email,16294.03063405982,0.9372216750514063,Very High Priority
+Lead_994,60,Female,British Columbia,Student,Married,Chequing Account,Partnership,Call,9738.558794094317,0.5601553471066201,Medium Priority
+Lead_995,60,Female,Ontario,Full-time,Married,Mortgage,Branch Walk-in,Email,16689.524657541748,0.9599702250870089,Very High Priority
+Lead_996,52,Male,Quebec,Self-employed,Married,Investment,Partnership,Email,5456.915053306322,0.31387808098153164,Lower-Medium Priority
+Lead_997,60,Male,Nova Scotia,Full-time,Married,Credit Card,Branch Walk-in,Email,6796.863965006316,0.3909510405033878,Lower-Medium Priority
+Lead_998,64,Female,Quebec,Full-time,Married,Mortgage,Branch Walk-in,Website,15021.790031276352,0.8640432518860116,Very High Priority
+Lead_999,57,Female,Alberta,Full-time,Married,Investment,Referral,Email,4892.917030080685,0.28143729429562186,Low Priority
