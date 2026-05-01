@@ -120,6 +120,19 @@ Advanced analytics dashboard
 Cloud deployment
 Real-time data integration
 
+## 📸 Screenshots
+
+### 🖥️ Dashboard UI
+![Dashboard](assets/FinalOutput1.jpeg)
+![Dashboard](assets/FinalOutput2.jpeg)
+![Dashboard](assets/FinalOutput3.jpeg)
+
+### 📊 API Response (Swagger)
+![API](assets/APIResponse.jpeg)
+
+### 📊 Processed Leads with CLTV and Priority
+![data](assets/CLTVCalculatedLeads.jpeg)
+
 
 👨‍💻 Author
 Bikesh Chipalu
