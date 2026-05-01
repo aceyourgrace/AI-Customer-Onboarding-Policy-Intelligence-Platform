@@ -1,0 +1,97 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lead Intelligence Dashboard</title>
+    <style>
+        body {
+            font-family: Arial;
+            background: #0f172a;
+            color: white;
+            display: flex;
+            justify-content: center;
+            padding-top: 60px;
+        }
+
+        .container {
+            width: 500px;
+            background: #1e293b;
+            padding: 25px;
+            border-radius: 12px;
+        }
+
+        input {
+            width: 100%;
+            padding: 10px;
+            margin-top: 10px;
+            border-radius: 6px;
+            border: none;
+        }
+
+        button {
+            margin-top: 10px;
+            width: 100%;
+            padding: 10px;
+            background: #3b82f6;
+            border: none;
+            color: white;
+            border-radius: 6px;
+            cursor: pointer;
+        }
+
+        .card {
+            margin-top: 20px;
+            background: #334155;
+            padding: 15px;
+            border-radius: 8px;
+        }
+
+        ul {
+            padding-left: 18px;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+    <h2>📊 Lead Intelligence Dashboard</h2>
+
+    <input id="query" placeholder="Enter Lead ID (e.g. Evaluate Lead_006)" />
+    <button onclick="sendRequest()">Analyze</button>
+
+    <div class="card" id="output"></div>
+</div>
+
+<script>
+async function sendRequest() {
+    const query = document.getElementById("query").value;
+
+    const response = await fetch("http://127.0.0.1:8000/evaluate", {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json"
+        },
+        body: JSON.stringify({ query: query })
+    });
+
+    const data = await response.json();
+
+    document.getElementById("output").innerHTML = `
+        <h3>Lead: ${data.lead_id}</h3>
+        <p><b>Priority:</b> ${data.priority}</p>
+        <p><b>CLTV:</b> $${data.cltv}</p>
+
+        <h4>Action</h4>
+        <p>${data.ai_strategy.action}</p>
+
+        <h4>Steps</h4>
+        <ul>
+            ${data.ai_strategy.steps.map(s => `<li>${s}</li>`).join("")}
+        </ul>
+    `;
+}
+</script>
+
+</body>
+</html>

@@ -25,3 +25,23 @@ models/*.pkl
 # OS-specific
 .DS_Store
 Thumbs.db
+
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Data
+data/raw/
+data/processed/
+
+# Models (IMPORTANT — don't push huge files)
+models/
+*.bin
+*.pt
+*.safetensors
+
+# System
+.DS_Store
+.env
