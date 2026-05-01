@@ -120,6 +120,23 @@ Advanced analytics dashboard
 Cloud deployment
 Real-time data integration
 
+
+## 📘 Detailed Documentation
+
+Full step-by-step project documentation (data pipeline, ML modeling, decision engine, API, and UI integration) is available here:
+
+🔗 [View Confluence Documentation](https://aceyourgrace.atlassian.net/wiki/spaces/ACOPIP/overview?homepageId=1212581)
+
+Suggested reading order:
+- Project Overview
+- Data Processing & Feature Engineering
+- CLTV Prediction Model
+- Lead Priority Model
+- Decision Engine (Business Logic)
+- FastAPI Backend
+- Frontend Dashboard
+- Final System Summary
+
 ## 📸 Screenshots
 
 ### 🖥️ Dashboard UI
