@@ -125,7 +125,7 @@ Real-time data integration
 
 Full step-by-step project documentation (data pipeline, ML modeling, decision engine, API, and UI integration) is available here:
 
-🔗 [View Confluence Documentation](https://aceyourgrace.atlassian.net/wiki/spaces/ACOPIP/overview?homepageId=1212581)
+📘 [View Full Confluence Documentation](https://aceyourgrace.atlassian.net/wiki/spaces/ACOPIP/pages/1310721/Predicting+Lead+Conversion+Potential+and+Customer+Value+for+Banks)
 
 Suggested reading order:
 - Project Overview
